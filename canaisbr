@@ -1,35 +1,70 @@
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Touch
-https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Premium
 https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Pipoca
 https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Touch
+https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Fun
 https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Cult
-https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Action
 https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Cult
+https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO
 https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO 2
 https://mycdn.delivery/hbo2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Family
 https://mycdn.delivery/hbofamily/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Plus
 https://mycdn.delivery/hboplus/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Signature
 https://mycdn.delivery/hbosignature/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Xtreme
 https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Canal Brasil
+https://mycdn.delivery/canalbrasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",WB TV
+https://mycdn.delivery/warnerchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Sony Channel
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Lifetime
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",FX
+https://mycdn.delivery/fx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Star Channel
+https://mycdn.delivery/starchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",AXN
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TNT
+https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Cinemax
+https://mycdn.delivery/cinemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",AMC
+https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Space
+https://mycdn.delivery/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Paramount
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",A&E
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Cinecanal
+https://mycdn.delivery/cinecanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Arte1
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",History
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",History 2
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282-4-main.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery World
+https://mycdn.delivery/discoveryworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery Science
+https://mycdn.delivery/discoveryscience/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery Channel
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery Theater
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",NatGeo
+https://liveplay-cdn.com/natgeo/tracks-v1a1/mono.m3u8
+
