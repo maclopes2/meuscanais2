@@ -2,3 +2,5 @@
 https://mycdn.delivery/premiere2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",PFC
 https://mycdn.delivery/pfc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Combate
+https://mycdn.delivery/combate/tracks-v1a1/mono.m3u8
