@@ -59,5 +59,15 @@ https://mycdn.delivery/discoveryscience/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery Theater
 https://mycdn.delivery/discoverytheater/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery Turbo
+https://mycdn.delivery/discoveryturbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Discovery ID
+https://mycdn.delivery/discoveryid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",Home & Health
+https://mycdn.delivery/discoveryheh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Documentários",NatGeo
 https://mycdn.delivery/nationalgeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Musical",Canal Bis
+https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Notícias",Globo News
+https://mycdn.delivery/globonews/tracks-v1a1/mono.m3u8
