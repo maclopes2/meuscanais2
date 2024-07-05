@@ -25,7 +25,7 @@ https://mycdn.delivery/hbosignature/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Canal Brasil
 https://mycdn.delivery/canalbrasil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",WB TV
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Warner TV
 https://mycdn.delivery/warnerchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",Lifetime
 https://mycdn.delivery/lifetime/tracks-v1a1/mono.m3u8
