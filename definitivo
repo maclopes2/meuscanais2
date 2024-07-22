@@ -29,8 +29,6 @@ http://game.shiuk.re:80/951269292/51269292/299
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3205
 #EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="Odisseia (POR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Documentários" tvg-shift="-3",Odisseia (POR)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
-#EXTINF:-1 tvg-id="CanalSmithsonian.br" tvg-name="Smithsonian Channel Pluto (BRA)" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1506453010727-3K82IMBN91KM2UKQW3TX/smithsonian-channel.png" group-title="Documentários" tvg-shift="-3",Smithsonian Channel Pluto (BRA)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports (BRA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png" group-title="Esportes" tvg-shift="-3",Band Sports (BRA)
 http://game.shiuk.re:80/951269292/51269292/557
 #EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="Bein Sports 1 (FRA)" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=28-06-2024" group-title="Esportes" tvg-shift="-3",Bein Sports 1 (FRA)
