@@ -101,6 +101,12 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49712
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3130
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS 2 (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",FS 2 (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goat 1 (BRA)" tvg-logo="https://canalgoat.com.br/img/logo.png" group-title="Esportes" tvg-shift="-3",Goat 1 (BRA)
+http://game.shiuk.re:80/951269292/51269292/920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goat 2 (BRA)" tvg-logo="https://canalgoat.com.br/img/logo.png" group-title="Esportes" tvg-shift="-3",Goat 2 (BRA)
+http://game.shiuk.re:80/951269292/51269292/921
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goat 3 (BRA)" tvg-logo="https://canalgoat.com.br/img/logo.png" group-title="Esportes" tvg-shift="-3",Goat 3 (BRA)
+http://game.shiuk.re:80/951269292/51269292/922
 #EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="Gol TV (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Gol TV (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29575
 #EXTINF:-1 tvg-id="MagentaSport.de" tvg-name="Magenta Sport 1 (ALE)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120209_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Magenta Sport 1 (ALE)
