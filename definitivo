@@ -73,6 +73,8 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49721
 http://game.shiuk.re:80/951269292/51269292/36
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN (EUA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png" group-title="Esportes" tvg-shift="-3",ESPN (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3136
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN (UK)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png" group-title="Esportes" tvg-shift="-3",ESPN (UK)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2940
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 (BRA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png" group-title="Esportes" tvg-shift="-3",ESPN 2 (BRA)
 http://game.shiuk.re:80/951269292/51269292/563
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 (BRA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png" group-title="Esportes" tvg-shift="-3",ESPN 3 (BRA)
@@ -124,7 +126,7 @@ http://game.shiuk.re:80/951269292/51269292/943
 #EXTINF:-1 tvg-id="PFC(src01).pt" tvg-name="PFC (POR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPFC.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Esportes" tvg-shift="-3",PFC (POR)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3201
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Premier_Sports_1_2021.svg/revision/latest/scale-to-width-down/300?cb=20210709144613" group-title="Esportes" tvg-shift="-3",Premier Sports 1 (UK)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28862
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2868
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Premier_Sports_2_2021.svg/revision/latest/scale-to-width-down/300?cb=20210709144618" group-title="Esportes" tvg-shift="-3",Premier Sports 2 (UK)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28861
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 (BRA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere@3x.png" group-title="Esportes" tvg-shift="-3",Premiere 1 (BRA)
@@ -163,6 +165,8 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29070
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29069
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg/revision/latest/scale-to-width-down/300?cb=20210704201429" group-title="Esportes" tvg-shift="-3",Sky Sports Action (UK)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2880
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924153122" group-title="Esportes" tvg-shift="-3",Sky Sports Cricket (UK)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2879
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sport_F1_2020.svg/revision/latest/scale-to-width-down/220?cb=20220613171506" group-title="Esportes" tvg-shift="-3",Sky Sports F1 (UK)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2876
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152526" group-title="Esportes" tvg-shift="-3",Sky Sports Football (UK)
@@ -171,8 +175,10 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2870
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2881
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="Esportes" tvg-shift="-3",Sky Sports Premier League (UK)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2877
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="Sport TV + (POR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sporttv-mais.svg/revision/latest/scale-to-width-down/250?cb=20231020154804" group-title="Esportes" tvg-shift="-3",Sport TV + (POR)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3187
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="Sport TV 1 (POR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Esportes" tvg-shift="-3",Sport TV 1 (POR)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29392
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3192
 #EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Sport TV 2 (POR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Esportes" tvg-shift="-3",Sport TV 2 (POR)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3191
 #EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Sport TV 3 (POR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Esportes" tvg-shift="-3",Sport TV 3 (POR)
