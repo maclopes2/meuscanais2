@@ -1,22 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="USA FOX",US036:FOX-HD
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3132
-#EXTINF:-1 tvg-id="fox.news.us" tvg-name="US037:FOX-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" group-title="USA FOX",US037:FOX-News
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3131
-#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="USA FOX",US038:FOX-Sports1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3130
-#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="USA FOX",US039:FOX-Sports2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3129
-#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US090:Fox Sports Yes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" group-title="USA FOX",US090:Fox Sports Yes
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3078
-#EXTINF:-1 tvg-id="" tvg-name="US099:Fox Sports NetBase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US099Fox_Sports_NetBase.png" group-title="USA FOX",US099:Fox Sports NetBase
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30091
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US100:Fox Sports Sportstime Ohio" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US100Fox_Sports_SportsTime_Ohio.png" group-title="USA FOX",US100:Fox Sports Sportstime Ohio
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30090
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US101:Fox Sports Yes Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US101Fox_Sports_YES_Network.png" group-title="USA FOX",US101:Fox Sports Yes Network
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30089
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US102:Fox Sports San Diego" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US102Fox_Sports_San_Diego.png" group-title="USA FOX",US102:Fox Sports San Diego
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30088
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US103:Fox Sports Sun" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US103Fox_Sports_Sun.png" group-title="USA FOX",US103:Fox Sports Sun
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30087
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US104:Fox Sports Detroit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US104Fox_Sports_Detroit.png" group-title="USA FOX",US104:Fox Sports Detroit
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="USA CBS",US088:CBS Sports Network
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3080
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US165:NBC Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US165NBC_Sports_Network.png" group-title="USA NBC",US165:NBC Sports Network
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30025
+#EXTINF:-1 tvg-id="fox.sports.racing.ca" tvg-name="CA134:FOX Sports Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA134FOXWEST.png" group-title="CA Sports",CA134:FOX Sports Racing
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30180
+#EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30178
+#EXTINF:-1 tvg-id="golf.canada.ca" tvg-name="CA139:GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA139GOLF.png" group-title="CA Sports",CA139:GOLF HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30175
+#EXTINF:-1 tvg-id="super.sports.pak.1.ca" tvg-name="CA089:Super Sports CH 267" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA089" group-title="CA Sports",CA089:Super Sports CH 267
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30225
+#EXTINF:-1 tvg-id="super.sports.pak.4.ca" tvg-name="CA163:Super Sports CH 474" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA163" group-title="CA Sports",CA163:Super Sports CH 474
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30151
+#EXTINF:-1 tvg-id="super.sports.pak.3.ca" tvg-name="CA126:Super Sports CH 477" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA126" group-title="CA Sports",CA126:Super Sports CH 477
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30188
+#EXTINF:-1 tvg-id="super.sports.pak.5.ca" tvg-name="CA180:Super Sports CH 476" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA180" group-title="CA Sports",CA180:Super Sports CH 476
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30134
