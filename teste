@@ -1,19 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="USA CBS",US088:CBS Sports Network
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3080
-#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US165:NBC Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US165NBC_Sports_Network.png" group-title="USA NBC",US165:NBC Sports Network
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30025
-#EXTINF:-1 tvg-id="fox.sports.racing.ca" tvg-name="CA134:FOX Sports Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA134FOXWEST.png" group-title="CA Sports",CA134:FOX Sports Racing
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30180
-#EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30178
-#EXTINF:-1 tvg-id="golf.canada.ca" tvg-name="CA139:GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA139GOLF.png" group-title="CA Sports",CA139:GOLF HD
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30175
-#EXTINF:-1 tvg-id="super.sports.pak.1.ca" tvg-name="CA089:Super Sports CH 267" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA089" group-title="CA Sports",CA089:Super Sports CH 267
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30225
-#EXTINF:-1 tvg-id="super.sports.pak.4.ca" tvg-name="CA163:Super Sports CH 474" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA163" group-title="CA Sports",CA163:Super Sports CH 474
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30151
-#EXTINF:-1 tvg-id="super.sports.pak.3.ca" tvg-name="CA126:Super Sports CH 477" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA126" group-title="CA Sports",CA126:Super Sports CH 477
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30188
-#EXTINF:-1 tvg-id="super.sports.pak.5.ca" tvg-name="CA180:Super Sports CH 476" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA180" group-title="CA Sports",CA180:Super Sports CH 476
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30134
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:AMAZON PRIME 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="FR Sports",FR019:AMAZON PRIME 1 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2847
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:AMAZON PRIME 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="FR Sports",FR020:AMAZON PRIME 2 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="FR Sports",FR021:AMAZON PRIME 3 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2845
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="FR Sports",FR022:AMAZON PRIME 4 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2844
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="FR Sports",FR023:AMAZON PRIME 5 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2843
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR024:AMAZON PRIME 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="FR Sports",FR024:AMAZON PRIME 6 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2842
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="FR Sports",FR025:AMAZON PRIME 7 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2841
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR036:BEIN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="FR Sports",FR036:BEIN SPORTS 1 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2830
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR037:BEIN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037" group-title="FR Sports",FR037:BEIN SPORTS 2 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2829
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR038:BEIN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="FR Sports",FR038:BEIN SPORTS 3 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2828
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="FR Sports",FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2827
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="FR Sports",FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2826
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="FR Sports",FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2825
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="FR Sports",FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2824
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="FR Sports",FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2823
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="FR Sports",FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2822
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="FR Sports",FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2821
+#EXTINF:-1 tvg-id="canal.plus.motogp.fr" tvg-name="FR073:CANAL+ MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="FR Sports",FR073:CANAL+ MOTOGP
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2793
+#EXTINF:-1 tvg-id="canal.plus.sport360.fr" tvg-name="FR077:CANAL+ SPORT 360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="FR Sports",FR077:CANAL+ SPORT 360
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2789
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR076:CANAL+ SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="FR Sports",FR076:CANAL+ SPORT FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2790
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR091:CANAL+ SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="FR Sports",FR091:CANAL+ SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2775
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR157:CANAL+ SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="FR Sports",FR157:CANAL+ SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28146
+#EXTINF:-1 tvg-id="tvm.fr" tvg-name="FR207:CANAL+ SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR207:CANAL+ SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28090
+#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="FR221:CANAL+ SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR221:CANAL+ SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28076
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="FR222:CANAL+ SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR222:CANAL+ SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28075
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="FR112:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="FR Sports",FR112:EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28192
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR113:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="FR Sports",FR113:EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28191
+#EXTINF:-1 tvg-id="eurosport.360.2.fr" tvg-name="FR114:EUROSPORT 360 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="FR Sports",FR114:EUROSPORT 360 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28190
+#EXTINF:-1 tvg-id="extreme.sports.fr" tvg-name="FR115:EXTREME SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="FR Sports",FR115:EXTREME SPORTS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28189
+#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="FR125:GOLF+ CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="FR Sports",FR125:GOLF+ CHANNEL
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28179
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="FR126:GOLF CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131Ligue1Prime.png" group-title="FR Sports",FR126:GOLF CHANNEL
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28178
+#EXTINF:-1 tvg-id="sundance.fr" tvg-name="FR189:CANAL+ F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="FR Sports",FR189:CANAL+ F1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28111
+#EXTINF:-1 tvg-id="infosport.plus.fr" tvg-name="FR131:INFOSPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137" group-title="FR Sports",FR131:INFOSPORT+
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28172
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="FR Sports",FR169:RMC SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28134
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="FR Sports",FR170:RMC SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28133
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="FR Sports",FR171:RMC SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28132
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178Eurosport3604.png" group-title="FR Sports",FR172:RMC SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28131
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR173:RMC SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28130
+#EXTINF:-1 tvg-id="rmc.sport.live.6.fr" tvg-name="FR174:RMC SPORT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180" group-title="FR Sports",FR174:RMC SPORT 6
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28129
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR175:RMC SPORT 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="FR Sports",FR175:RMC SPORT 7
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28128
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR176:RMC SPORT 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="FR Sports",FR176:RMC SPORT 8
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28127
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR177:RMC SPORT 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="FR Sports",FR177:RMC SPORT 9
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28126
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR178:RMC SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="FR Sports",FR178:RMC SPORT 10
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28125
+#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="FR213:FOOT+ 24/24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="FR Sports",FR213:FOOT+ 24/24 HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28084
