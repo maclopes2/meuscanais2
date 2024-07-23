@@ -197,8 +197,6 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2482
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65738
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR059:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades",BR059:Lifetime HD
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2473
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="BR273:REDE VIDA HD" tvg-logo="" group-title="BR Variedades",BR273:REDE VIDA HD
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/49959
 #EXTINF:-1 tvg-id="viva.br" tvg-name="BR264:Viva FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades",BR264:Viva FHD
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65819
 #EXTINF:-1 tvg-id="viva.br" tvg-name="BR035:VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades",BR035:VIVA HD
@@ -263,3 +261,93 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65731
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65732
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="BR045:Globo News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" group-title="BR Noticias",BR045:Globo News HD
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2487
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="BR128:comedy central FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR128comedycentralFHD.png" group-title="BR Variedades",BR128:comedy central FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65683
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="BR016:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" group-title="BR Variedades",BR016:Comedy Central HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2516
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="BR129:comedy central SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR129comedycentralSD.png" group-title="BR Variedades",BR129:comedy central SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65684
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="BR134:Discovery Home & Health FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR134DiscoveryHomeHealthFHD.png" group-title="BR Variedades",BR134:Discovery Home & Health FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65689
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="BR020:Discovery Home Health HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" group-title="BR Variedades",BR020:Discovery Home Health HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2512
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="BR135:Discovery Home & Health SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR135DiscoveryHomeHealthSD.png" group-title="BR Variedades",BR135:Discovery Home & Health SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65690
+#EXTINF:-1 tvg-id="e.br" tvg-name="BR029:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" group-title="BR Variedades",BR029:E! HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2503
+#EXTINF:-1 tvg-id="e.br" tvg-name="BR153:E! SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR153E!SD.png" group-title="BR Variedades",BR153:E! SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65708
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="BR160:Food Network FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR160FoodNetworkFHD.png" group-title="BR Variedades",BR160:Food Network FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65715
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="BR037:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR037FoodNetworkBR.png" group-title="BR Variedades",BR037:Food Network HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2495
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="BR161:Food Network SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR161FoodNetworkSD.png" group-title="BR Variedades",BR161:Food Network SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65716
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="BR039:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" group-title="BR Variedades",BR039:Fox Life HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2493
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="BR163:Fox Life SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR163FoxLifeSD.png" group-title="BR Variedades",BR163:Fox Life SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65718
+#EXTINF:-1 tvg-id="mais.globosat.br" tvg-name="BR060:Mais Globosat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR060MaisGlobosat.png" group-title="BR Variedades",BR060:Mais Globosat
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2472
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR050:GNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" group-title="BR Variedades",BR050:GNT HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2482
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR183:Gnt SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR183GntSD.png" group-title="BR Variedades",BR183:Gnt SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65738
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR059:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades",BR059:Lifetime HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2473
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="BR273:REDE VIDA HD" tvg-logo="" group-title="BR Variedades",BR273:REDE VIDA HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/49959
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR264:Viva FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades",BR264:Viva FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65819
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR035:VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades",BR035:VIVA HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2497
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR265:Viva SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR265VivaSD.png" group-title="BR Variedades",BR265:Viva SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65820
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="BR108:Animal Planet FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" group-title="BR Documentarios",BR108:Animal Planet FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65663
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="BR003:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR003AnimalPlanetBR.png" group-title="BR Documentarios",BR003:Animal Planet HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2529
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="BR018:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR018DiscoveryBR.png" group-title="BR Documentarios",BR018:Discovery HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2514
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="BR019:Discovery Civilization HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" group-title="BR Documentarios",BR019:Discovery Civilization HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2513
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="BR138:Discovery Science FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR138DiscoveryScienceFHD.png" group-title="BR Documentarios",BR138:Discovery Science FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65693
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="BR022:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR022DiscoveryScienceBR.png" group-title="BR Documentarios",BR022:Discovery Science HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2510
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="BR139:Discovery Science SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR139DiscoveryScienceSD.png" group-title="BR Documentarios",BR139:Discovery Science SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65694
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="BR023:Discovery Theater HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" group-title="BR Documentarios",BR023:Discovery Theater HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2509
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="BR024:Discovery Turbo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR024DiscoveryTurbo.png" group-title="BR Documentarios",BR024:Discovery Turbo HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2508
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="BR144:Discovery Turbo SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR144DiscoveryTurboSD.png" group-title="BR Documentarios",BR144:Discovery Turbo SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65699
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="BR145:Discovery World FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" group-title="BR Documentarios",BR145:Discovery World FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65700
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="BR025:Discovery World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="BR Documentarios",BR025:Discovery World HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2507
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="BR146:Discovery World SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR146DiscoveryWorldSD.png" group-title="BR Documentarios",BR146:Discovery World SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65701
+#EXTINF:-1 tvg-id="investigation.discovery.br" tvg-name="BR058:Investigacao Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" group-title="BR Documentarios",BR058:Investigacao Discovery HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2474
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="BR201:Investigacao Discovery SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR201InvestigacaoDiscoverySD.png" group-title="BR Documentarios",BR201:Investigacao Discovery SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65756
+#EXTINF:-1 tvg-id="h2.br" tvg-name="BR184:H2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR184H2FHD.png" group-title="BR Documentarios",BR184:H2 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65739
+#EXTINF:-1 tvg-id="h2.br" tvg-name="BR051:H2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR051H2BR.png" group-title="BR Documentarios",BR051:H2 HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2481
+#EXTINF:-1 tvg-id="h2.br" tvg-name="BR185:H2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR185H2SD.png" group-title="BR Documentarios",BR185:H2 SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65740
+#EXTINF:-1 tvg-id="history.br" tvg-name="BR198:History Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR198HistoryChannelFHD.png" group-title="BR Documentarios",BR198:History Channel FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65753
+#EXTINF:-1 tvg-id="history.br" tvg-name="BR057:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" group-title="BR Documentarios",BR057:History HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2475
+#EXTINF:-1 tvg-id="history.br" tvg-name="BR199:History Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR199HistoryChannelSD.png" group-title="BR Documentarios",BR199:History Channel SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65754
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="BR068:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR068NATGEOBR.png" group-title="BR Documentarios",BR068:NAT GEO HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2464
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="BR070:NAT GEO Wild HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR070NATGEOWildBR.png" group-title="BR Documentarios",BR070:NAT GEO Wild HD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2462
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR142:Discovery TLC SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR142DiscoveryTLCSD.png" group-title="BR Documentarios",BR142:Discovery TLC SD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65697
