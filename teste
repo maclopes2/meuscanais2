@@ -1,141 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="auto.motor.sport.ch.de" tvg-name="DE010:AUTO MOTOR SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE010CartoonNetworkDE.png" group-title="DE Sports",DE010:AUTO MOTOR SPORT
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2673
-#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sports",DE024:DAZN 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2659
-#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports",DE025:DAZN 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2658
-#EXTINF:-1 tvg-id="" tvg-name="DE026:DAZN 1 BAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE026" group-title="DE Sports",DE026:DAZN 1 BAR
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2657
-#EXTINF:-1 tvg-id="mtv.de" tvg-name="DE027:DAZN 2 BAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE027MTVDE.png" group-title="DE Sports",DE027:DAZN 2 BAR
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2656
-#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE028:DAZN 1 HEVC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE028N24.png" group-title="DE Sports",DE028:DAZN 1 HEVC
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2655
-#EXTINF:-1 tvg-id="n.de" tvg-name="DE029:DAZN 2 HEVC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE029NTV.png" group-title="DE Sports",DE029:DAZN 2 HEVC
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2654
-#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE043:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE043RTLNitro.png" group-title="DE Sports",DE043:EUROSPORT 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2640
-#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE044:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE044RTLPassion.png" group-title="DE Sports",DE044:EUROSPORT 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2639
-#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="DE045:EUROSPORT 2 XTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE045SAT1Gold.png" group-title="DE Sports",DE045:EUROSPORT 2 XTRA
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2638
-#EXTINF:-1 tvg-id="magenta.sport.de" tvg-name="DE062:MAGENTA SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="DE Sports",DE062:MAGENTA SPORT 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2621
-#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE063:MAGENTA SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE063SkyKrimi.png" group-title="DE Sports",DE063:MAGENTA SPORT 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2620
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE064:MAGENTA SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE064SkySport1.png" group-title="DE Sports",DE064:MAGENTA SPORT 3
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2619
-#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE065:MAGENTA SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE065SkySport2.png" group-title="DE Sports",DE065:MAGENTA SPORT 4
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2618
-#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE066:MAGENTA SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE066SkySportAustria.png" group-title="DE Sports",DE066:MAGENTA SPORT 5
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2617
-#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="DE067:MAGENTA SPORT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE067SkySportNews.png" group-title="DE Sports",DE067:MAGENTA SPORT 6
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2616
-#EXTINF:-1 tvg-id="universal.de" tvg-name="DE068:MAGENTA SPORT 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="DE Sports",DE068:MAGENTA SPORT 7
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2615
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE069:MAGENTA SPORT 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE069Sport1.png" group-title="DE Sports",DE069:MAGENTA SPORT 8
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2614
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE070:MAGENTA SPORT 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE070SportDigital.png" group-title="DE Sports",DE070:MAGENTA SPORT 9
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2613
-#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Sports",DE071:MAGENTA SPORT 10
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2612
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE072:MAGENTA SPORT 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE072SyfyDE.png" group-title="DE Sports",DE072:MAGENTA SPORT 11
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2611
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE073:MAGENTA SPORT 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE073TNTComedy.png" group-title="DE Sports",DE073:MAGENTA SPORT 12
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2610
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE074:MAGENTA SPORT 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE074TNTFilm.png" group-title="DE Sports",DE074:MAGENTA SPORT 13
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2609
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE075:MAGENTA SPORT 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE075TNTSeries.png" group-title="DE Sports",DE075:MAGENTA SPORT 14
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2608
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE076:MAGENTA SPORT 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE076VOX.png" group-title="DE Sports",DE076:MAGENTA SPORT 15
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2607
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE077:MAGENTA SPORT 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE077WDR.png" group-title="DE Sports",DE077:MAGENTA SPORT 16
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2606
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE078:MAGENTA SPORT 17" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE078ZDF.png" group-title="DE Sports",DE078:MAGENTA SPORT 17
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2605
-#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE079:MAGENTA SPORT 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE079SkySport9HD(DuringGamesonly).png" group-title="DE Sports",DE079:MAGENTA SPORT 18
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29205
-#EXTINF:-1 tvg-id="orf.sport.plus.de" tvg-name="DE109:ORF SPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE109Classica.png" group-title="DE Sports",DE109:ORF SPORT+
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29175
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE182:SKY SPORT 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="DE Sports",DE182:SKY SPORT 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29100
-#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE183:SKY SPORT 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="DE Sports",DE183:SKY SPORT 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29099
-#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE184:SKY SPORT 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="DE Sports",DE184:SKY SPORT 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29098
-#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE185:SKY SPORT 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="DE Sports",DE185:SKY SPORT 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29097
-#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE186:SKY SPORT 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="DE Sports",DE186:SKY SPORT 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29096
-#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE187:SKY SPORT 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="DE Sports",DE187:SKY SPORT 6 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29095
-#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE188:SKY SPORT 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188" group-title="DE Sports",DE188:SKY SPORT 7 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29094
-#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE189:SKY SPORT 8 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189WeltDerWunder.png" group-title="DE Sports",DE189:SKY SPORT 8 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29093
-#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE190:SKY SPORT 9 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="DE Sports",DE190:SKY SPORT 9 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29092
-#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE191:SKY SPORT 10 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DE Sports",DE191:SKY SPORT 10 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29091
-#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29090
-#EXTINF:-1 tvg-id="sky.sport.austria.2.de" tvg-name="DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE193NDRHD.png" group-title="DE Sports",DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29089
-#EXTINF:-1 tvg-id="sky.sport.austria.3.de" tvg-name="DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE194" group-title="DE Sports",DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29088
-#EXTINF:-1 tvg-id="sky.sport.austria.4.de" tvg-name="DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE195N24Doku.png" group-title="DE Sports",DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29087
-#EXTINF:-1 tvg-id="sky.sport.austria.5.de" tvg-name="DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE196NickHD.png" group-title="DE Sports",DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29086
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE197NTVHD.png" group-title="DE Sports",DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29085
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE198OKDESSAUHD.png" group-title="DE Sports",DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29084
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE199" group-title="DE Sports",DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29083
-#EXTINF:-1 tvg-id="" tvg-name="DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE200OKMERSEBURGHD.png" group-title="DE Sports",DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29082
-#EXTINF:-1 tvg-id="" tvg-name="DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="DE Sports",DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29081
-#EXTINF:-1 tvg-id="" tvg-name="DE202:SKY SPORT BUNDESLIGA 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE202OKTOTV.png" group-title="DE Sports",DE202:SKY SPORT BUNDESLIGA 6 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29080
-#EXTINF:-1 tvg-id="" tvg-name="DE203:SKY SPORT BUNDESLIGA 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE203" group-title="DE Sports",DE203:SKY SPORT BUNDESLIGA 7 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29079
-#EXTINF:-1 tvg-id="" tvg-name="DE204:SKY SPORT BUNDESLIGA 8 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE204TelekomBasketball4FHD.png" group-title="DE Sports",DE204:SKY SPORT BUNDESLIGA 8 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29078
-#EXTINF:-1 tvg-id="one.de" tvg-name="DE205:SKY SPORT BUNDESLIGA 9 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE205TelekomBasketball5FHD.png" group-title="DE Sports",DE205:SKY SPORT BUNDESLIGA 9 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29077
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE206:SKY SPORT BUNDESLIGA 10 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE206PLANETHD.png" group-title="DE Sports",DE206:SKY SPORT BUNDESLIGA 10 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29076
-#EXTINF:-1 tvg-id="" tvg-name="DE207:SKY SPORTS F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE207POPCORNSELECT1FHD.png" group-title="DE Sports",DE207:SKY SPORTS F1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29075
-#EXTINF:-1 tvg-id="" tvg-name="DE208:SKY SPORT GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE208POPCORNSELECT2FHD.png" group-title="DE Sports",DE208:SKY SPORT GOLF
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29074
-#EXTINF:-1 tvg-id="" tvg-name="DE209:SKY SPORT MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE209POPCORNSELECT3FHD.png" group-title="DE Sports",DE209:SKY SPORT MIX
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29073
-#EXTINF:-1 tvg-id="" tvg-name="DE211:SKY SPORT PREMIER LEAGUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE211POPCORNSELECT5HD.png" group-title="DE Sports",DE211:SKY SPORT PREMIER LEAGUE
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29071
-#EXTINF:-1 tvg-id="" tvg-name="DE212:SKY SPORT TENNIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE212POPCORNSELECT6HD.png" group-title="DE Sports",DE212:SKY SPORT TENNIS
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29070
-#EXTINF:-1 tvg-id="" tvg-name="DE213:SKY SPORT TOP EVENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE213POPCORNSELECT7HD.png" group-title="DE Sports",DE213:SKY SPORT TOP EVENT
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29069
-#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE219:SPORT DIGITAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE219rbbHD.png" group-title="DE Ent",DE219:SPORT DIGITAL
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29063
-#EXTINF:-1 tvg-id="" tvg-name="DE220:SPORT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE220RFHHD.png" group-title="DE Ent",DE220:SPORT1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29062
-#EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221GOLDSTARTV.png" group-title="DE Ent",DE221:SPORT1+
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29061
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DE222:SPORTDIGITALL FUSSBALL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE222RNFHD.png" group-title="DE Sports",DE222:SPORTDIGITALL FUSSBALL
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29060
-#EXTINF:-1 tvg-id="" tvg-name="DE232:TELEKOM BUNDESLIGA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE232SkyCinemaWESTERN.png" group-title="DE Sports",DE232:TELEKOM BUNDESLIGA 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29050
-#EXTINF:-1 tvg-id="" tvg-name="DE233:TELEKOM BUNDESLIGA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DE Sports",DE233:TELEKOM BUNDESLIGA 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29049
-#EXTINF:-1 tvg-id="sky.sport.f1.de" tvg-name="DE234:TELEKOM BUNDESLIGA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE234SkyEUROSPORT1HD.png" group-title="DE Sports",DE234:TELEKOM BUNDESLIGA 3
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29048
-#EXTINF:-1 tvg-id="" tvg-name="DE235:TELEKOM BUNDESLIGA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE235KinoweltTVF.png" group-title="DE Sports",DE235:TELEKOM BUNDESLIGA 4
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29047
-#EXTINF:-1 tvg-id="" tvg-name="DE236:TRACE SPORT STARS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE236TelekomFussball3HD.png" group-title="DE Sports",DE236:TRACE SPORT STARS
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29046
-#EXTINF:-1 tvg-id="" tvg-name="DE239:UFC FIGHT PASS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE239TelekomFussball5HD.png" group-title="DE Sports",DE239:UFC FIGHT PASS
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29043
+#EXTINF:-1 tvg-id="zona.dazn.2.it" tvg-name="IT009:DAZN SPORT 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/" group-title="IT Sports",IT009:DAZN SPORT 2 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2763
+#EXTINF:-1 tvg-id="rai.sport.1.it" tvg-name="IT057:RAI SPORT 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT057Rai1.png" group-title="IT Sports",IT057:RAI SPORT 1 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2715
+#EXTINF:-1 tvg-id="rai.sport.1.dtt.it" tvg-name="IT058:RAI SPORT+ " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT058Rai2.png" group-title="IT Sports",IT058:RAI SPORT+ 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2714
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="IT084:SKY SPORT ARENA " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT084SuperTennis.png" group-title="IT Sports",IT084:SKY SPORT ARENA 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2688
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="IT085:SKY SPORT CALCIO " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT085SkyAtlantic.png" group-title="IT Sports",IT085:SKY SPORT CALCIO 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2687
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT086:SKY SPORT F1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT08" group-title="IT Sports",IT086:SKY SPORT F1 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2686
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="IT087:SKY SPORT FOOTBALL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT087History.png" group-title="IT Sports",IT087:SKY SPORT FOOTBALL 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2685
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="IT088:SKY SPORT GOLF " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT088TopCrime.png" group-title="IT Sports",IT088:SKY SPORT GOLF 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2684
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT089:SKY SPORT MOTOGP " tvg-logo="" group-title="IT Sports",IT089:SKY SPORT MOTOGP 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28473
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="IT090:SKY SPORT NBA " tvg-logo="" group-title="IT Sports",IT090:SKY SPORT NBA 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28472
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT093:SPORT ITALIA +24 " tvg-logo="" group-title="IT Sports",IT093:SPORT ITALIA +24 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28469
+#EXTINF:-1 tvg-id="sky.sport.it" tvg-name="IT094:SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="IT Sports",IT094:SPORT ITALIA SOLO CALCIO
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28468
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT095:SUPER TENNIS " tvg-logo="" group-title="IT Sports",IT095:SUPER TENNIS 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28467
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT098:TG COM 24 " tvg-logo="" group-title="IT Sports",IT098:TG COM 24 
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28464
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-name="IT116:MOTOR TREND" tvg-logo="" group-title="IT Sports",IT116:MOTOR TREND
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28439
+#EXTINF:-1 tvg-id="" tvg-name="IT117:MS MOTOR TV" tvg-logo="" group-title="IT Sports",IT117:MS MOTOR TV
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28438
+#EXTINF:-1 tvg-id="zona.dazn.it" tvg-name="IT125:DAZN 2" tvg-logo="" group-title="IT Sports",IT125:DAZN 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28430
+#EXTINF:-1 tvg-id="zona.dazn.3.it" tvg-name="IT126:Dazn Zona 3" tvg-logo="" group-title="IT Sports",IT126:Dazn Zona 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28429
+#EXTINF:-1 tvg-id="zona.dazn.4.it" tvg-name="IT127:Dazn Zona 4" tvg-logo="" group-title="IT Sports",IT127:Dazn Zona 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28428
