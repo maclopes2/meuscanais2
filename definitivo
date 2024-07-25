@@ -29,7 +29,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49721
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49714
 #EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="Fox Sports 2" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png" group-title="ARGENTINA" tvg-shift="-3",Fox Sports 2
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49713
-#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="ARGENTINA" tvg-shift="-3",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png?20230208172702" group-title="ARGENTINA" tvg-shift="-3",Fox Sports 3
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49712
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TyCSp.png?raw=true" group-title="ARGENTINA" tvg-shift="-3",TYC SPORTS
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3000
@@ -67,7 +67,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3136
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3137
 #EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-4@3x.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN 4
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/60006
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/espn-u-logo-black-and-white.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN U
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3134
 #EXTINF:-1 tvg-id="FS1.us" tvg-name="FS 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",FS 1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3130
@@ -79,7 +79,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29575
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/30052
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBA TV
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3108
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/NBC_Sports_2023.svg/revision/latest?cb=20231213205525" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/30025
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",NFL Network
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3104
@@ -99,9 +99,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2828
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2826
 #EXTINF:-1 tvg-id="CANALplusFORMULA1(src01).fr" tvg-name="Canal+ F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_Formula1.svg/revision/latest/scale-to-width-down/1000?cb=20200906184813" group-title="FRANÇA" tvg-shift="-3",Canal+ F1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28111
-#EXTINF:-1 tvg-id="CANALplusMOTOGP(src01).fr" tvg-name="Canal+ Moto GP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Canal_MotoGP.svg/revision/latest?cb=20200906184552" group-title="FRANÇA" tvg-shift="-3",Canal+ Moto GP
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2793
-#EXTINF:-1 tvg-id="CanalplusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304" group-title="FRANÇA" tvg-shift="-3",Canal+ Sport
+#EXTINF:-1 tvg-id="CanalplusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/800px-Logo_Canal%2B_Sport_2013.svg.png?20230427120428" group-title="FRANÇA" tvg-shift="-3",Canal+ Sport
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2790
 #EXTINF:-1 tvg-id="CANALplusSPORT2(src01).ci" tvg-name="Canal+ Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal%2B_Sport_2_2015.svg/revision/latest/scale-to-width-down/1000?cb=20210729135709" group-title="FRANÇA" tvg-shift="-3",Canal+ Sport 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28146
@@ -119,7 +117,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28132
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2715
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png?20180129221857" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Calcio
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2687
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sport_F1_2018.svg/revision/latest?cb=20200808170724" group-title="ITÁLIA" tvg-shift="-3",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Sport_F1_-_Logo_2015.svg/512px-Sky_Sport_F1_-_Logo_2015.svg.png?20180809145130" group-title="ITÁLIA" tvg-shift="-3",Sky Sport F1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2686
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/693fja1595133458.png" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Moto GP
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28473
@@ -163,9 +161,9 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29366
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2917
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",Eurosport 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2916
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Premier_Sports_1_2021.svg/revision/latest/scale-to-width-down/300?cb=20210709144613" group-title="REINO UNIDO" tvg-shift="-3",Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png?20180923092838" group-title="REINO UNIDO" tvg-shift="-3",Premier Sports 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2868
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Premier_Sports_2_2021.svg/revision/latest?cb=20210709144618" group-title="REINO UNIDO" tvg-shift="-3",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/frtowu1600893109.png" group-title="REINO UNIDO" tvg-shift="-3",Premier Sports 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28861
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyaction.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Action
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2880
@@ -217,7 +215,7 @@ http://game.shiuk.re:80/595980/321245/788
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3088
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News (US)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NEWS (INT)" tvg-shift="-3",Fox News (US)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3131
-#EXTINF:-1 tvg-id="France24(French).us" tvg-name="FRANCE 24 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg/revision/latest?cb=20210115151030" group-title="NEWS (INT)" tvg-shift="-3",FRANCE 24 (FR)
+#EXTINF:-1 tvg-id="France24(French).us" tvg-name="FRANCE 24 (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="NEWS (INT)" tvg-shift="-3",FRANCE 24 (FR)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28827
 #EXTINF:-1 tvg-id="RaiNews24(Italian).us" tvg-name="RAI News 24 (IT)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rainews.png?raw=true" group-title="NEWS (INT)" tvg-shift="-3",RAI News 24 (IT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2718
