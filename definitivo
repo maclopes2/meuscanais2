@@ -7,17 +7,17 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/2658
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2640
 #EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ALEMANHA" tvg-shift="-3",Eurosport 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2638
-#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="Sky Sport" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysports.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="Sky Sport" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29100
-#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysports.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Austria
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportaustria_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Austria
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29090
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyf1.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportf1_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport F1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29075
-#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="Sky Sport Premier League" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyepl.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Premier League
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="Sky Sport Premier League" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportepl_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Premier League
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29071
-#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skytennis.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Tennis
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysporttennis_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Tennis
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29070
-#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skymain.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Top Event
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysporttop_ger.png?raw=true" group-title="ALEMANHA" tvg-shift="-3",Sky Sport Top Event
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29069
 #EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sport Digital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="ALEMANHA" tvg-shift="-3",Sport Digital
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29063
@@ -115,13 +115,13 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28134
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28132
 #EXTINF:-1 tvg-id="RAISPORT.it" tvg-name="RAI Sport" tvg-logo="https://seeklogo.com/images/R/rai-sport-logo-FC8EA2D2D6-seeklogo.com.png" group-title="ITÁLIA" tvg-shift="-3",RAI Sport
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2715
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png?20180129221857" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Calcio
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportcalcio_it.png?raw=true" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Calcio
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2687
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Sport_F1_-_Logo_2015.svg/512px-Sky_Sport_F1_-_Logo_2015.svg.png?20180809145130" group-title="ITÁLIA" tvg-shift="-3",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportf1_ger.png?raw=true" group-title="ITÁLIA" tvg-shift="-3",Sky Sport F1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2686
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/693fja1595133458.png" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Moto GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportmotogp_it.png?raw=true" group-title="ITÁLIA" tvg-shift="-3",Sky Sport Moto GP
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28473
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_NBA.png" group-title="ITÁLIA" tvg-shift="-3",Sky Sport NBA
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportnba_it.png?raw=true" group-title="ITÁLIA" tvg-shift="-3",Sky Sport NBA
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28472
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Super_Tennis_2016.svg/revision/latest/scale-to-width-down/250?cb=20201227003011" group-title="ITÁLIA" tvg-shift="-3",SUPER TENNIS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28467
@@ -165,17 +165,17 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/2916
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2868
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/frtowu1600893109.png" group-title="REINO UNIDO" tvg-shift="-3",Premier Sports 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28861
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyaction.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Action
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportsaction_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Action
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2880
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skycricket.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportscricket_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Cricket
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2879
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyf1.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportsf1_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports F1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2876
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyfootball.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportsfoot_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Football
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2870
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skymain.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportsmain_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Main Event
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2881
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyepl.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysportsepl_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Premier League
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2877
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt1.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28946
