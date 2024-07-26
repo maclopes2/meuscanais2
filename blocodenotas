@@ -1,21 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT014:Deutsche Welle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT014CanalHistoria.png" group-title="PT General",PT014:Deutsche Welle
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3236
-#EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT018:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3232
 #EXTINF:-1 tvg-id="travel.pt" tvg-name="PT068:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
 http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3182
 #EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT066:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
 http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3184
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT078:TVI 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png" group-title="PT General",PT078:TVI 24
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3172
-#EXTINF:-1 tvg-id="food.network.pt" tvg-name="PT083:Foods Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png" group-title="PT General",PT083:Foods Network
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29407
-#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT107:Bloomberg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png" group-title="PT General",PT107:Bloomberg
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29383
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT126:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT126FOXNEWS.png" group-title="PT General",PT126:FOX NEWS
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29364
-#EXTINF:-1 tvg-id="discovery.hd.showcase.se" tvg-name="PT021:Discovery Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png" group-title="PT Doc",PT021:Discovery Showcase
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3229
-#EXTINF:-1 tvg-id="somos.pt" tvg-name="PT090:Somos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT090" group-title="PT Doc",PT090:Somos
-http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29400
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT001:A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT001A&E.png" group-title="PT Movies",PT001:A&E
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3249
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT004:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png" group-title="PT Movies",PT004:AMC
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3246
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT006:AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png" group-title="PT Movies",PT006:AXN
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3244
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT007:AXN Black" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png" group-title="PT Movies",PT007:AXN Black
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3243
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="PT008:AXN White" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png" group-title="PT Movies",PT008:AXN White
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3242
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT019:Cine Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png" group-title="PT Movies",PT019:Cine Mundo
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3231
+#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="PT028:Fox Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png" group-title="PT Movies",PT028:Fox Comedy
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3222
+#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="PT029:Fox Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png" group-title="PT Movies",PT029:Fox Crime
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3221
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT030:Fox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png" group-title="PT Movies",PT030:Fox
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3220
+#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="PT032:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png" group-title="PT Movies",PT032:Fox Movies
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3218
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT036:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png" group-title="PT Movies",PT036:Hollywood
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3214
+#EXTINF:-1 tvg-id="" tvg-name="PT039:MOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png" group-title="PT Movies",PT039:MOV
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3211
+#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="PT069:TV Cine Top" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine Top
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3181
+#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="PT070:TV Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine Emotion
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3180
+#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="PT071:TV Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine Action
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3179
+#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="PT072:TV Cine Edition" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine Edition
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3178
+#EXTINF:-1 tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29398
+#EXTINF:-1 tvg-id="" tvg-name="PT131:A3 Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png" group-title="PT Movies",PT131:A3 Cine
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29359
+#EXTINF:-1 tvg-id="" tvg-name="PT155:A3 Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png" group-title="PT Movies",PT155:A3 Series
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/29335
