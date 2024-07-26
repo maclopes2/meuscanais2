@@ -23,3 +23,61 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31807
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29695
 #EXTINF:-1 tvg-id="" tvg-name="US496:FOX DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US496FOX_WJW.png" group-title="USA FOX",US496:FOX DEPORTES
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29694
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 01
+http://game.shiuk.re:80/44822931/77312771/896
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 02
+http://game.shiuk.re:80/44822931/77312771/897
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 03" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 03
+http://game.shiuk.re:80/44822931/77312771/898
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 04" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 04
+http://game.shiuk.re:80/44822931/77312771/899
+#EXTINF:-1 tvg-id="" tvg-name="LA084:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:TUDN
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/57973
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 01 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 01 FHD
+http://game.shiuk.re:80/44822931/77312771/955
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 02 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 02 FHD
+http://game.shiuk.re:80/44822931/77312771/956
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 03 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 03 FHD
+http://game.shiuk.re:80/44822931/77312771/957
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 04 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 04 FHD
+http://game.shiuk.re:80/44822931/77312771/958
+#EXTINF:-1 tvg-id="nfl.network.ca" tvg-name="CA008:NFL Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA008BRAVO.png" group-title="CA Sports",CA008:NFL Network HD
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3061
+#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="CA Sports",CA032:NBA HD
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3037
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="CA051:Sportsnet World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA051SportsnetWorld.png" group-title="CA Sports",CA051:Sportsnet World HD
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3018
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK291:Sky Sports NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK291RTEJunior.png" group-title="UK Sports",UK291:Sky Sports NFL
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/28768
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/28741
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE182:SKY SPORT 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="DE Sports",DE182:SKY SPORT 1 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29100
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE183:SKY SPORT 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="DE Sports",DE183:SKY SPORT 2 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29099
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE184:SKY SPORT 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="DE Sports",DE184:SKY SPORT 3 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29098
+#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE185:SKY SPORT 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="DE Sports",DE185:SKY SPORT 4 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29097
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE186:SKY SPORT 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="DE Sports",DE186:SKY SPORT 5 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29096
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE187:SKY SPORT 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="DE Sports",DE187:SKY SPORT 6 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29095
+#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE188:SKY SPORT 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188" group-title="DE Sports",DE188:SKY SPORT 7 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29094
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE189:SKY SPORT 8 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189WeltDerWunder.png" group-title="DE Sports",DE189:SKY SPORT 8 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29093
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE190:SKY SPORT 9 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="DE Sports",DE190:SKY SPORT 9 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29092
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE191:SKY SPORT 10 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DE Sports",DE191:SKY SPORT 10 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29091
+#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29090
+#EXTINF:-1 tvg-id="sky.sport.austria.2.de" tvg-name="DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE193NDRHD.png" group-title="DE Sports",DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29089
+#EXTINF:-1 tvg-id="sky.sport.austria.3.de" tvg-name="DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE194" group-title="DE Sports",DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29088
+#EXTINF:-1 tvg-id="sky.sport.austria.4.de" tvg-name="DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE195N24Doku.png" group-title="DE Sports",DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29087
+#EXTINF:-1 tvg-id="sky.sport.austria.5.de" tvg-name="DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE196NickHD.png" group-title="DE Sports",DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29086
