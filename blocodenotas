@@ -1,83 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RO029:DIGI SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO029Crime&Investigation.png" group-title="Romania",RO029:DIGI SPORT 1
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31847
-#EXTINF:-1 tvg-id="" tvg-name="RO030:DIGI SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO031DaVinciLearning.png" group-title="Romania",RO030:DIGI SPORT 2
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31846
-#EXTINF:-1 tvg-id="" tvg-name="RO031:DIGI SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO031DaVinciLearning.png" group-title="Romania",RO031:DIGI SPORT 3
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31845
-#EXTINF:-1 tvg-id="" tvg-name="RO032:DIGI SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO032Digi24.png" group-title="Romania",RO032:DIGI SPORT 4
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31844
-#EXTINF:-1 tvg-id="" tvg-name="RO096:ORANGE SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO096National24+.png" group-title="Romania",RO096:ORANGE SPORT 1
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31780
-#EXTINF:-1 tvg-id="" tvg-name="RO097:ORANGE SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO097NationalTV.png" group-title="Romania",RO097:ORANGE SPORT 2
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31779
-#EXTINF:-1 tvg-id="" tvg-name="RO098:ORANGE SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/" group-title="Romania",RO098:ORANGE SPORT 3
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31778
-#EXTINF:-1 tvg-id="" tvg-name="RO099:ORANGE SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO099NickJr.png" group-title="Romania",RO099:ORANGE SPORT 4
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31777
-#EXTINF:-1 tvg-id="" tvg-name="RO068:PRIMA SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO068HBO3FHD.png" group-title="Romania",RO068:PRIMA SPORT
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31808
-#EXTINF:-1 tvg-id="" tvg-name="RO069:PRIMA SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO069HistoryChannel.png" group-title="Romania",RO069:PRIMA SPORT 4
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31807
-#EXTINF:-1 tvg-id="" tvg-name="US495:FOX SOCCER PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US495FOX_KMPH.png" group-title="USA FOX",US495:FOX SOCCER PLUS
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29695
-#EXTINF:-1 tvg-id="" tvg-name="US496:FOX DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US496FOX_WJW.png" group-title="USA FOX",US496:FOX DEPORTES
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29694
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 01
-http://game.shiuk.re:80/44822931/77312771/896
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 02
-http://game.shiuk.re:80/44822931/77312771/897
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 03" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 03
-http://game.shiuk.re:80/44822931/77312771/898
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 04" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS | PPV",Apple TV 04
-http://game.shiuk.re:80/44822931/77312771/899
-#EXTINF:-1 tvg-id="" tvg-name="LA084:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:TUDN
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/57973
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 01 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 01 FHD
-http://game.shiuk.re:80/44822931/77312771/955
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 02 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 02 FHD
-http://game.shiuk.re:80/44822931/77312771/956
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 03 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 03 FHD
-http://game.shiuk.re:80/44822931/77312771/957
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 04 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="CANAIS | PPV",Paramount+ 04 FHD
-http://game.shiuk.re:80/44822931/77312771/958
-#EXTINF:-1 tvg-id="nfl.network.ca" tvg-name="CA008:NFL Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA008BRAVO.png" group-title="CA Sports",CA008:NFL Network HD
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3061
-#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="CA Sports",CA032:NBA HD
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3037
-#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="CA051:Sportsnet World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA051SportsnetWorld.png" group-title="CA Sports",CA051:Sportsnet World HD
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3018
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK291:Sky Sports NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK291RTEJunior.png" group-title="UK Sports",UK291:Sky Sports NFL
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/28768
-#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/28741
-#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE182:SKY SPORT 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="DE Sports",DE182:SKY SPORT 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29100
-#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="DE183:SKY SPORT 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE183TelekomSport2.png" group-title="DE Sports",DE183:SKY SPORT 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29099
-#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="DE184:SKY SPORT 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="DE Sports",DE184:SKY SPORT 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29098
-#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="DE185:SKY SPORT 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="DE Sports",DE185:SKY SPORT 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29097
-#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="DE186:SKY SPORT 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="DE Sports",DE186:SKY SPORT 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29096
-#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="DE187:SKY SPORT 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="DE Sports",DE187:SKY SPORT 6 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29095
-#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="DE188:SKY SPORT 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188" group-title="DE Sports",DE188:SKY SPORT 7 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29094
-#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="DE189:SKY SPORT 8 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189WeltDerWunder.png" group-title="DE Sports",DE189:SKY SPORT 8 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29093
-#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="DE190:SKY SPORT 9 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="DE Sports",DE190:SKY SPORT 9 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29092
-#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="DE191:SKY SPORT 10 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/" group-title="DE Sports",DE191:SKY SPORT 10 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29091
-#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29090
-#EXTINF:-1 tvg-id="sky.sport.austria.2.de" tvg-name="DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE193NDRHD.png" group-title="DE Sports",DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29089
-#EXTINF:-1 tvg-id="sky.sport.austria.3.de" tvg-name="DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE194" group-title="DE Sports",DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29088
-#EXTINF:-1 tvg-id="sky.sport.austria.4.de" tvg-name="DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE195N24Doku.png" group-title="DE Sports",DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29087
-#EXTINF:-1 tvg-id="sky.sport.austria.5.de" tvg-name="DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE196NickHD.png" group-title="DE Sports",DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29086
+#EXTINF:-1 tvg-id="" tvg-name="BR: Apple TV 01" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="ESPORTES | PLATAFORMAS",BR: Apple TV 01
+http://ucsxiptv.com:8080/live/u_andresa/4422/176185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Apple TV 02" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="ESPORTES | PLATAFORMAS",BR: Apple TV 02
+http://ucsxiptv.com:8080/live/u_andresa/4422/179221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Apple TV 03" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="ESPORTES | PLATAFORMAS",BR: Apple TV 03
+http://ucsxiptv.com:8080/live/u_andresa/4422/179222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Apple TV 04" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="ESPORTES | PLATAFORMAS",BR: Apple TV 04
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal GOAT I" tvg-logo="http://ucsxiptv.com:8080/images/goat.png" group-title="ESPORTES | PLATAFORMAS",BR: Canal GOAT I
+http://ucsxiptv.com:8080/live/u_andresa/4422/176263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal GOAT II" tvg-logo="http://ucsxiptv.com:8080/images/goat.png" group-title="ESPORTES | PLATAFORMAS",BR: Canal GOAT II
+http://ucsxiptv.com:8080/live/u_andresa/4422/179224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal GOAT III" tvg-logo="http://ucsxiptv.com:8080/images/goat.png" group-title="ESPORTES | PLATAFORMAS",BR: Canal GOAT III
+http://ucsxiptv.com:8080/live/u_andresa/4422/179225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 01" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 01
+http://ucsxiptv.com:8080/live/u_andresa/4422/109491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 02" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 02
+http://ucsxiptv.com:8080/live/u_andresa/4422/109490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 03" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 03
+http://ucsxiptv.com:8080/live/u_andresa/4422/109489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 04" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 04
+http://ucsxiptv.com:8080/live/u_andresa/4422/109488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 05" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 05
+http://ucsxiptv.com:8080/live/u_andresa/4422/109487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 06" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 06
+http://ucsxiptv.com:8080/live/u_andresa/4422/109486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 07" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 07
+http://ucsxiptv.com:8080/live/u_andresa/4422/109485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 08" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 08
+http://ucsxiptv.com:8080/live/u_andresa/4422/109484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 09" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 09
+http://ucsxiptv.com:8080/live/u_andresa/4422/109483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 10" tvg-logo="https://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="CINE SKY",BR: Cine SKY 10
+http://ucsxiptv.com:8080/live/u_andresa/4422/255937.m3u8
+#EXTINF:-1 tvg-id="cnn.en.espanol.latin.america.br" tvg-name="BR: CNN Espanhol FHD" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="NOTÍCIAS",BR: CNN Espanhol FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/45.m3u8
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="BR: CNN Internacional FHD" tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="NOTÍCIAS",BR: CNN Internacional FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 1 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="ESPORTES | PLATAFORMAS",BR: DAZN 1 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/20942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 2 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="ESPORTES | PLATAFORMAS",BR: DAZN 2 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/20941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 3 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="ESPORTES | PLATAFORMAS",BR: DAZN 3 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/2318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 4 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="ESPORTES | PLATAFORMAS",BR: DAZN 4 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 5 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="ESPORTES | PLATAFORMAS",BR: DAZN 5 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports 01" tvg-logo="https://global-uploads.webflow.com/6061d1d5386765f2f49f33f8/606c5d77b2bd8577a6f34585_Eleven_Logo_Nav.png" group-title="ESPORTES | PLATAFORMAS",BR: Eleven Sports 01
+http://ucsxiptv.com:8080/live/u_andresa/4422/21908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports 02" tvg-logo="http://ucsxiptv.com:8080/images/3686534e08726f650c84278fec9b3d27.png" group-title="ESPORTES | PLATAFORMAS",BR: Eleven Sports 02
+http://ucsxiptv.com:8080/live/u_andresa/4422/21909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports 03" tvg-logo="http://ucsxiptv.com:8080/images/3686534e08726f650c84278fec9b3d27.png" group-title="ESPORTES | PLATAFORMAS",BR: Eleven Sports 03
+http://ucsxiptv.com:8080/live/u_andresa/4422/21910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports 04" tvg-logo="http://ucsxiptv.com:8080/images/3686534e08726f650c84278fec9b3d27.png" group-title="ESPORTES | PLATAFORMAS",BR: Eleven Sports 04
+http://ucsxiptv.com:8080/live/u_andresa/4422/21911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports 05" tvg-logo="http://ucsxiptv.com:8080/images/3686534e08726f650c84278fec9b3d27.png" group-title="ESPORTES | PLATAFORMAS",BR: Eleven Sports 05
+http://ucsxiptv.com:8080/live/u_andresa/4422/21912.m3u8
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="BR: Fox News FHD" tvg-logo="http://ucsxiptv.com:8080/images/foxnews_.png" group-title="NOTÍCIAS",BR: Fox News FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max 1 HD" tvg-logo="http://ucsxiptv.com:8080/images/max.png" group-title="ESPORTES | PLATAFORMAS",BR: Max 1 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/23252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max 2 HD" tvg-logo="http://ucsxiptv.com:8080/images/max.png" group-title="ESPORTES | PLATAFORMAS",BR: Max 2 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/23253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max 3 HD" tvg-logo="http://ucsxiptv.com:8080/images/max.png" group-title="ESPORTES | PLATAFORMAS",BR: Max 3 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/23686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max 4 HD" tvg-logo="http://ucsxiptv.com:8080/images/max.png" group-title="ESPORTES | PLATAFORMAS",BR: Max 4 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/23687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max 5 HD" tvg-logo="http://ucsxiptv.com:8080/images/max.png" group-title="ESPORTES | PLATAFORMAS",BR: Max 5 HD
+http://ucsxiptv.com:8080/live/u_andresa/4422/23688.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="BR: Paramount+ 01 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ 01 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/504.m3u8
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="BR: Paramount+ 02 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ 02 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/505.m3u8
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="BR: Paramount+ 03 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ 03 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/506.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="BR: Paramount+ 04 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ 04 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ PLTF 01 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ PLTF 01 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/260671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ PLTF 02 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ PLTF 02 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/260672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ PLTF 03 FHD" tvg-logo="http://ucsxiptv.com:8080/images/Paramount.png" group-title="ESPORTES | PLATAFORMAS",BR: Paramount+ PLTF 03 FHD
+http://ucsxiptv.com:8080/live/u_andresa/4422/260673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Video Amazon 1 " tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="ESPORTES | PLATAFORMAS",BR: Prime Video Amazon 1 
+http://ucsxiptv.com:8080/live/u_andresa/4422/47775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Video Amazon 2" tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="ESPORTES | PLATAFORMAS",BR: Prime Video Amazon 2
+http://ucsxiptv.com:8080/live/u_andresa/4422/49134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Video Amazon 3" tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="ESPORTES | PLATAFORMAS",BR: Prime Video Amazon 3
+http://ucsxiptv.com:8080/live/u_andresa/4422/156095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Video Amazon 4" tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="ESPORTES | PLATAFORMAS",BR: Prime Video Amazon 4
+http://ucsxiptv.com:8080/live/u_andresa/4422/156096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Video Amazon 5" tvg-logo="http://ucsxiptv.com:8080/images/prime-video.png" group-title="ESPORTES | PLATAFORMAS",BR: Prime Video Amazon 5
+http://ucsxiptv.com:8080/live/u_andresa/4422/156097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports BR 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="ESPORTES | PLATAFORMAS",BR: TNT Sports BR 01
+http://ucsxiptv.com:8080/live/u_andresa/4422/185437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports BR 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="ESPORTES | PLATAFORMAS",BR: TNT Sports BR 02
+http://ucsxiptv.com:8080/live/u_andresa/4422/185438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports BR 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="ESPORTES | PLATAFORMAS",BR: TNT Sports BR 03
+http://ucsxiptv.com:8080/live/u_andresa/4422/185439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UFC Fight 01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="ESPORTES | PLATAFORMAS",BR: UFC Fight 01
+http://ucsxiptv.com:8080/live/u_andresa/4422/142077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UFC Fight 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="ESPORTES | PLATAFORMAS",BR: UFC Fight 02
+http://ucsxiptv.com:8080/live/u_andresa/4422/109515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UFC Fight 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="ESPORTES | PLATAFORMAS",BR: UFC Fight 03
+http://ucsxiptv.com:8080/live/u_andresa/4422/142078.m3u8
