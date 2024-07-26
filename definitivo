@@ -1,4 +1,74 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqkwdqa1526qy4zp"
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Discovery (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Discovery (PT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO (BR)
+http://game.shiuk.re:80/951269292/51269292/679
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO 2 (BR)
+http://game.shiuk.re:80/951269292/51269292/672
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO Family (BR)
+http://game.shiuk.re:80/951269292/51269292/676
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-mundi@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO Mundi (BR)
+http://game.shiuk.re:80/951269292/51269292/682
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-pop@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO Pop (BR)
+http://game.shiuk.re:80/951269292/51269292/690
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO Signature (BR)
+http://game.shiuk.re:80/951269292/51269292/695
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO Xtreme (BR)
+http://game.shiuk.re:80/951269292/51269292/699
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO+ (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hboplus@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO+ (BR)
+http://game.shiuk.re:80/951269292/51269292/686
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HISTÓRIA (PT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",ID (PT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29367
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="Odisseia (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Odisseia (PT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Action (BR)
+http://game.shiuk.re:80/951269292/51269292/724
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Cult (BR)
+http://game.shiuk.re:80/951269292/51269292/728
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Fun (BR)
+http://game.shiuk.re:80/951269292/51269292/733
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Pipoca (BR)
+http://game.shiuk.re:80/951269292/51269292/738
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Premium (BR)
+http://game.shiuk.re:80/951269292/51269292/742
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Telecine Touch (BR)
+http://game.shiuk.re:80/951269292/51269292/746
+#EXTINF:-1 tvg-id="TLC(src01).pt" tvg-name="TLC (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTLC.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",TLC (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3184
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="Travel Channel (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Travel Channel (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3182
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TV Cine Action (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",TV Cine Action (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3179
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TV Cine Edition (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",TV Cine Edition (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3180
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TV Cine Emotion (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",TV Cine Emotion (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3178
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TV Cine Top (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",TV Cine Top (PT)
+http://mxu03.wanicelife.com:8880/29ca10293n08/asdfr34f34/3181
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (US)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/8f7e17e00d4020a5596431813fe320da/213x120-Q80_8f7e17e00d4020a5596431813fe320da.png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",ABC NEWS (US)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3165
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="Al Jazeera (UK)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/aljazeera.png?raw=true" group-title="NOTÍCIAS (INT)" tvg-shift="-3",Al Jazeera (UK)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60454
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (UK)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",BBC News (UK)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2946
+#EXTINF:-1 tvg-id="CBSNews247(English).it" tvg-name="CBS News (US)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/cbsnews.png?raw=true" group-title="NOTÍCIAS (INT)" tvg-shift="-3",CBS News (US)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3151
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",CNN (US)
+http://game.shiuk.re:80/951269292/51269292/786
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",CNN Portugal (PT)
+http://game.shiuk.re:80/595980/321245/788
+#EXTINF:-1 tvg-id="DeutscheWelle(Engl)(src01).de" tvg-name="Deutsche Welle (ALE)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDTSWELLE.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",Deutsche Welle (ALE)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3088
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News (US)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",Fox News (US)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3131
+#EXTINF:-1 tvg-id="France24(French).us" tvg-name="FRANCE 24 (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",FRANCE 24 (FR)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28827
+#EXTINF:-1 tvg-id="RaiNews24(Italian).us" tvg-name="RAI News 24 (IT)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rainews.png?raw=true" group-title="NOTÍCIAS (INT)" tvg-shift="-3",RAI News 24 (IT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2718
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Noticias (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS (INT)" tvg-shift="-3",SIC Noticias (PT)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
 #EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ALEMANHA" tvg-shift="-3",DAZN 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2659
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ALEMANHA" tvg-shift="-3",DAZN 2
@@ -189,35 +259,3 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28942
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28941
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/ufc.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",UFC FIGHT PASS
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28832
-#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Discovery (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="DOCS (PT)" tvg-shift="-3",Discovery (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
-#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="DOCS (PT)" tvg-shift="-3",HISTÓRIA (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
-#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery@3x.png" group-title="DOCS (PT)" tvg-shift="-3",ID (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29367
-#EXTINF:-1 tvg-id="NATGEO(src01).es" tvg-name="NatGeo (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic@3x.png" group-title="DOCS (PT)" tvg-shift="-3",NatGeo (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3205
-#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="Odisseia (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="DOCS (PT)" tvg-shift="-3",Odisseia (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (US)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/8f7e17e00d4020a5596431813fe320da/213x120-Q80_8f7e17e00d4020a5596431813fe320da.png" group-title="NEWS (INT)" tvg-shift="-3",ABC NEWS (US)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3165
-#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="Al Jazeera (UK)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/aljazeera.png?raw=true" group-title="NEWS (INT)" tvg-shift="-3",Al Jazeera (UK)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/60454
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (UK)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png" group-title="NEWS (INT)" tvg-shift="-3",BBC News (UK)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2946
-#EXTINF:-1 tvg-id="CBSNews247(English).it" tvg-name="CBS News (US)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/cbsnews.png?raw=true" group-title="NEWS (INT)" tvg-shift="-3",CBS News (US)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3151
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="NEWS (INT)" tvg-shift="-3",CNN (US)
-http://game.shiuk.re:80/951269292/51269292/786
-#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NEWS (INT)" tvg-shift="-3",CNN Portugal (PT)
-http://game.shiuk.re:80/595980/321245/788
-#EXTINF:-1 tvg-id="DeutscheWelle(Engl)(src01).de" tvg-name="Deutsche Welle (ALE)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDTSWELLE.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NEWS (INT)" tvg-shift="-3",Deutsche Welle (ALE)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3088
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News (US)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NEWS (INT)" tvg-shift="-3",Fox News (US)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3131
-#EXTINF:-1 tvg-id="France24(French).us" tvg-name="FRANCE 24 (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="NEWS (INT)" tvg-shift="-3",FRANCE 24 (FR)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28827
-#EXTINF:-1 tvg-id="RaiNews24(Italian).us" tvg-name="RAI News 24 (IT)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rainews.png?raw=true" group-title="NEWS (INT)" tvg-shift="-3",RAI News 24 (IT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2718
-#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Noticias (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NEWS (INT)" tvg-shift="-3",SIC Noticias (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
