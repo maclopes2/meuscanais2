@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqkwdqa1526qy4zp"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 1" tvg-logo="" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Cine SKY 1
-http://ucsxiptv.com:8080/live/u_andresa/4422/109484.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 2" tvg-logo="" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Cine SKY 2
-http://ucsxiptv.com:8080/live/u_andresa/4422/109483.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 3" tvg-logo="" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Cine SKY 3
-http://ucsxiptv.com:8080/live/u_andresa/4422/255937.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Discovery (PT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Discovery (PT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo@3x.png" group-title="VARIADOS (PT/BR)" tvg-shift="-3",HBO (BR)
@@ -153,9 +147,9 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3137
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/60006
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN U
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3134
-#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="Fox Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest?cb=20210601130410" group-title="ESTADOS UNIDOS" tvg-shift="-3",Fox Deportes
+#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="Fox Deportes" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/foxdeportes.png?raw=true" group-title="ESTADOS UNIDOS" tvg-shift="-3",Fox Deportes
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29694
-#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Soccer_Plus_%28Flat%29.svg/revision/latest?cb=20210112104241" group-title="ESTADOS UNIDOS" tvg-shift="-3",Fox Soccer Plus
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/foxdsoccerplus.png?raw=true" group-title="ESTADOS UNIDOS" tvg-shift="-3",Fox Soccer Plus
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29695
 #EXTINF:-1 tvg-id="FS1.us" tvg-name="FS 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",FS 1
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3130
@@ -175,7 +169,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3104
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29454
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="ESTADOS UNIDOS" tvg-shift="-3",TENNIS CHANNEL
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3082
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",TUDN
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tudn.png?raw=true" group-title="ESTADOS UNIDOS" tvg-shift="-3",TUDN
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/57973
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/ufc.png?raw=true" group-title="ESTADOS UNIDOS" tvg-shift="-3",UFC FIGHT PASS
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3084
@@ -251,7 +245,7 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29368
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3225
 #EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="Eurosport 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",Eurosport 2
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3224
-#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SPORT.TV +" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/sporttvplus+.png?raw=true" group-title="PORTUGAL" tvg-shift="-3",SPORT.TV +
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SPORT.TV +" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/sporttv+.png?raw=true" group-title="PORTUGAL" tvg-shift="-3",SPORT.TV +
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3187
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT.TV 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT.TV 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3192
