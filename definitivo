@@ -1,52 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqkwdqa1526qy4zp"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 1
-http://ucsxiptv.com:8080/live/u_andresa/4422/176185.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 2
-http://ucsxiptv.com:8080/live/u_andresa/4422/179221.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 3
-http://ucsxiptv.com:8080/live/u_andresa/4422/179222.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 4
-http://ucsxiptv.com:8080/live/u_andresa/4422/179223.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 1
-http://ucsxiptv.com:8080/live/u_andresa/4422/176263.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 2
-http://ucsxiptv.com:8080/live/u_andresa/4422/179224.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 3
-http://ucsxiptv.com:8080/live/u_andresa/4422/179225.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 1
-http://ucsxiptv.com:8080/live/u_andresa/4422/504.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 2
-http://ucsxiptv.com:8080/live/u_andresa/4422/505.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 3
-http://ucsxiptv.com:8080/live/u_andresa/4422/506.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 4
-http://ucsxiptv.com:8080/live/u_andresa/4422/507.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 1 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 1 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29100
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 2 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 2 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 3 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 3 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 4 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 4 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 5 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 5 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 6 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 6 (MATCH TIME)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29093
-#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI SPORT 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi1.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 1
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31847
-#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI SPORT 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi2.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 2
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31846
-#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="DIGI SPORT 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi3.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 3
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31845
-#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI SPORT 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi4.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 4
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31844
-#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="PRIMA SPORT 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Prima_Sport_1_2022.svg/revision/latest?cb=20230120114314" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 1
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31780
-#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="PRIMA SPORT 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Prima_Sport_2_2022.svg/revision/latest?cb=20230125050102" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 2
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31779
-#EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="PRIMA SPORT 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Prima_Sport_3_2022.svg/revision/latest?cb=20230126050329" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 3
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31778
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 1" tvg-logo="" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Cine SKY 1
 http://ucsxiptv.com:8080/live/u_andresa/4422/109484.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 2" tvg-logo="" group-title="VARIADOS (PT/BR)" tvg-shift="-3",Cine SKY 2
@@ -345,3 +297,51 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28942
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28941
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/ufc.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",UFC FIGHT PASS
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28832
+#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI SPORT 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi1.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 1
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31847
+#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI SPORT 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi2.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 2
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31846
+#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="DIGI SPORT 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi3.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 3
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31845
+#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI SPORT 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/digi4.png?raw=true" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 4
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31844
+#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="PRIMA SPORT 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Prima_Sport_1_2022.svg/revision/latest?cb=20230120114314" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 1
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31780
+#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="PRIMA SPORT 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Prima_Sport_2_2022.svg/revision/latest?cb=20230125050102" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 2
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31779
+#EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="PRIMA SPORT 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Prima_Sport_3_2022.svg/revision/latest?cb=20230126050329" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 3
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/31778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 1
+http://ucsxiptv.com:8080/live/u_andresa/4422/176185.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 2
+http://ucsxiptv.com:8080/live/u_andresa/4422/179221.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 3
+http://ucsxiptv.com:8080/live/u_andresa/4422/179222.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/appletv.png?raw=true" group-title="PPV" tvg-shift="-3",Apple TV 4
+http://ucsxiptv.com:8080/live/u_andresa/4422/179223.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 1
+http://ucsxiptv.com:8080/live/u_andresa/4422/176263.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 2
+http://ucsxiptv.com:8080/live/u_andresa/4422/179224.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/goat.jpg?raw=true" group-title="PPV" tvg-shift="-3",GOAT 3
+http://ucsxiptv.com:8080/live/u_andresa/4422/179225.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 1
+http://ucsxiptv.com:8080/live/u_andresa/4422/504.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 2
+http://ucsxiptv.com:8080/live/u_andresa/4422/505.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 3
+http://ucsxiptv.com:8080/live/u_andresa/4422/506.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/paramount.png?raw=true" group-title="PPV" tvg-shift="-3",Paramount+ 4
+http://ucsxiptv.com:8080/live/u_andresa/4422/507.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 1 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 1 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 2 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 2 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 3 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 3 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 4 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 4 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 5 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 5 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 6 (MATCH TIME)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skysport_ger.png?raw=true" group-title="PPV" tvg-shift="-3",SKY SPORT 6 (MATCH TIME)
+http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29093
