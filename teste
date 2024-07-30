@@ -1,343 +1,827 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery (PT)" tvg-logo="" group-title="DOCS (BR/PT)",Discovery (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTÓRIA (PT)" tvg-logo="" group-title="DOCS (BR/PT)",HISTÓRIA (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History (BR)" tvg-logo="" group-title="DOCS (BR/PT)",History (BR)
-http://game.shiuk.re:80/595980/321245/303
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2 (BR)" tvg-logo="" group-title="DOCS (BR/PT)",History 2 (BR)
-http://game.shiuk.re:80/595980/321245/297
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID (PT)" tvg-logo="" group-title="DOCS (BR/PT)",ID (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29367
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeo (PT)" tvg-logo="" group-title="DOCS (BR/PT)",NatGeo (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3205
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Odisseia (PT)" tvg-logo="" group-title="DOCS (BR/PT)",Odisseia (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 01" tvg-logo="" group-title="NBA",LEAGUE PASS 01
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29525
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 02" tvg-logo="" group-title="NBA",LEAGUE PASS 02
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29524
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 03" tvg-logo="" group-title="NBA",LEAGUE PASS 03
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29523
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 04" tvg-logo="" group-title="NBA",LEAGUE PASS 04
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29522
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 05" tvg-logo="" group-title="NBA",LEAGUE PASS 05
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 06" tvg-logo="" group-title="NBA",LEAGUE PASS 06
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29519
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 07" tvg-logo="" group-title="NBA",LEAGUE PASS 07
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29520
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 08" tvg-logo="" group-title="NBA",LEAGUE PASS 08
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29518
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 09" tvg-logo="" group-title="NBA",LEAGUE PASS 09
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29517
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 10" tvg-logo="" group-title="NBA",LEAGUE PASS 10
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29516
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 11" tvg-logo="" group-title="NBA",LEAGUE PASS 11
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 12" tvg-logo="" group-title="NBA",LEAGUE PASS 12
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/68774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 13" tvg-logo="" group-title="NBA",LEAGUE PASS 13
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/68773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 14" tvg-logo="" group-title="NBA",LEAGUE PASS 14
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/68772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 15" tvg-logo="" group-title="NBA",LEAGUE PASS 15
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 16" tvg-logo="" group-title="NBA",LEAGUE PASS 16
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 17" tvg-logo="" group-title="NBA",LEAGUE PASS 17
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 18" tvg-logo="" group-title="NBA",LEAGUE PASS 18
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 19" tvg-logo="" group-title="NBA",LEAGUE PASS 19
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 20" tvg-logo="" group-title="NBA",LEAGUE PASS 20
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 21" tvg-logo="" group-title="NBA",LEAGUE PASS 21
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEAGUE PASS 22" tvg-logo="" group-title="NBA",LEAGUE PASS 22
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV (US)" tvg-logo="" group-title="NBA",NBA TV (US)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3108
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport NBA (IT)" tvg-logo="" group-title="NBA",Sky Sport NBA (IT)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV NBA (PT)" tvg-logo="" group-title="NBA",SPORT.TV NBA (PT)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29366
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS (US)" tvg-logo="" group-title="NEWS",ABC NEWS (US)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera (UK)" tvg-logo="" group-title="NEWS",Al Jazeera (UK)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/60454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News (UK)" tvg-logo="" group-title="NEWS",BBC News (UK)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS News (US)" tvg-logo="" group-title="NEWS",CBS News (US)
+#EXTM3U url-tvg="http://m3u4u.com/epg/5z3end58zqsdq36vyqpk"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",DAZN 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",DAZN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2640
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2639
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",MAGENTA SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",MAGENTA SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 3" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",MAGENTA SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 4" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",MAGENTA SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 5" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",MAGENTA SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 3" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 4" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT 5" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT AUSTRIA 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT AUSTRIA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT AUSTRIA 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT AUSTRIA 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT AUSTRIA 3" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT AUSTRIA 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT AUSTRIA 4" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT AUSTRIA 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT AUSTRIA 5" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT AUSTRIA 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT BUNDESLIGA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 2" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT BUNDESLIGA 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 3" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT BUNDESLIGA 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 4" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT BUNDESLIGA 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 5" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT BUNDESLIGA 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT MIX" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT MIX
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT PREMIER LEAGUE
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT TENNIS" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT TENNIS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT TOP EVENT" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORT TOP EVENT
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS F1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SKY SPORTS F1
+ http://mxu03.wanicelife.com:8880/D12m2243/97553298/29075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT DIGITAL" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SPORT DIGITAL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT1" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SPORT1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT1+" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SPORT1+
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTDIGITALL FUSSBALL" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",SPORTDIGITALL FUSSBALL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29060
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="ALEMANHA" tvg-shift="-3",UFC FIGHT PASS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN EN ESPANOL" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",CNN EN ESPANOL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49735
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",DIRECTV SPORTS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS +" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",DIRECTV SPORTS +
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49730
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",DIRECTV SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49729
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49721
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",ESPN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49720
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",ESPN 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49719
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN PREMIUM" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",ESPN PREMIUM
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN+" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",ESPN+
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49717
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",FOX SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",FOX SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49713
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 3" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",FOX SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49712
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",FOX SPORTS PREMIUM
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49711
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYC SPORTS" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",TYC SPORTS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tyc sports Internacional" tvg-logo="" group-title="ARGENTINA" tvg-shift="-3",Tyc sports Internacional
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",ABC NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",BEIN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",BEIN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",BEIN SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",ESPN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 501" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 501
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 502" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 502
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 503" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 503
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 504" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 504
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 505" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 505
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 506" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 506
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 507" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",FOX SPORTS 507
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY NEWS" tvg-logo="" group-title="AUSTRÁLIA" tvg-shift="-3",SKY NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORT 1" tvg-logo="" group-title="BÉLGICA" tvg-shift="-3",ELEVEN SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORT 2" tvg-logo="" group-title="BÉLGICA" tvg-shift="-3",ELEVEN SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORT 3" tvg-logo="" group-title="BÉLGICA" tvg-shift="-3",ELEVEN SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOO SPORT 1" tvg-logo="" group-title="BÉLGICA" tvg-shift="-3",VOO SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOO SPORT 2" tvg-logo="" group-title="BÉLGICA" tvg-shift="-3",VOO SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere" tvg-logo="" group-title="BRASIL" tvg-shift="-3",Premiere
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/65782
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 2" tvg-logo="" group-title="BRASIL" tvg-shift="-3",Premiere 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/65775
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 3" tvg-logo="" group-title="BRASIL" tvg-shift="-3",Premiere 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 4" tvg-logo="" group-title="BRASIL" tvg-shift="-3",Premiere 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/65778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 5" tvg-logo="" group-title="BRASIL" tvg-shift="-3",Premiere 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/65780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",BBC World News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30222
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Bein Sports
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30178
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News Network" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",CBC News Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",CNN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",CNN International
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30204
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV NEWS" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",CTV NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Fight Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Fox News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports Racing" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",FOX Sports Racing
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30180
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",MLB Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",NBA TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",NFL Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportnet Ontario" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportnet Ontario
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportnet Pacific" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportnet Pacific
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports CH 474" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sports CH 474
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports CH 476" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sports CH 476
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports CH 477" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sports CH 477
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet 360" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportsnet 360
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet East" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportsnet East
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet ONE" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportsnet ONE
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet West" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportsnet West
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet World" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Sportsnet World
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports CH 267" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",Super Sports CH 267
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30225
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TSN 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TSN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TSN 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TSN 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TSN 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TVA Sports
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports 2" tvg-logo="" group-title="CANADÁ" tvg-shift="-3",TVA Sports 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/65933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 4" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN F1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2553
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN LaLiga
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN LaLiga 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga B1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",DAZN LaLiga B1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2550
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",ESPN DEPORTES
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2537
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",GOL TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ DEPORTES
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ DEPORTES 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29294
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ DEPORTES 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ DEPORTES 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ DEPORTES 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LALIGA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LALIGA 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 3" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LALIGA 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29281
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 4" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LALIGA 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29280
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 5" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LALIGA 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29279
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LIGA DE CAMPEONES
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LIGA DE CAMPEONES 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29265
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LIGA DE CAMPEONES 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LIGA DE CAMPEONES 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",M+ LIGA DE CAMPEONES 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR FORMULA 1" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",MOVISTAR FORMULA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29235
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR FUTBOL" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",MOVISTAR FUTBOL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR MOTOGP" tvg-logo="" group-title="ESPANHA" tvg-shift="-3",MOVISTAR MOTOGP
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29232
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",ABC NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3165
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT&T SportsNet Pittsburgh" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",AT&T SportsNet Pittsburgh
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT&T SportsNet Pittsburgh (a)" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",AT&T SportsNet Pittsburgh (a)
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT&T Sportsnet Southwest" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",AT&T Sportsnet Southwest
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT&T SportsNet Southwest (a)" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",AT&T SportsNet Southwest (a)
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Detroit" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bally Sports Detroit
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29476
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Florida" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bally Sports Florida
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29474
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Kansas City" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bally Sports Kansas City
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29472
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Midwest" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bally Sports Midwest
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29373
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Southeast" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bally Sports Southeast
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",BeIN Sports
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Bloomberg
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS News" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",CBS News
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN (US)" tvg-logo="" group-title="NEWS",CNN (US)
-http://game.shiuk.re:80/951269292/51269292/786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal (PT)" tvg-logo="" group-title="NEWS",CNN Portugal (PT)
-http://game.shiuk.re:80/595980/321245/788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deutsche Welle (ALE)" tvg-logo="" group-title="NEWS",Deutsche Welle (ALE)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News (US)" tvg-logo="" group-title="NEWS",Fox News (US)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24 (FR)" tvg-logo="" group-title="NEWS",FRANCE 24 (FR)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2750
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI News 24 (IT)" tvg-logo="" group-title="NEWS",RAI News 24 (IT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2718
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC Noticias (PT)" tvg-logo="" group-title="NEWS",SIC Noticias (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="SPORT (ALE)",DAZN 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2659
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="SPORT (ALE)",DAZN 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="SPORT (ALE)",Eurosport 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="SPORT (ALE)",Eurosport 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2638
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport" tvg-logo="" group-title="SPORT (ALE)",Sky Sport
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29100
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Austria" tvg-logo="" group-title="SPORT (ALE)",Sky Sport Austria
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 01" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 01
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 02" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 02
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 03" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 03
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 04" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 04
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 05" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 05
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 06" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 06
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 07" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 07
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29079
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 08" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 08
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 09" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 09
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT BUNDESLIGA 10" tvg-logo="" group-title="SPORT (ALE)",SKY SPORT BUNDESLIGA 10
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport F1" tvg-logo="" group-title="SPORT (ALE)",Sky Sport F1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29075
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Premier League" tvg-logo="" group-title="SPORT (ALE)",Sky Sport Premier League
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29071
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Tennis" tvg-logo="" group-title="SPORT (ALE)",Sky Sport Tennis
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Top Event" tvg-logo="" group-title="SPORT (ALE)",Sky Sport Top Event
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29069
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Digital" tvg-logo="" group-title="SPORT (ALE)",Sport Digital
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="SPORT (ARG)",ESPN
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49721
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="" group-title="SPORT (ARG)",Fox Sports 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49714
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="SPORT (ARG)",Fox Sports 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49713
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="SPORT (ARG)",Fox Sports 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYC SPORTS" tvg-logo="" group-title="SPORT (ARG)",TYC SPORTS
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSNET" tvg-logo="" group-title="SPORT (CAN)",SPORTSNET
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="" group-title="SPORT (CAN)",TSN 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2" tvg-logo="" group-title="SPORT (CAN)",TSN 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="" group-title="SPORT (CAN)",TSN 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4" tvg-logo="" group-title="SPORT (CAN)",TSN 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="" group-title="SPORT (CAN)",TSN 5
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="SPORT (ESP)",DAZN 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="SPORT (ESP)",DAZN 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2556
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="" group-title="SPORT (ESP)",DAZN 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 4" tvg-logo="" group-title="SPORT (ESP)",DAZN 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="" group-title="SPORT (ESP)",DAZN F1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga" tvg-logo="" group-title="SPORT (ESP)",DAZN LaLiga
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="SPORT (ESP)",DAZN LaLiga 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 01" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 01
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29283
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 02" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 02
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 03" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 03
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29281
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 04" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 04
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29280
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 05" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 05
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29279
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 06" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 06
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 07" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 07
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 08" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 08
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 09" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 09
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 10" tvg-logo="" group-title="SPORT (ESP)",M+ LALIGA 10
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 01" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 01
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 02" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 02
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 03" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 03
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 04" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 04
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 05" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 05
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 06" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 06
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29261
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 07" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 07
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 08" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 08
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 09" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 09
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="SPORT (ESP)",M+ LIGA DE CAMPEONES 10
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR FORMULA 1" tvg-logo="" group-title="SPORT (ESP)",MOVISTAR FORMULA 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR FUTBOL" tvg-logo="" group-title="SPORT (ESP)",MOVISTAR FUTBOL
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports" tvg-logo="" group-title="SPORT (EUA)",CBS Sports
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="SPORT (EUA)",ESPN
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="SPORT (EUA)",ESPN 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="" group-title="SPORT (EUA)",ESPN 4
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/60006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="" group-title="SPORT (EUA)",ESPN U
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Racing" tvg-logo="" group-title="SPORT (EUA)",Fox Sports Racing
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS 1" tvg-logo="" group-title="SPORT (EUA)",FS 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3130
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS 2" tvg-logo="" group-title="SPORT (EUA)",FS 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gol TV" tvg-logo="" group-title="SPORT (EUA)",Gol TV
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29575
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSG" tvg-logo="" group-title="SPORT (EUA)",MSG
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports" tvg-logo="" group-title="SPORT (EUA)",NBC Sports
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/30025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="SPORT (EUA)",NFL Network
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3104
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL Network" tvg-logo="" group-title="SPORT (EUA)",NHL Network
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="SPORT (EUA)",TENNIS CHANNEL
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1" tvg-logo="" group-title="SPORT (FRA)",Bein Sports 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2" tvg-logo="" group-title="SPORT (FRA)",Bein Sports 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2829
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 3" tvg-logo="" group-title="SPORT (FRA)",Bein Sports 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2828
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 4 Max" tvg-logo="" group-title="SPORT (FRA)",Bein Sports 4 Max
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ F1" tvg-logo="" group-title="SPORT (FRA)",Canal+ F1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Moto GP" tvg-logo="" group-title="SPORT (FRA)",Canal+ Moto GP
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2793
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport" tvg-logo="" group-title="SPORT (FRA)",Canal+ Sport
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2790
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="SPORT (FRA)",Canal+ Sport 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="SPORT (FRA)",Eurosport 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="SPORT (FRA)",Eurosport 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 360" tvg-logo="" group-title="SPORT (FRA)",Eurosport 360
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28190
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1" tvg-logo="" group-title="SPORT (FRA)",RMC Sport 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2" tvg-logo="" group-title="SPORT (FRA)",RMC Sport 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI Sport" tvg-logo="" group-title="SPORT (IT)",RAI Sport
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2715
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Calcio" tvg-logo="" group-title="SPORT (IT)",Sky Sport Calcio
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport F1" tvg-logo="" group-title="SPORT (IT)",Sky Sport F1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Moto GP" tvg-logo="" group-title="SPORT (IT)",Sky Sport Moto GP
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28473
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER TENNIS" tvg-logo="" group-title="SPORT (IT)",SUPER TENNIS
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28467
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11" tvg-logo="" group-title="SPORT (PT)",Canal 11
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29378
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29371
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29370
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 5
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29369
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6" tvg-logo="" group-title="SPORT (PT)",Eleven Sports 6
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29368
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="SPORT (PT)",Eurosport 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="SPORT (PT)",Eurosport 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3224
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV +" tvg-logo="" group-title="SPORT (PT)",SPORT.TV +
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3187
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV 1" tvg-logo="" group-title="SPORT (PT)",SPORT.TV 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV 2" tvg-logo="" group-title="SPORT (PT)",SPORT.TV 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV 3" tvg-logo="" group-title="SPORT (PT)",SPORT.TV 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29390
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV 4" tvg-logo="" group-title="SPORT (PT)",SPORT.TV 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29389
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT.TV 5" tvg-logo="" group-title="SPORT (PT)",SPORT.TV 5
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="SPORT (UK)",ESPN
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="SPORT (UK)",Eurosport 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="SPORT (UK)",Eurosport 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1" tvg-logo="" group-title="SPORT (UK)",Premier Sports 1
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2868
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2" tvg-logo="" group-title="SPORT (UK)",Premier Sports 2
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action" tvg-logo="" group-title="SPORT (UK)",Sky Sports Action
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2880
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="SPORT (UK)",Sky Sports Cricket
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/2879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="SPORT (UK)",Sky Sports F1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2876
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="SPORT (UK)",Sky Sports Football
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2870
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="SPORT (UK)",Sky Sports Main Event
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2881
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="SPORT (UK)",Sky Sports Premier League
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="SPORT (UK)",TNT SPORTS 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="SPORT (UK)",TNT SPORTS 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="SPORT (UK)",TNT SPORTS 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="SPORT (UK)",TNT SPORTS 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 5" tvg-logo="" group-title="SPORT (UK)",TNT SPORTS 5
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS (ALE)" tvg-logo="" group-title="UFC",UFC FIGHT PASS (ALE)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/29043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS (BR)" tvg-logo="" group-title="UFC",UFC FIGHT PASS (BR)
-http://game.shiuk.re:80/bv7878/bv7979/983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS (UK)" tvg-logo="" group-title="UFC",UFC FIGHT PASS (UK)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS (USA)" tvg-logo="" group-title="UFC",UFC FIGHT PASS (USA)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",CBS Sports Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",CNN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEUTSCHE WELLE TV" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",DEUTSCHE WELLE TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Eleven Sports
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN +" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN +
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/60006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPNU" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",ESPNU
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Fight Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX DEPORTES
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29694
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX News" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SOCCER PLUS" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX SOCCER PLUS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX Sports 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 2" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX Sports 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 2 (a)" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",FOX Sports 2 (a)
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",GOL TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",MLB Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSG" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",MSG
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSG 2" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",MSG 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSG Plus" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",MSG Plus
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBA TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Bay Area
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Boston" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Boston
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29441
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Chicago" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Chicago
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Network (a)" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Network (a)
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Philadelphia
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Washington" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NBC Sports Washington
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NFL Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NFL RedZone
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL NETWORK" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",NHL NETWORK
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29454
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SportsNet New York" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",SportsNet New York
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",Tennis Channel
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TyC Sports" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",TyC Sports
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",UFC FIGHT PASS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Network" tvg-logo="" group-title="ESTADOS UNIDOS" tvg-shift="-3",UFC Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",AMAZON PRIME 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",AMAZON PRIME 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 3" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",AMAZON PRIME 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2845
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 4" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",AMAZON PRIME 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2844
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 5" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",AMAZON PRIME 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2843
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 10" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 10
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 4" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 5" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2825
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 6" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2824
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 7" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 8" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 8
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2822
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 9" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 9
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ F1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ F1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ MOTOGP" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ MOTOGP
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2793
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2790
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2775
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 2" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 3" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 360" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 360
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2789
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 4" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 5" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",CANAL+ SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28191
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 360" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",EUROSPORT 360
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOOT+ 24/24" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",FOOT+ 24/24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 1" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 10" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 10
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 2" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 3" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 4" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 5" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 6" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 7" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 8" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 8
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC SPORT 9" tvg-logo="" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 9
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOTE SPORT 1" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",COSMOTE SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31223
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOTE SPORT 2" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",COSMOTE SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31222
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOTE SPORT 3" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",COSMOTE SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31221
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOTE SPORT 4" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",COSMOTE SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31220
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOTE SPORT 5" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",COSMOTE SPORT 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31219
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA SPORT 1" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",NOVA SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA SPORT 2" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",NOVA SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA SPORT 3" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",NOVA SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31158
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA SPORT 4" tvg-logo="" group-title="GRÉCIA" tvg-shift="-3",NOVA SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",ESPN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",ESPN 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",ESPN 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",Eurosport 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31517
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",Eurosport 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAPLAY XTRA 1" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",VIAPLAY XTRA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAPLAY XTRA 2" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",VIAPLAY XTRA 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAPLAY XTRA 3" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",VIAPLAY XTRA 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAPLAY XTRA 4" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",VIAPLAY XTRA 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAPLAY XTRA 5" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",VIAPLAY XTRA 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Extra 1" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",Ziggo Sport Extra 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Extra 2" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",Ziggo Sport Extra 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing" tvg-logo="" group-title="HOLANDA" tvg-shift="-3",Ziggo Sport Racing
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31379
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",DAZN 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2749
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",DAZN 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN SPORT 2" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",DAZN SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2763
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dazn Zona 3" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",Dazn Zona 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dazn Zona 4" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",Dazn Zona 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURONEWS" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",EURONEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",FRANCE 24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2750
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI NEWS 24" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",RAI NEWS 24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI SPORT 1" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",RAI SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2715
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI SPORT+" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",RAI SPORT+
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT ARENA" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT ARENA
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2688
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT CALCIO" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT CALCIO
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT F1" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT F1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT FOOTBALL" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT FOOTBALL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT MOTOGP" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT MOTOGP
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28473
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORT NBA" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SKY SPORT NBA
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28472
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT ITALIA +24" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SPORT ITALIA +24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28469
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SPORT ITALIA SOLO CALCIO
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER TENNIS" tvg-logo="" group-title="ITÁLIA" tvg-shift="-3",SUPER TENNIS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28467
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN en Español" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",CNN en Español
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Espn
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51395
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn 2" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Espn 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51394
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn 3" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Espn 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN EXTRA" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",ESPN EXTRA
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51391
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn Plus" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Espn Plus
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51392
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Fox Sports 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51377
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Fox Sports 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51376
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",Fox Sports 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/51375
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TDN" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",TDN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/61025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN" tvg-logo="" group-title="MÉXICO" tvg-shift="-3",TUDN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/57973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",CANAL+ SPORT
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 2" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",CANAL+ SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 3" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",CANAL+ SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL+ SPORT 4" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",CANAL+ SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Eleven Sports 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Eleven Sports 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Eleven Sports 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Eleven Sports 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33457
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Fight" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Polsat Sport Fight
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 1" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Polsat Sport Premium 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33488
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Polsat Sport Premium 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33487
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 3" tvg-logo="" group-title="POLÔNIA" tvg-shift="-3",Polsat Sport Premium 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Bloomberg
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29383
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Canal 11
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29378
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",CNN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29375
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deutsche Welle" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Deutsche Welle
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3236
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Discovery Channel
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3230
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29370
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29369
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Eleven Sports 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Euronews
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 1" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",EuroSport 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3225
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",EuroSport 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3224
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Fight Network
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",FOX NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Historia" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Historia
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Investigation Discovery
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29367
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",NAT GEO
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",NBA TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Odisseia" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Odisseia
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3203
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC Noticias" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SIC Noticias
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 1 FHD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29392
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV 1 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 2 FHD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29391
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV 2 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3191
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 3 FHD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV 3 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 4 FHD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV 4 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3189
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 5 FHD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/49958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV 5 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 6 HD" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 6 HD
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV NBA" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",Sport TV NBA
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/29366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV+" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",SPORT TV+
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3187
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI 24" tvg-logo="" group-title="PORTUGAL" tvg-shift="-3",TVI 24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/3172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BBC News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2946
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BBC WORLD NEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BEIN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28808
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BEIN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28807
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BEIN SPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28805
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BEIN SPORTS 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28802
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Bloomberg
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BT Sport 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BT Sport 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BT Sport 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BT Sport ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sports 4" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",BT Sports 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28947
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",CNN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sport 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Eir Sport 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sport 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Eir Sport 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURONEWS" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",EURONEWS
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",EuroSport 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSport 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",EuroSport 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fightbox" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Fightbox
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28817
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Fox News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28929
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",FRANCE 24
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LFC TV" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",LFC TV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28949
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",MSNBC
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2910
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUTV" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",MUTV
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER SPORTS 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",PREMIER SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28862
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER SPORTS 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",PREMIER SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28861
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky News
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Action
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Arena
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2902
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Cricket
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2879
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports F1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Football
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2870
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports MainEvent" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports MainEvent
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2881
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Mix
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports NFL" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports NFL
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28768
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Premier League
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/2877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Racing" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",Sky Sports Racing
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28741
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",SuperSport Premier League
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28848
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28946
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28945
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 5" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 6" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 7" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS ESPN" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS ESPN
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28800
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS EXTRA 1" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS EXTRA 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28767
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS EXTRA 2" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS EXTRA 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS EXTRA 3" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS EXTRA 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28815
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS EXTRA 4" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS EXTRA 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC fight Pass" tvg-logo="" group-title="REINO UNIDO" tvg-shift="-3",UFC fight Pass
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/28832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI SPORT 1" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI SPORT 2" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI SPORT 3" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31845
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI SPORT 4" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",DIGI SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31844
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORANGE SPORT 1" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",ORANGE SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORANGE SPORT 2" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",ORANGE SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31779
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORANGE SPORT 3" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",ORANGE SPORT 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORANGE SPORT 4" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",ORANGE SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31777
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIMA SPORT" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31808
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIMA SPORT 2" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIMA SPORT 4" tvg-logo="" group-title="ROMÊNIA" tvg-shift="-3",PRIMA SPORT 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/31807
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 1" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 2" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30875
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 3" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 4" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 5" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30866
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 6" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 6" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30861
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 7" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30858
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYSPORTS 8" tvg-logo="" group-title="SUÍÇA" tvg-shift="-3",MYSPORTS 8
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/30855
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS MAX 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",BEIN SPORTS MAX 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/33021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 1" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 2" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 3" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32969
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 4" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 5" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 5
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 6" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 6
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 7" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 7
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXXEN SPORTS 8" tvg-logo="" group-title="TURQUIA" tvg-shift="-3",EXXEN SPORTS 8
+http://mxu03.wanicelife.com:8880/D12m2243/97553298/32964
