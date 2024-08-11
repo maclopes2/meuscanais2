@@ -187,8 +187,6 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29390
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29389
 #EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5 (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ESPORTES" tvg-shift="-3",SPORT TV 5 (PT)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49958
-#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="SPORT TV 6 (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_6HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ESPORTES" tvg-shift="-3",SPORT TV 6 (PT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29342
 #EXTINF:-1 tvg-id="NBA(src01).pt" tvg-name="SPORT TV NBA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="ESPORTES" tvg-shift="-3",SPORT TV NBA (PT)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29366
 #EXTINF:-1 tvg-id="Sportsnet4K(English).ca" tvg-name="SPORTSNET (CAN)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/sportsnet.png?raw=true" group-title="ESPORTES" tvg-shift="-3",SPORTSNET (CAN)
@@ -217,6 +215,8 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3003
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3002
 #EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4 (CAN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg/revision/latest/scale-to-width-down/250?cb=20220218183358" group-title="ESPORTES" tvg-shift="-3",TSN 4 (CAN)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3001
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5 (CAN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest/scale-to-width-down/250?cb=20220218183502" group-title="ESPORTES" tvg-shift="-3",TSN 5 (CAN)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3000
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN (USA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tudn.png?raw=true" group-title="ESPORTES" tvg-shift="-3",TUDN (USA)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/57973
 #EXTINF:-1 tvg-id="TVASports(src01).ca" tvg-name="TVA SPORTS (CAN)" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png" group-title="ESPORTES" tvg-shift="-3",TVA SPORTS (CAN)
@@ -295,8 +295,6 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3151
 http://game.shiuk.re:80/951269292/51269292/786
 #EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).us" tvg-name="CNN EN ESPAÑOL (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTÍCIAS" tvg-shift="-3",CNN EN ESPAÑOL (USA)
 http://ucsxiptv.com:8080/live/u_andresa/4422/45.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",CNN PORTUGAL (PT)
-http://game.shiuk.re:80/595980/321245/788
 #EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV NEWS (CAN)" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ctv-white1-1.png" group-title="NOTÍCIAS" tvg-shift="-3",CTV NEWS (CAN)
 http://mxu03.wanicelife.com:8880/D12m2243/97553298/3048
 #EXTINF:-1 tvg-id="DW(English).ca" tvg-name="DEUTSCHE WELLE (ALE)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDTSWELLE.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",DEUTSCHE WELLE (ALE)
