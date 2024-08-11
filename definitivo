@@ -3,6 +3,10 @@
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
 #EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="DOCS" tvg-shift="-3",HISTÓRIA (PT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
+#EXTINF:-1 tvg-id="History2.br" tvg-name="HISTORY (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png" group-title="DOCS" tvg-shift="-3",HISTORY (BR)
+http://ucsxiptv.com:8080/live/u_profes30/102030/431.m3u8
+#EXTINF:-1 tvg-id="History.br" tvg-name="HISTORY 2 (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2@3x.png" group-title="DOCS" tvg-shift="-3",HISTORY 2 (BR)
+http://ucsxiptv.com:8080/live/u_profes30/102030/248.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="DOCS" tvg-shift="-3",ID (PT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29367
 #EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="DOCS" tvg-shift="-3",ODISSEIA (PT)
@@ -232,21 +236,21 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3242
 #EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINE MUNDO (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165256" group-title="FILMES" tvg-shift="-3",CINE MUNDO (PT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3231
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo@3x.png" group-title="FILMES" tvg-shift="-3",HBO (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65744
+http://ucsxiptv.com:8080/live/u_profes30/102030/257.m3u8
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png" group-title="FILMES" tvg-shift="-3",HBO 2 (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65741
+http://ucsxiptv.com:8080/live/u_profes30/102030/251.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO FAMILY (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family@3x.png" group-title="FILMES" tvg-shift="-3",HBO FAMILY (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2479
+http://ucsxiptv.com:8080/live/u_profes30/102030/254.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO MUNDI (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-mundi@3x.png" group-title="FILMES" tvg-shift="-3",HBO MUNDI (BR)
 http://ucsxiptv.com:8080/live/u_profes30/102030/259.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hboplus@3x.png" group-title="FILMES" tvg-shift="-3",HBO PLUS (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65746
+http://ucsxiptv.com:8080/live/u_profes30/102030/262.m3u8
 #EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-pop@3x.png" group-title="FILMES" tvg-shift="-3",HBO POP (BR)
 http://ucsxiptv.com:8080/live/u_profes30/102030/265.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature@3x.png" group-title="FILMES" tvg-shift="-3",HBO SIGNATURE (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65749
+http://ucsxiptv.com:8080/live/u_profes30/102030/269.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO XTREME (BR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png" group-title="FILMES" tvg-shift="-3",HBO XTREME (BR)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/65751
+http://ucsxiptv.com:8080/live/u_profes30/102030/272.m3u8
 #EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="FILMES" tvg-shift="-3",HOLLYWOOD (PT)
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3214
 #EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="NOS STUDIOS (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="FILMES" tvg-shift="-3",NOS STUDIOS (PT)
