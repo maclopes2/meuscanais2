@@ -7,8 +7,6 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/60454
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2946
 #EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC NEWS NETWORK (CAN)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/CBC.png?raw=true" group-title="Notícias (INT)" tvg-shift="-3",CBC NEWS NETWORK (CAN)
 http://mxu03.wanicelife.com:8880/D12m2243/97553298/3059
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS NEWS (USA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/cbsnews.png?raw=true" group-title="Notícias (INT)" tvg-shift="-3",CBS NEWS (USA)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3151
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (USA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="Notícias (INT)" tvg-shift="-3",CNN (USA)
 http://game.shiuk.re:80/951269292/51269292/786
 #EXTINF:-1 tvg-id="CNN.es" tvg-name="CNN EN ESPAÑOL (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Notícias (INT)" tvg-shift="-3",CNN EN ESPAÑOL (USA)
@@ -401,13 +399,3 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3178
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3180
 #EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TV CINE TOP" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TV CINE TOP
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3181
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapolin" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/revision/latest?cb=20170119030605" group-title="Canais 24/7" tvg-shift="-3",Chapolin
-http://itsbx.uk:80/53228339/83476722/182.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAVES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Chaves.gif/revision/latest?cb=20140815194058" group-title="Canais 24/7" tvg-shift="-3",CHAVES
-http://itsbx.uk:80/53228339/83476722/183.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Os Simpsons" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/The_Simpsons_Logo.svg/revision/latest?cb=20221216162526" group-title="Canais 24/7" tvg-shift="-3",Os Simpsons
-http://itsbx.uk:80/53228339/83476722/242.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pica Pau" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Woodywoodpecker1951.jpg/revision/latest?cb=20120531035841" group-title="Canais 24/7" tvg-shift="-3",Pica Pau
-http://itsbx.uk:80/53228339/83476722/249.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uma família da pesada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Family_Guy.svg/revision/latest?cb=20220625135331" group-title="Canais 24/7" tvg-shift="-3",Uma família da pesada
-http://itsbx.uk:80/53228339/83476722/273.ts
