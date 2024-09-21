@@ -1,366 +1,20 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy93gerbwmjzxyxr5"
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (USA)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/8f7e17e00d4020a5596431813fe320da/213x120-Q80_8f7e17e00d4020a5596431813fe320da.png" group-title="Notícias (INT)" tvg-shift="-3",ABC NEWS (USA)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3165
-#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="AL JAZEERA (UK)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FJAZEERA.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Notícias (INT)" tvg-shift="-3",AL JAZEERA (UK)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/60454
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC NEWS (UK)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png" group-title="Notícias (INT)" tvg-shift="-3",BBC NEWS (UK)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2946
-#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC NEWS NETWORK (CAN)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/CBC.png?raw=true" group-title="Notícias (INT)" tvg-shift="-3",CBC NEWS NETWORK (CAN)
-http://mxu03.wanicelife.com:8880/D12m2243/97553298/3059
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (USA)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="Notícias (INT)" tvg-shift="-3",CNN (USA)
-http://game.shiuk.re:80/951269292/51269292/786
-#EXTINF:-1 tvg-id="CNN.es" tvg-name="CNN EN ESPAÑOL (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Notícias (INT)" tvg-shift="-3",CNN EN ESPAÑOL (USA)
-http://ucsxiptv.com:8080/live/u_andresa/4422/45.m3u8
-#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV NEWS (CAN)" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ctv-white1-1.png" group-title="Notícias (INT)" tvg-shift="-3",CTV NEWS (CAN)
-http://mxu03.wanicelife.com:8880/D12m2243/97553298/3048
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS (USA)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="Notícias (INT)" tvg-shift="-3",FOX NEWS (USA)
-http://ucsxiptv.com:8080/live/u_andresa/4422/145.m3u8
-#EXTINF:-1 tvg-id="France24(French).uk" tvg-name="FRANCE 24 (FR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Notícias (INT)" tvg-shift="-3",FRANCE 24 (FR)
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28827
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="RAI NEWS 24 (IT)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rainews.png?raw=true" group-title="Notícias (INT)" tvg-shift="-3",RAI NEWS 24 (IT)
-http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/2718
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sky_News_Logo_Dark.svg/revision/latest?cb=20230506062909" group-title="Notícias (INT)" tvg-shift="-3",SKY NEWS (UK)
-http://mxu03.wanicelife.com:8880/DAANM199/bLVbBfa6mw/2886
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee@3x.png" group-title="Brasil" tvg-shift="-3",A&E FHD
-http://itsbx.uk:80/53228339/83476722/648.ts
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee@3x.png" group-title="Brasil" tvg-shift="-3",A&E HD
-http://itsbx.uk:80/53228339/83476722/649.ts
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc@3x.png" group-title="Brasil" tvg-shift="-3",AMC FHD
-http://itsbx.uk:80/53228339/83476722/651.ts
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc@3x.png" group-title="Brasil" tvg-shift="-3",AMC HD
-http://itsbx.uk:80/53228339/83476722/652.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png" group-title="Brasil" tvg-shift="-3",Animal Planet 4K
-http://itsbx.uk:80/53228339/83476722/25.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png" group-title="Brasil" tvg-shift="-3",Animal Planet FHD
-http://itsbx.uk:80/53228339/83476722/281.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png" group-title="Brasil" tvg-shift="-3",Animal Planet HD
-http://itsbx.uk:80/53228339/83476722/282.ts
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1@3x.png" group-title="Brasil" tvg-shift="-3",Arte 1 FHD
-http://itsbx.uk:80/53228339/83476722/804.ts
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1@3x.png" group-title="Brasil" tvg-shift="-3",Arte 1 HD
-http://itsbx.uk:80/53228339/83476722/805.ts
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn@3x.png" group-title="Brasil" tvg-shift="-3",AXN 4K
-http://itsbx.uk:80/53228339/83476722/26.ts
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn@3x.png" group-title="Brasil" tvg-shift="-3",AXN FHD
-http://itsbx.uk:80/53228339/83476722/654.ts
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn@3x.png" group-title="Brasil" tvg-shift="-3",AXN HD
-http://itsbx.uk:80/53228339/83476722/655.ts
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn@3x.png" group-title="Brasil" tvg-shift="-3",AXN HD²
-http://itsbx.uk:80/53228339/83476722/656.ts
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news@3x.png" group-title="Brasil" tvg-shift="-3",Band News FHD
-http://itsbx.uk:80/53228339/83476722/774.ts
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news@3x.png" group-title="Brasil" tvg-shift="-3",Band News HD
-http://itsbx.uk:80/53228339/83476722/775.ts
-#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bis@3x.png" group-title="Brasil" tvg-shift="-3",BIS FHD
-http://itsbx.uk:80/53228339/83476722/808.ts
-#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bis@3x.png" group-title="Brasil" tvg-shift="-3",BIS HD
-http://itsbx.uk:80/53228339/83476722/809.ts
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil@3x.png" group-title="Brasil" tvg-shift="-3",Canal Brasil FHD
-http://itsbx.uk:80/53228339/83476722/658.ts
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil@3x.png" group-title="Brasil" tvg-shift="-3",Canal Brasil HD
-http://itsbx.uk:80/53228339/83476722/659.ts
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CineCanal FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal@3x.png" group-title="Brasil" tvg-shift="-3",CineCanal FHD
-http://itsbx.uk:80/53228339/83476722/661.ts
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CineCanal HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal@3x.png" group-title="Brasil" tvg-shift="-3",CineCanal HD
-http://itsbx.uk:80/53228339/83476722/662.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png" group-title="Brasil" tvg-shift="-3",Cinemax FHD
-http://itsbx.uk:80/53228339/83476722/664.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png" group-title="Brasil" tvg-shift="-3",Cinemax HD
-http://itsbx.uk:80/53228339/83476722/665.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png" group-title="Brasil" tvg-shift="-3",CNN Brasil 4K
-http://itsbx.uk:80/53228339/83476722/29.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png" group-title="Brasil" tvg-shift="-3",CNN Brasil FHD
-http://itsbx.uk:80/53228339/83476722/780.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png" group-title="Brasil" tvg-shift="-3",CNN Brasil HD
-http://itsbx.uk:80/53228339/83476722/781.ts
-#EXTINF:-1 tvg-id="CNNInternational.br" tvg-name="CNN Internacional FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="Brasil" tvg-shift="-3",CNN Internacional FHD
-http://itsbx.uk:80/53228339/83476722/786.ts
-#EXTINF:-1 tvg-id="CNNInternational.br" tvg-name="CNN Internacional HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-internacional@3x.png" group-title="Brasil" tvg-shift="-3",CNN Internacional HD
-http://itsbx.uk:80/53228339/83476722/787.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/comedy-central@3x.png" group-title="Brasil" tvg-shift="-3",Comedy Central 4K
-http://itsbx.uk:80/53228339/83476722/31.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/comedy-central@3x.png" group-title="Brasil" tvg-shift="-3",Comedy Central FHD
-http://itsbx.uk:80/53228339/83476722/813.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/comedy-central@3x.png" group-title="Brasil" tvg-shift="-3",Comedy Central HD
-http://itsbx.uk:80/53228339/83476722/814.ts
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/curta-documentarios@3x.png" group-title="Brasil" tvg-shift="-3",Curta! FHD
-http://itsbx.uk:80/53228339/83476722/816.ts
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/curta-documentarios@3x.png" group-title="Brasil" tvg-shift="-3",Curta! HD
-http://itsbx.uk:80/53228339/83476722/817.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="Brasil" tvg-shift="-3",Discovery Channel 4K
-http://itsbx.uk:80/53228339/83476722/32.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="Brasil" tvg-shift="-3",Discovery Channel FHD
-http://itsbx.uk:80/53228339/83476722/819.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery@3x.png" group-title="Brasil" tvg-shift="-3",Discovery Channel HD
-http://itsbx.uk:80/53228339/83476722/820.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H&H 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health@3x.png" group-title="Brasil" tvg-shift="-3",Discovery H&H 4K
-http://itsbx.uk:80/53228339/83476722/33.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H&H FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health@3x.png" group-title="Brasil" tvg-shift="-3",Discovery H&H FHD
-http://itsbx.uk:80/53228339/83476722/822.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health@3x.png" group-title="Brasil" tvg-shift="-3",Discovery H&H HD
-http://itsbx.uk:80/53228339/83476722/823.ts
-#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Discovery ID FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Brasil" tvg-shift="-3",Discovery ID FHD
-http://itsbx.uk:80/53228339/83476722/284.ts
-#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Discovery ID HD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Brasil" tvg-shift="-3",Discovery ID HD
-http://itsbx.uk:80/53228339/83476722/285.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56075_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Science FHD
-http://itsbx.uk:80/53228339/83476722/287.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56075_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Science HD
-http://itsbx.uk:80/53228339/83476722/288.ts
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theather FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75835_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Theather FHD
-http://itsbx.uk:80/53228339/83476722/290.ts
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theather HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75835_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Theather HD
-http://itsbx.uk:80/53228339/83476722/291.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Turbo 4K
-http://itsbx.uk:80/53228339/83476722/34.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Turbo FHD
-http://itsbx.uk:80/53228339/83476722/825.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery Turbo HD
-http://itsbx.uk:80/53228339/83476722/826.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75605_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery World FHD
-http://itsbx.uk:80/53228339/83476722/293.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75605_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Discovery World HD
-http://itsbx.uk:80/53228339/83476722/294.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16238_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",E! FHD
-http://itsbx.uk:80/53228339/83476722/830.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16238_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",E! HD
-http://itsbx.uk:80/53228339/83476722/831.ts
-#EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="FILM & ARTS FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/film-e-arts@3x.png" group-title="Brasil" tvg-shift="-3",FILM & ARTS FHD
-http://itsbx.uk:80/53228339/83476722/667.ts
-#EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/film-e-arts@3x.png" group-title="Brasil" tvg-shift="-3",FILM & ARTS HD
-http://itsbx.uk:80/53228339/83476722/668.ts
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/food-network@3x.png" group-title="Brasil" tvg-shift="-3",Food Network FHD
-http://itsbx.uk:80/53228339/83476722/834.ts
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/food-network@3x.png" group-title="Brasil" tvg-shift="-3",Food Network HD
-http://itsbx.uk:80/53228339/83476722/835.ts
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",FX FHD
-http://itsbx.uk:80/53228339/83476722/669.ts
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",FX HD
-http://itsbx.uk:80/53228339/83476722/670.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews@3x.png" group-title="Brasil" tvg-shift="-3",Globo News 4K
-http://itsbx.uk:80/53228339/83476722/37.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews@3x.png" group-title="Brasil" tvg-shift="-3",Globo News FHD
-http://itsbx.uk:80/53228339/83476722/796.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews@3x.png" group-title="Brasil" tvg-shift="-3",Globo News HD
-http://itsbx.uk:80/53228339/83476722/797.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt@3x.png" group-title="Brasil" tvg-shift="-3",GNT 4K
-http://itsbx.uk:80/53228339/83476722/39.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt@3x.png" group-title="Brasil" tvg-shift="-3",GNT FHD
-http://itsbx.uk:80/53228339/83476722/837.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt@3x.png" group-title="Brasil" tvg-shift="-3",GNT HD
-http://itsbx.uk:80/53228339/83476722/838.ts
-#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2@3x.png" group-title="Brasil" tvg-shift="-3",H2 FHD
-http://itsbx.uk:80/53228339/83476722/296.ts
-#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2@3x.png" group-title="Brasil" tvg-shift="-3",H2 HD
-http://itsbx.uk:80/53228339/83476722/297.ts
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO 2 FHD
-http://itsbx.uk:80/53228339/83476722/672.ts
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO 2 HD
-http://itsbx.uk:80/53228339/83476722/673.ts
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO 2 HD²
-http://itsbx.uk:80/53228339/83476722/674.ts
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Family FHD
-http://itsbx.uk:80/53228339/83476722/676.ts
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Family HD
-http://itsbx.uk:80/53228339/83476722/677.ts
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO 4K
-http://itsbx.uk:80/53228339/83476722/40.ts
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO FHD
-http://itsbx.uk:80/53228339/83476722/679.ts
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO HD
-http://itsbx.uk:80/53228339/83476722/680.ts
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO HD²
-http://itsbx.uk:80/53228339/83476722/681.ts
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Mundi FHD
-http://itsbx.uk:80/53228339/83476722/682.ts
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Mundi HD
-http://itsbx.uk:80/53228339/83476722/683.ts
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Mundi HD²
-http://itsbx.uk:80/53228339/83476722/684.ts
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Plus+ FHD
-http://itsbx.uk:80/53228339/83476722/686.ts
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Plus+ HD
-http://itsbx.uk:80/53228339/83476722/687.ts
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Plus+ HD²
-http://itsbx.uk:80/53228339/83476722/688.ts
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Pop FHD
-http://itsbx.uk:80/53228339/83476722/690.ts
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Pop HD
-http://itsbx.uk:80/53228339/83476722/691.ts
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Pop HD²
-http://itsbx.uk:80/53228339/83476722/692.ts
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98088_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Signature FHD
-http://itsbx.uk:80/53228339/83476722/695.ts
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98088_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Signature HD
-http://itsbx.uk:80/53228339/83476722/696.ts
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98088_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Signature HD²
-http://itsbx.uk:80/53228339/83476722/697.ts
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Xtreme FHD
-http://itsbx.uk:80/53228339/83476722/699.ts
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HBO Xtreme HD
-http://itsbx.uk:80/53228339/83476722/700.ts
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111476_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HGTV FHD
-http://itsbx.uk:80/53228339/83476722/840.ts
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111476_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",HGTV HD
-http://itsbx.uk:80/53228339/83476722/841.ts
-#EXTINF:-1 tvg-id="History.br" tvg-name="History FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png" group-title="Brasil" tvg-shift="-3",History FHD
-http://itsbx.uk:80/53228339/83476722/302.ts
-#EXTINF:-1 tvg-id="History.br" tvg-name="History HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png" group-title="Brasil" tvg-shift="-3",History HD
-http://itsbx.uk:80/53228339/83476722/303.ts
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/lifetime@3x.png" group-title="Brasil" tvg-shift="-3",Lifetime FHD
-http://itsbx.uk:80/53228339/83476722/843.ts
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/lifetime@3x.png" group-title="Brasil" tvg-shift="-3",Lifetime HD
-http://itsbx.uk:80/53228339/83476722/844.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix@3x.png" group-title="Brasil" tvg-shift="-3",Megapix 4K
-http://itsbx.uk:80/53228339/83476722/42.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix@3x.png" group-title="Brasil" tvg-shift="-3",Megapix FHD
-http://itsbx.uk:80/53228339/83476722/702.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix@3x.png" group-title="Brasil" tvg-shift="-3",Megapix HD
-http://itsbx.uk:80/53228339/83476722/703.ts
-#EXTINF:-1 tvg-id="ModoViagem.br" tvg-name="Modo Viagem FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Modo Viagem FHD
-http://itsbx.uk:80/53228339/83476722/848.ts
-#EXTINF:-1 tvg-id="ModoViagem.br" tvg-name="Modo Viagem HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74979_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",Modo Viagem HD
-http://itsbx.uk:80/53228339/83476722/849.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/multishow@3x.png" group-title="Brasil" tvg-shift="-3",Multishow 4K
-http://itsbx.uk:80/53228339/83476722/43.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/multishow@3x.png" group-title="Brasil" tvg-shift="-3",Multishow FHD
-http://itsbx.uk:80/53228339/83476722/858.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/multishow@3x.png" group-title="Brasil" tvg-shift="-3",Multishow HD
-http://itsbx.uk:80/53228339/83476722/859.ts
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="Natgeo FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic@3x.png" group-title="Brasil" tvg-shift="-3",Natgeo FHD
-http://itsbx.uk:80/53228339/83476722/299.ts
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="Natgeo HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic@3x.png" group-title="Brasil" tvg-shift="-3",Natgeo HD
-http://itsbx.uk:80/53228339/83476722/300.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-off@3x.png" group-title="Brasil" tvg-shift="-3",OFF FHD
-http://itsbx.uk:80/53228339/83476722/864.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-off@3x.png" group-title="Brasil" tvg-shift="-3",OFF HD
-http://itsbx.uk:80/53228339/83476722/865.ts
-#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="Paramount Channel FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network@3x.png" group-title="Brasil" tvg-shift="-3",Paramount Channel FHD
-http://itsbx.uk:80/53228339/83476722/706.ts
-#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="Paramount Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network@3x.png" group-title="Brasil" tvg-shift="-3",Paramount Channel HD
-http://itsbx.uk:80/53228339/83476722/707.ts
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/prime-boxbrazil@3x.png" group-title="Brasil" tvg-shift="-3",Prime Box Brasil FHD
-http://itsbx.uk:80/53228339/83476722/867.ts
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/prime-boxbrazil@3x.png" group-title="Brasil" tvg-shift="-3",Prime Box Brasil HD
-http://itsbx.uk:80/53228339/83476722/868.ts
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" group-title="Brasil" tvg-shift="-3",Sony FHD
-http://itsbx.uk:80/53228339/83476722/710.ts
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" group-title="Brasil" tvg-shift="-3",Sony HD
-http://itsbx.uk:80/53228339/83476722/711.ts
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" group-title="Brasil" tvg-shift="-3",Sony HD²
-http://itsbx.uk:80/53228339/83476722/712.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/space@3x.png" group-title="Brasil" tvg-shift="-3",Space FHD
-http://itsbx.uk:80/53228339/83476722/714.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/space@3x.png" group-title="Brasil" tvg-shift="-3",Space HD
-http://itsbx.uk:80/53228339/83476722/715.ts
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png" group-title="Brasil" tvg-shift="-3",Star Channel 4K
-http://itsbx.uk:80/53228339/83476722/49.ts
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png" group-title="Brasil" tvg-shift="-3",Star FHD
-http://itsbx.uk:80/53228339/83476722/717.ts
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png" group-title="Brasil" tvg-shift="-3",Star FHD²
-http://itsbx.uk:80/53228339/83476722/718.ts
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png" group-title="Brasil" tvg-shift="-3",Star HD
-http://itsbx.uk:80/53228339/83476722/719.ts
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png" group-title="Brasil" tvg-shift="-3",Studio Universal FHD
-http://itsbx.uk:80/53228339/83476722/721.ts
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png" group-title="Brasil" tvg-shift="-3",Studio Universal HD
-http://itsbx.uk:80/53228339/83476722/722.ts
-#EXTINF:-1 tvg-id="SYFY(English).br" tvg-name="SYFY FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Brasil" tvg-shift="-3",SYFY FHD
-http://itsbx.uk:80/53228339/83476722/876.ts
-#EXTINF:-1 tvg-id="SYFY(English).br" tvg-name="SYFY HD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Brasil" tvg-shift="-3",SYFY HD
-http://itsbx.uk:80/53228339/83476722/877.ts
-#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tcm@3x.png" group-title="Brasil" tvg-shift="-3",TCM FHD
-http://itsbx.uk:80/53228339/83476722/750.ts
-#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tcm@3x.png" group-title="Brasil" tvg-shift="-3",TCM HD
-http://itsbx.uk:80/53228339/83476722/751.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Action 4K
-http://itsbx.uk:80/53228339/83476722/50.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Action FHD
-http://itsbx.uk:80/53228339/83476722/724.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Action FHD²
-http://itsbx.uk:80/53228339/83476722/725.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Action HD
-http://itsbx.uk:80/53228339/83476722/726.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Cult FHD
-http://itsbx.uk:80/53228339/83476722/728.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Cult FHD²
-http://itsbx.uk:80/53228339/83476722/729.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Cult HD
-http://itsbx.uk:80/53228339/83476722/730.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Cult HD²
-http://itsbx.uk:80/53228339/83476722/731.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Fun FHD
-http://itsbx.uk:80/53228339/83476722/733.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Fun FHD²
-http://itsbx.uk:80/53228339/83476722/734.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Fun HD
-http://itsbx.uk:80/53228339/83476722/735.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Fun HD²
-http://itsbx.uk:80/53228339/83476722/736.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Pipoca 4K
-http://itsbx.uk:80/53228339/83476722/51.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Pipoca FHD
-http://itsbx.uk:80/53228339/83476722/738.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Pipoca FHD²
-http://itsbx.uk:80/53228339/83476722/739.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Pipoca HD
-http://itsbx.uk:80/53228339/83476722/740.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Premium 4K
-http://itsbx.uk:80/53228339/83476722/52.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Premium FHD
-http://itsbx.uk:80/53228339/83476722/742.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Premium HD
-http://itsbx.uk:80/53228339/83476722/743.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Premium HD²
-http://itsbx.uk:80/53228339/83476722/744.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Touch FHD
-http://itsbx.uk:80/53228339/83476722/746.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Touch HD
-http://itsbx.uk:80/53228339/83476722/747.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="Brasil" tvg-shift="-3",Telecine Touch HD²
-http://itsbx.uk:80/53228339/83476722/748.ts
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc@3x.png" group-title="Brasil" tvg-shift="-3",TLC FHD
-http://itsbx.uk:80/53228339/83476722/753.ts
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc@3x.png" group-title="Brasil" tvg-shift="-3",TLC HD
-http://itsbx.uk:80/53228339/83476722/754.ts
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",TNT 4K
-http://itsbx.uk:80/53228339/83476722/53.ts
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",TNT FHD
-http://itsbx.uk:80/53228339/83476722/756.ts
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT FHD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",TNT FHD²
-http://itsbx.uk:80/53228339/83476722/757.ts
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="Brasil" tvg-shift="-3",TNT HD
-http://itsbx.uk:80/53228339/83476722/758.ts
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png" group-title="Brasil" tvg-shift="-3",TNT Series 4K
-http://itsbx.uk:80/53228339/83476722/54.ts
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png" group-title="Brasil" tvg-shift="-3",TNT Series FHD
-http://itsbx.uk:80/53228339/83476722/763.ts
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png" group-title="Brasil" tvg-shift="-3",TNT Series HD
-http://itsbx.uk:80/53228339/83476722/764.ts
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brasil FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/travel-boxbrazil@3x.png" group-title="Brasil" tvg-shift="-3",Travel Box Brasil FHD
-http://itsbx.uk:80/53228339/83476722/882.ts
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brasil HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/travel-boxbrazil@3x.png" group-title="Brasil" tvg-shift="-3",Travel Box Brasil HD
-http://itsbx.uk:80/53228339/83476722/883.ts
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png" group-title="Brasil" tvg-shift="-3",Universal 4K
-http://itsbx.uk:80/53228339/83476722/55.ts
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png" group-title="Brasil" tvg-shift="-3",Universal FHD
-http://itsbx.uk:80/53228339/83476722/766.ts
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png" group-title="Brasil" tvg-shift="-3",Universal HD
-http://itsbx.uk:80/53228339/83476722/767.ts
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/viva@3x.png" group-title="Brasil" tvg-shift="-3",Viva 4K
-http://itsbx.uk:80/53228339/83476722/56.ts
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/viva@3x.png" group-title="Brasil" tvg-shift="-3",Viva FHD
-http://itsbx.uk:80/53228339/83476722/893.ts
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/viva@3x.png" group-title="Brasil" tvg-shift="-3",Viva HD
-http://itsbx.uk:80/53228339/83476722/894.ts
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png" group-title="Brasil" tvg-shift="-3",Warner Channel FHD
-http://itsbx.uk:80/53228339/83476722/769.ts
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png" group-title="Brasil" tvg-shift="-3",Warner Channel FHD²
-http://itsbx.uk:80/53228339/83476722/770.ts
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png" group-title="Brasil" tvg-shift="-3",Warner Channel HD
-http://itsbx.uk:80/53228339/83476722/771.ts
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel HD²" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png" group-title="Brasil" tvg-shift="-3",Warner Channel HD²
-http://itsbx.uk:80/53228339/83476722/772.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Reality" tvg-logo="" group-title="Portugal" tvg-shift="-3",CBS Reality
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PORTUGAL" tvg-logo="" group-title="Portugal" tvg-shift="-3",CNN PORTUGAL
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29375
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Now" tvg-logo="" group-title="Portugal" tvg-shift="-3",Globo Now
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3176
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR LIFE" tvg-logo="" group-title="Portugal" tvg-shift="-3",STAR LIFE
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3219
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="" group-title="Portugal" tvg-shift="-3",SYFY
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3185
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Portugal" tvg-shift="-3",TLC
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3184
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="" group-title="Portugal" tvg-shift="-3",Travel Channel
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI 24" tvg-logo="" group-title="Portugal" tvg-shift="-3",TVI 24
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3172
 #EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AMC
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3246
 #EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AXN
@@ -369,10 +23,24 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3246
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3243
 #EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN WHITE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AXN WHITE
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3242
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",CANAL 11
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29378
 #EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINE MUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165256" group-title="Portugal" tvg-shift="-3",CINE MUNDO
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3231
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/49966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/49032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29370
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DISCOVERY CHANNEL
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/322
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3224
 #EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",HISTÓRIA
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
 #EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",HOLLYWOOD
@@ -385,6 +53,30 @@ http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29398
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
 #EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC NOTICIAS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SIC NOTICIAS
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 1 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 1 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29392
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3191
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 2 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 2 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29391
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 3 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 3 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3189
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 4 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 4 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 5" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 5
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 5 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 5 FHD
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/49958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV NBA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV NBA
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV+" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV+
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3187
 #EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="STAR COMEDY" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR COMEDY
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3222
 #EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="STAR CRIME" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR CRIME
