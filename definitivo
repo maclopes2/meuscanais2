@@ -1,87 +1,217 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy93gerbwmjzxyxr5"
-#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AMC
+#EXTINF:-1 tvg-id="BBCNews(NorthAmerica)(English).ca" tvg-name="BBC NEWS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png" group-title="CANADÁ" tvg-shift="-3",BBC NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30223
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC NEWS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/CBC.png?raw=true" group-title="CANADÁ" tvg-shift="-3",CBC NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3059
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV NEWS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/CTV_News_1999.png?raw=true" group-title="CANADÁ" tvg-shift="-3",CTV NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3048
+#EXTINF:-1 tvg-id="NBATV(English).ca" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="CANADÁ" tvg-shift="-3",NBA TV
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3037
+#EXTINF:-1 tvg-id="NFLNetworkALTCanadianFeed(English).ca" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="CANADÁ" tvg-shift="-3",NFL NETWORK
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3061
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="SPORTSNET" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/sportsnet.png?raw=true" group-title="CANADÁ" tvg-shift="-3",SPORTSNET
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3018
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TSN1_2014.png?raw=true" group-title="CANADÁ" tvg-shift="-3",TSN 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3004
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TSN2_2014.png?raw=true" group-title="CANADÁ" tvg-shift="-3",TSN 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3003
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TSN3_2014.png?raw=true" group-title="CANADÁ" tvg-shift="-3",TSN 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3002
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TSN4_2014.png?raw=true" group-title="CANADÁ" tvg-shift="-3",TSN 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3001
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TSN5_2014.png?raw=true" group-title="CANADÁ" tvg-shift="-3",TSN 5
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3000
+#EXTINF:-1 tvg-id="TVASports(src01).ca" tvg-name="TVA SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png" group-title="CANADÁ" tvg-shift="-3",TVA SPORTS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2992
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",ABC NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3165
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",CBS SPORTS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3080
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="EUA" tvg-shift="-3",CNN
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3147
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png" group-title="EUA" tvg-shift="-3",ESPN
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3136
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png" group-title="EUA" tvg-shift="-3",ESPN 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3137
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",ESPNU
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3134
+#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FOX DEPORTES
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29694
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20240602002428" group-title="EUA" tvg-shift="-3",FOX NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3131
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66880_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FOX SOCCER PLUS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29695
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FS 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3130
+#EXTINF:-1 tvg-id="FS2.us" tvg-name="FS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FS 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3129
+#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOL TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",GOL TV
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29575
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MLB NETWORK
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3112
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MSNBC
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3111
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NBA TV
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NBC SPORTS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3105
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NFL NETWORK
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3104
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL REDZONE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NFL REDZONE
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3079
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NHL NETWORK
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29454
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",TENNIS CHANNEL
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3082
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tudn.png?raw=true" group-title="EUA" tvg-shift="-3",TUDN
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/57973
+#EXTINF:-1 tvg-id="TyCSports(Spanish).us" tvg-name="TYC SPORTS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TyCSp.png?raw=true" group-title="EUA" tvg-shift="-3",TYC SPORTS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/30054
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",YES NETWORK
+ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3078
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BEIN SPORTS 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS1.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2830
+#EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="BEIN SPORTS 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS2.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2829
+#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="BEIN SPORTS 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_3_2017.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2828
+#EXTINF:-1 tvg-id="BeINSPORTSMax4.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_4_2017.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2826
+#EXTINF:-1 tvg-id="BeINSPORTSMax5.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_5_2017.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 5
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2825
+#EXTINF:-1 tvg-id="BeINSPORTSMax6.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_6_2017.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS MAX 6
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2824
+#EXTINF:-1 tvg-id="France24English(English).fr" tvg-name="FRANCE 24" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="FRANÇA" tvg-shift="-3",FRANCE 24
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60367
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC SPORT 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rmc1.png?raw=true" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28134
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/rmc2.png?raw=true" group-title="FRANÇA" tvg-shift="-3",RMC SPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28133
+#EXTINF:-1 tvg-id="TV5Monde(FBSM).fr" tvg-name="TV5 MONDE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="FRANÇA" tvg-shift="-3",TV5 MONDE
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28092
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",AMC
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3246
-#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AXN
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",AXN
  http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3244
-#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN MOVIES" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AXN MOVIES
+#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN MOVIES" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",AXN MOVIES
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3243
-#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN WHITE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN WHITE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",AXN WHITE
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3242
-#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="CANAL 11" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",CANAL 11
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="CANAL 11" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",CANAL 11
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29378
-#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINE MUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165256" group-title="Portugal" tvg-shift="-3",CINE MUNDO
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINE MUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165256" group-title="PORTUGAL" tvg-shift="-3",CINE MUNDO
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3231
-#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",CNN PORTUGAL
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",CNN PORTUGAL
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29375
-#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 1
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",DAZN 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/49966
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 2
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",DAZN 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/49032
-#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 3
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",DAZN 3
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29371
-#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DAZN 4
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",DAZN 4
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29370
-#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",DISCOVERY CHANNEL
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3230
-#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="EUROSPORT 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",EUROSPORT 1
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="EUROSPORT 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",EUROSPORT 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/322
-#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="EUROSPORT 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",EUROSPORT 2
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="EUROSPORT 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",EUROSPORT 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3224
-#EXTINF:-1 tvg-id="GloboNews(src01).pt" tvg-name="GLOBONEWS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FGLOBONEWS.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",GLOBONEWS
+#EXTINF:-1 tvg-id="GloboNews(src01).pt" tvg-name="GLOBONEWS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FGLOBONEWS.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",GLOBONEWS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3176
-#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",HISTÓRIA
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTÓRIA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",HISTÓRIA
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3215
-#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",HOLLYWOOD
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",HOLLYWOOD
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3214
-#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",ID
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",ID
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29367
-#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="NOS STUDIOS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",NOS STUDIOS
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="NOS STUDIOS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",NOS STUDIOS
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/29398
-#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",ODISSEIA
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",ODISSEIA
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3203
-#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC NOTICIAS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SIC NOTICIAS
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC NOTICIAS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SIC NOTICIAS
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 1
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3192
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 1 FHD
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 1 FHD
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29392
-#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 2
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 2
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3191
-#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 2 FHD
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 2 FHD
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29391
-#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 3
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 3
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3190
-#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 3 FHD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 3 FHD
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29390
-#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 4
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 4
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3189
-#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 4 FHD
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 4 FHD
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29389
-#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 5
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 5
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3188
-#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV 5 FHD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV 5 FHD
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/49958
-#EXTINF:-1 tvg-id="NBA(src01).pt" tvg-name="SPORT TV NBA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV NBA
+#EXTINF:-1 tvg-id="NBA(src01).pt" tvg-name="SPORT TV NBA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV NBA
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29366
-#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SPORT TV+" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SPORT TV+
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SPORT TV+" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SPORT TV+
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3187
-#EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="STAR COMEDY" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR COMEDY
+#EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="STAR COMEDY" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",STAR COMEDY
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3222
-#EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="STAR CRIME" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR CRIME
+#EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="STAR CRIME" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",STAR CRIME
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3221
-#EXTINF:-1 tvg-id="FOXLIFE(src01).pt" tvg-name="STAR LIFE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR LIFE
+#EXTINF:-1 tvg-id="FOXLIFE(src01).pt" tvg-name="STAR LIFE" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",STAR LIFE
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3219
-#EXTINF:-1 tvg-id="FOXMovies(src01).pt" tvg-name="STAR MOVIES" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",STAR MOVIES
+#EXTINF:-1 tvg-id="FOXMovies(src01).pt" tvg-name="STAR MOVIES" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",STAR MOVIES
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3218
-#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="SYFY" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",SYFY
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="SYFY" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",SYFY
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3185
-#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="TRAVEL CHANNEL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="TRAVEL CHANNEL" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",TRAVEL CHANNEL
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3182
-#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TV CINE ACTION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TV CINE ACTION
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TV CINE ACTION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",TV CINE ACTION
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3179
-#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TV CINE EDITION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TV CINE EDITION
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TV CINE EDITION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",TV CINE EDITION
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3178
-#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TV CINE EMOTION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TV CINE EMOTION
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TV CINE EMOTION" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",TV CINE EMOTION
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3180
-#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TV CINE TOP" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="Portugal" tvg-shift="-3",TV CINE TOP
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TV CINE TOP" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PORTUGAL" tvg-shift="-3",TV CINE TOP
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3181
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="AL JAZEERA" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FJAZEERA.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",AL JAZEERA
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28867
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC NEWS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png" group-title="REINO UNIDO" tvg-shift="-3",BBC NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2946
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="EURONEWS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEURON.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",EURONEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2901
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",EUROSPORT 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2917
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",EUROSPORT 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2916
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER SPORTS 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Premier_Sports_1_2021.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",PREMIER SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28862
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Premier_Sports_2_2021.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",PREMIER SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28861
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="REINO UNIDO" tvg-shift="-3",SKY NEWS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2886
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyaction_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS ACTION
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2880
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skycricket_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS CRICKET
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2879
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyf1_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS F1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2876
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyfoot_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS FOOTBALL
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2870
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skymain_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS MAIN EVENT
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2881
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/skyepl_uk.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",SKY SPORTS PREMIER LEAGUE
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2877
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt1.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 1
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28946
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt2.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28945
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT SPORTS 3" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt3.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 3
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28943
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt4.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 4
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NETWORK UK" tvg-logo="" group-title="PPV" tvg-shift="-3",UFC NETWORK UK
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NETWORK USA" tvg-logo="" group-title="PPV" tvg-shift="-3",UFC NETWORK USA
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3084
