@@ -37,7 +37,7 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3137
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3134
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FOX DEPORTES
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29694
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest?cb=20240602002428" group-title="EUA" tvg-shift="-3",FOX NEWS
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Fox_News_Channel.png?raw=true" group-title="EUA" tvg-shift="-3",FOX NEWS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3131
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66880_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",FOX SOCCER PLUS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29695
@@ -57,7 +57,7 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3105
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NFL NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3104
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL REDZONE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NFL REDZONE
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL REDZONE" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Nfl-redzone-gold-2015.png?raw=true" group-title="EUA" tvg-shift="-3",NFL REDZONE
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3079
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NHL NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29454
