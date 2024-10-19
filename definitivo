@@ -25,8 +25,46 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3000
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2992
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",ABC NEWS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3165
+#EXTINF:-1 tvg-id="BallySportsArizona.us" tvg-name="BALLY SPORTS ARIZONA" tvg-logo="https://i.imgur.com/SmZoEph.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS ARIZONA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30081
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="BALLY SPORTS DETROIT" tvg-logo="https://i.imgur.com/Yq3W061.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS DETROIT
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29476
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="BALLY SPORTS FLORIDA" tvg-logo="https://i.imgur.com/V1XSgDr.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS FLORIDA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30082
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="BALLY SPORTS FLORIDA (ALT)" tvg-logo="https://i.imgur.com/V1XSgDr.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS FLORIDA (ALT)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29474
+#EXTINF:-1 tvg-id="BallySportsFloridaPlus.us" tvg-name="BALLY SPORTS FLORIDA PLUS" tvg-logo="https://i.imgur.com/jNfU9hF.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS FLORIDA PLUS
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29473
+#EXTINF:-1 tvg-id="BallySportsIndiana.us" tvg-name="BALLY SPORTS INDIANA" tvg-logo="https://i.imgur.com/HrtNQLu.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS INDIANA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30083
+#EXTINF:-1 tvg-id="BallySportsKansasCity.us" tvg-name="BALLY SPORTS KANSAS CITY" tvg-logo="https://i.imgur.com/RKM4iKv.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS KANSAS CITY
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29472
+#EXTINF:-1 tvg-id="BallySports(Midwest).us" tvg-name="BALLY SPORTS MIDWEST" tvg-logo="https://i.imgur.com/EjqmI1v.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS MIDWEST
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29373
+#EXTINF:-1 tvg-id="BallySports(North).us" tvg-name="BALLY SPORTS NORTH" tvg-logo="https://i.imgur.com/VCy962a.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS NORTH
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30084
+#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="BALLY SPORTS OKLAHOMA" tvg-logo="https://i.imgur.com/iUZ7jIx.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS OKLAHOMA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30072
+#EXTINF:-1 tvg-id="BallySportsSoCal.us" tvg-name="BALLY SPORTS SOCAL" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Bally_Sports_SoCal.png?raw=true" group-title="EUA" tvg-shift="-3",BALLY SPORTS SOCAL
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/31053
+#EXTINF:-1 tvg-id="BallySports(South).us" tvg-name="BALLY SPORTS SOUTH" tvg-logo="https://i.imgur.com/gU37xzJ.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS SOUTH
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30078
+#EXTINF:-1 tvg-id="BallySports(Southeast).us" tvg-name="BALLY SPORTS SOUTHEAST" tvg-logo="https://i.imgur.com/BUmngwB.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS SOUTHEAST
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30077
+#EXTINF:-1 tvg-id="BallySports(Southeast).us" tvg-name="BALLY SPORTS SOUTHEAST (ALT)" tvg-logo="https://i.imgur.com/BUmngwB.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS SOUTHEAST (ALT)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29754
+#EXTINF:-1 tvg-id="BallySports(Southwest).us" tvg-name="BALLY SPORTS SOUTHWEST" tvg-logo="https://i.imgur.com/fuGKMAP.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS SOUTHWEST
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30076
+#EXTINF:-1 tvg-id="BallySports(West).us" tvg-name="BALLY SPORTS WEST" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Bally_Sports_West_logo.png?raw=true" group-title="EUA" tvg-shift="-3",BALLY SPORTS WEST
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30079
+#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="BALLY SPORTS WISCONSIN" tvg-logo="https://i.imgur.com/w7pVHNW.png" group-title="EUA" tvg-shift="-3",BALLY SPORTS WISCONSIN
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30080
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",CBS SPORTS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3080
+#EXTINF:-1 tvg-id="CHSN.us" tvg-name="CHSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s166708_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",CHSN
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30031
+#EXTINF:-1 tvg-id="CHSN.us" tvg-name="CHSN (ALT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s166708_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",CHSN (ALT)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30030
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="EUA" tvg-shift="-3",CNN
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3147
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png" group-title="EUA" tvg-shift="-3",ESPN
@@ -47,28 +85,48 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3130
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3129
 #EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOL TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",GOL TV
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29575
+#EXTINF:-1 tvg-id="KENS5.us" tvg-name="KENS SAN ANTONIO" tvg-logo="https://www.kens5.com/assets/shared-images/logos/kens.png" group-title="EUA" tvg-shift="-3",KENS SAN ANTONIO
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29982
+#EXTINF:-1 tvg-id="KENS5.us" tvg-name="KENS SAN ANTONIO (ALT)" tvg-logo="https://www.kens5.com/assets/shared-images/logos/kens.png" group-title="EUA" tvg-shift="-3",KENS SAN ANTONIO (ALT)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29892
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MLB NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3112
+#EXTINF:-1 tvg-id="MonumentalSportsNetwork.us" tvg-name="MONUMENTAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10271_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MONUMENTAL
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30032
+#EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MSG
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30052
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",MSNBC
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3111
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NBA TV
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NBC SPORTS
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC SPORTS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/nbc-sports-2023.png?raw=true" group-title="EUA" tvg-shift="-3",NBC SPORTS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3105
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NBC SPORTS BAY AREA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30029
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC SPORTS BOSTON" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/NBCSB-header-logo_2x.png?raw=true" group-title="EUA" tvg-shift="-3",NBC SPORTS BOSTON
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29441
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC SPORTS PHILADELPHIA" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/NBCSP-header-logo_2x.png?raw=true" group-title="EUA" tvg-shift="-3",NBC SPORTS PHILADELPHIA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30033
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NFL NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3104
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL REDZONE" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/Nfl-redzone-gold-2015.png?raw=true" group-title="EUA" tvg-shift="-3",NFL REDZONE
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3079
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",NHL NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29454
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87024_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",SPECTRUM SPORTSNET LA
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60983
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",TENNIS CHANNEL
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3082
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",TNT
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3092
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tudn.png?raw=true" group-title="EUA" tvg-shift="-3",TUDN
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/57973
 #EXTINF:-1 tvg-id="TyCSports(Spanish).us" tvg-name="TYC SPORTS" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/TyCSp.png?raw=true" group-title="EUA" tvg-shift="-3",TYC SPORTS
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/30054
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",YES NETWORK
  http://mxu03.wanicelife.com:8880/D12m2439/62229525/3078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES NETWORK (ALT)" tvg-logo="" group-title="EUA" tvg-shift="-3",YES NETWORK (ALT)
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/31054
 #EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BEIN SPORTS 1" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS1.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 1
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2830
 #EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="BEIN SPORTS 2" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS2.png?raw=true" group-title="FRANÇA" tvg-shift="-3",BEIN SPORTS 2
@@ -211,10 +269,6 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/28945
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28943
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt4.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 4
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28942
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA TV USA
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
-#EXTINF:-1 tvg-id="NBATV(English).ca" tvg-name="NBA TV CAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA TV CAN
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3037
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 01
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29525
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 02
