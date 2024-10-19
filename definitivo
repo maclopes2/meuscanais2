@@ -211,7 +211,43 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/28945
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28943
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT SPORTS 4" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/tnt4.png?raw=true" group-title="REINO UNIDO" tvg-shift="-3",TNT SPORTS 4
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/28942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NETWORK UK" tvg-logo="" group-title="PPV" tvg-shift="-3",UFC NETWORK UK
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NETWORK USA" tvg-logo="" group-title="PPV" tvg-shift="-3",UFC NETWORK USA
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/3084
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA TV USA
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
+#EXTINF:-1 tvg-id="NBATV(English).ca" tvg-name="NBA TV CAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA TV CAN
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 01
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29525
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 02
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29524
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 03" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 03
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 04" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 04
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 05" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 05
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 06" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 06
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 07" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 07
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29517
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 08" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 08
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 09" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 09
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 10" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 10
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/68774
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 11
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/68773
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 12" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 12
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 13" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 13
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 14" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 14
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 15" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 15
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 16" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 16
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 17" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 17
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA" tvg-shift="-3",NBA LEAGUE PASS 18
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/60971
