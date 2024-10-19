@@ -7,16 +7,12 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30046
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29476
 #EXTINF:-1 tvg-id="" tvg-name="US436:Bally Sports Southeast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US436F" group-title="USA Sports",US436:Bally Sports Southeast
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29754
-#EXTINF:-1 tvg-id="bally.sports.detroit.us" tvg-name="US715:Bally Sports Detroit Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US715FLOSPORTS02.png" group-title="USA Sports",US715:Bally Sports Detroit Plus
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29475
 #EXTINF:-1 tvg-id="bally.sports.florida.1.us" tvg-name="US716:Bally Sports Florida" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US716FLOSPORTS03.png" group-title="USA Sports",US716:Bally Sports Florida
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29474
 #EXTINF:-1 tvg-id="bally.sports.florida.1.us" tvg-name="US717:Bally Sports Florida Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US717FLOSPORTS04.png" group-title="USA Sports",US717:Bally Sports Florida Plus
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29473
 #EXTINF:-1 tvg-id="bally.sports.midwest.kansas.city.us" tvg-name="US718:Bally Sports Kansas City" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US718FLOSPORTS05.png" group-title="USA Sports",US718:Bally Sports Kansas City
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29472
-#EXTINF:-1 tvg-id="bally.sports.southwest.us" tvg-name="US816:Bally Sports Southwest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US816BallySportsSouthwest.png" group-title="USA Sports",US816:Bally Sports Southwest
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/59200
 #EXTINF:-1 tvg-id="bally.sports.midwest.us" tvg-name="US826:Bally Sports Midwest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT117DISCOVERY CHANNEL.png" group-title="USA Sports",US826:Bally Sports Midwest
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29373
 #EXTINF:-1 tvg-id="" tvg-name="US930:Bally Sports YES" tvg-logo="" group-title="USA Sports",US930:Bally Sports YES
@@ -33,24 +29,24 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30082
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30081
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="US110:Bally Sports Wisconsin" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US110Fox_Sports_Wisconsin.png" group-title="USA FOX",US110:Bally Sports Wisconsin
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30080
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US111:Fox Sports West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US111Fox_Sports_West.png" group-title="USA FOX",US111:Fox Sports West
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US111:Bally Sports West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US111Fox_Sports_West.png" group-title="USA FOX",US111:Bally Sports West
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30079
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US112:Fox Sports South" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US112Fox_Sports_South.png" group-title="USA FOX",US112:Fox Sports South
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US112:Bally Sports South" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US112Fox_Sports_South.png" group-title="USA FOX",US112:Bally Sports South
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30078
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US113:Fox Sports Southeast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US113Fox_Sports_Southeast.png" group-title="USA FOX",US113:Fox Sports Southeast
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US113:Bally Sports Southeast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US113Fox_Sports_Southeast.png" group-title="USA FOX",US113:Bally Sports Southeast
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30077
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US114:Fox Sports Southwest Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US114Fox_Sports_Southwest_Plus.png" group-title="USA FOX",US114:Fox Sports Southwest Plus
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US114:Bally Sports Southwest Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US114Fox_Sports_Southwest_Plus.png" group-title="USA FOX",US114:Bally Sports Southwest Plus
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30076
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="US118:Bally Sports Oklahoma" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US118Fox_College_Sports_Central.png" group-title="USA FOX",US118:Bally Sports Oklahoma
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30072
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="US121:Bally Sports Prime Ticket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US121Fox_Sports_1.png" group-title="USA FOX",US121:Bally Sports Prime Ticket
 #EXTINF:-1 tvg-id="" tvg-name="US157:NBC Sports Philadelfia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US157NBC_Sports_Philadelfia.png" group-title="USA NBC",US157:NBC Sports Philadelfia
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30033
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US158:NBC Sports Washington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US158NBC_Sports_Washington.png" group-title="USA NBC",US158:NBC Sports Washington
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US158:Monumental" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US158NBC_Sports_Washington.png" group-title="USA NBC",US158:Monumental
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30032
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US159:NBC (WESH)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US159NBC_Sports_California.png" group-title="USA NBC",US159:NBC (WESH)
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US159:CHSN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US159NBC_Sports_California.png" group-title="USA NBC",US159:CHSN
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30031
-#EXTINF:-1 tvg-id="nbc.sports.chicago.us" tvg-name="US160:NBC Sports Chicago" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US160NBC_Sports_Chicago.png" group-title="USA NBC",US160:NBC Sports Chicago
+#EXTINF:-1 tvg-id="nbc.sports.chicago.us" tvg-name="US160:CHSN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US160NBC_Sports_Chicago.png" group-title="USA NBC",US160:CHSN
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30030
 #EXTINF:-1 tvg-id="nbc.sports.bay.area.us" tvg-name="US161:NBC Sports Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US161NBC_Sports_Bay_Area.png" group-title="USA NBC",US161:NBC Sports Bay Area
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30029
@@ -64,9 +60,9 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30025
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30052
 #EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US900:Spectrum SportsNet Lakers" tvg-logo="" group-title="USA Sports",US900:Spectrum SportsNet Lakers
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/60983
-#EXTINF:-1 tvg-id="" tvg-name="US208:CBS 5 SAN ANTONIO KENS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US208CBS_KLFY.png" group-title="USA CBS",US208:CBS 5 SAN ANTONIO KENS
+#EXTINF:-1 tvg-id="" tvg-name="US208:KENS SAN ANTONIO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US208CBS_KLFY.png" group-title="USA CBS",US208:KENS SAN ANTONIO
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29982
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="US298:CBS 5 (KENS) San Antonio" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US298CBS_KENS.png" group-title="USA CBS",US298:CBS 5 (KENS) San Antonio
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US298:KENS SAN ANTONIO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US298CBS_KENS.png" group-title="USA CBS",US298:KENS SAN ANTONIO
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29892
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="EUA" tvg-shift="-3",YES NETWORK
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3078
