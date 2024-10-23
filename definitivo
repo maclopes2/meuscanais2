@@ -31,6 +31,8 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28835
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS (UK)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",SKY NEWS (UK)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2886
+#EXTINF:-1 tvg-id="TV5Monde(FBSM).fr" tvg-name="TV5 MONDE (FR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",TV5 MONDE (FR)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/28092
 #EXTINF:-1 tvg-id="BallySportsArizona.us" tvg-name="BALLY SPORTS ARIZONA (EUA)" tvg-logo="https://i.imgur.com/SmZoEph.png" group-title="ESPORTES" tvg-shift="-3",BALLY SPORTS ARIZONA (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30081
 #EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="BALLY SPORTS DETROIT (EUA)" tvg-logo="https://i.imgur.com/Yq3W061.png" group-title="ESPORTES" tvg-shift="-3",BALLY SPORTS DETROIT (EUA)
