@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ARG008:C5N" tvg-logo="" group-title="Argentina",ARG008:C5N
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49744
 #EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES003:24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:24H
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
 #EXTINF:-1 tvg-id="nhk.world.gb" tvg-name="UK224:NHK WORLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK224" group-title="UK Ent",UK224:NHK WORLD
