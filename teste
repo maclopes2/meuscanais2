@@ -1,39 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zona.dazn.2.it" tvg-name="IT009:DAZN SPORT 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/" group-title="IT Sports",IT009:DAZN SPORT 2 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2763
-#EXTINF:-1 tvg-id="rai.sport.1.it" tvg-name="IT057:RAI SPORT 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT057Rai1.png" group-title="IT Sports",IT057:RAI SPORT 1 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2715
-#EXTINF:-1 tvg-id="rai.sport.1.dtt.it" tvg-name="IT058:RAI SPORT+ " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT058Rai2.png" group-title="IT Sports",IT058:RAI SPORT+ 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2714
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="IT084:SKY SPORT ARENA " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT084SuperTennis.png" group-title="IT Sports",IT084:SKY SPORT ARENA 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2688
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="IT085:SKY SPORT CALCIO " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT085SkyAtlantic.png" group-title="IT Sports",IT085:SKY SPORT CALCIO 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2687
-#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="IT086:SKY SPORT F1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT08" group-title="IT Sports",IT086:SKY SPORT F1 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2686
-#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="IT087:SKY SPORT FOOTBALL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT087History.png" group-title="IT Sports",IT087:SKY SPORT FOOTBALL 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2685
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="IT088:SKY SPORT GOLF " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT088TopCrime.png" group-title="IT Sports",IT088:SKY SPORT GOLF 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2684
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="IT089:SKY SPORT MOTOGP " tvg-logo="" group-title="IT Sports",IT089:SKY SPORT MOTOGP 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28473
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="IT090:SKY SPORT NBA " tvg-logo="" group-title="IT Sports",IT090:SKY SPORT NBA 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28472
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT093:SPORT ITALIA +24 " tvg-logo="" group-title="IT Sports",IT093:SPORT ITALIA +24 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28469
-#EXTINF:-1 tvg-id="sky.sport.it" tvg-name="IT094:SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="IT Sports",IT094:SPORT ITALIA SOLO CALCIO
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28468
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT095:SUPER TENNIS " tvg-logo="" group-title="IT Sports",IT095:SUPER TENNIS 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28467
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="IT098:TG COM 24 " tvg-logo="" group-title="IT Sports",IT098:TG COM 24 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28464
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-name="IT116:MOTOR TREND" tvg-logo="" group-title="IT Sports",IT116:MOTOR TREND
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28439
-#EXTINF:-1 tvg-id="" tvg-name="IT117:MS MOTOR TV" tvg-logo="" group-title="IT Sports",IT117:MS MOTOR TV
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28438
-#EXTINF:-1 tvg-id="zona.dazn.it" tvg-name="IT125:DAZN 2" tvg-logo="" group-title="IT Sports",IT125:DAZN 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28430
-#EXTINF:-1 tvg-id="zona.dazn.3.it" tvg-name="IT126:Dazn Zona 3" tvg-logo="" group-title="IT Sports",IT126:Dazn Zona 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28429
-#EXTINF:-1 tvg-id="zona.dazn.4.it" tvg-name="IT127:Dazn Zona 4" tvg-logo="" group-title="IT Sports",IT127:Dazn Zona 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28428
+#EXTINF:-1 tvg-id="" tvg-name="ARG008:C5N" tvg-logo="" group-title="Argentina",ARG008:C5N
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/49744
+#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES003:24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:24H
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",MY075:CCTV4 HD
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/71047
+#EXTINF:-1 tvg-id="" tvg-name="JP010:NHK WORLD" tvg-logo="" group-title="Japan",JP010:NHK WORLD
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/51847
+#EXTINF:-1 tvg-id="nhk.world.gb" tvg-name="UK224:NHK WORLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK224" group-title="UK Ent",UK224:NHK WORLD
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28835
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="PT053:RTP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/3197
