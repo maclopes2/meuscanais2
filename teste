@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES003:24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:24H
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
-#EXTINF:-1 tvg-id="nhk.world.gb" tvg-name="UK224:NHK WORLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK224" group-title="UK Ent",UK224:NHK WORLD
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28835
-#EXTINF:-1 tvg-id="rai.news.24.it" tvg-name="IT054:RAI NEWS 24 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT054RaiStoria.png" group-title="IT General",IT054:RAI NEWS 24 
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2718
+#EXTINF:-1 tvg-id="es." tvg-name="ES094:M+ #VAMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES094#0.png" group-title="ES Deportes",ES094:M+ #VAMOS
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29298
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:M+ DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Deportes",ES097:M+ DEPORTES
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29295
+#EXTINF:-1 tvg-id="" tvg-name="ES098:M+ DEPORTES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Deportes",ES098:M+ DEPORTES 2
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29294
+#EXTINF:-1 tvg-id="" tvg-name="ES099:M+ DEPORTES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Deportes",ES099:M+ DEPORTES 3
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29293
+#EXTINF:-1 tvg-id="" tvg-name="ES100:M+ DEPORTES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Deportes",ES100:M+ DEPORTES 4
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29292
+#EXTINF:-1 tvg-id="" tvg-name="ES101:M+ DEPORTES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Deportes",ES101:M+ DEPORTES 5
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29291
+#EXTINF:-1 tvg-id="" tvg-name="ES102:M+ DEPORTES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Deportes",ES102:M+ DEPORTES 6
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29290
+#EXTINF:-1 tvg-id="" tvg-name="ES103:M+ DEPORTES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Deportes",ES103:M+ DEPORTES 7
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29289
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:MOVISTAR FORMULA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Deportes",ES157:MOVISTAR FORMULA 1
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29235
+#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:MOVISTAR FUTBOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Deportes",ES158:MOVISTAR FUTBOL
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29234
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:MOVISTAR GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="ES Deportes",ES159:MOVISTAR GOLF
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29233
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:MOVISTAR MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Deportes",ES160:MOVISTAR MOTOGP
+http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29232
