@@ -1,0 +1,1514 @@
+<tv>
+<channel id="Canal24H.es">
+<display-name>24H (ESP)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Canal24H.es">
+<title>Exemplo de Programa - 24H (ESP)</title>
+<desc>Programação do canal 24H (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ABCNewsLive.us">
+<display-name>ABC NEWS (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ABCNewsLive.us">
+<title>Exemplo de Programa - ABC NEWS (EUA)</title>
+<desc>Programação do canal ABC NEWS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="AlJazeera.uk">
+<display-name>AL JAZEERA (UK)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FJAZEERA.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="AlJazeera.uk">
+<title>Exemplo de Programa - AL JAZEERA (UK)</title>
+<desc>Programação do canal AL JAZEERA (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BBCNews(NorthAmerica)(English).ca">
+<display-name>BBC NEWS (CAN)</display-name>
+<icon src="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BBCNews(NorthAmerica)(English).ca">
+<title>Exemplo de Programa - BBC NEWS (CAN)</title>
+<desc>Programação do canal BBC NEWS (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BBCNews.uk">
+<display-name>BBC NEWS (UK)</display-name>
+<icon src="https://mondrian.claro.com.br/channels/inverse/bbc-world-news@3x.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BBCNews.uk">
+<title>Exemplo de Programa - BBC NEWS (UK)</title>
+<desc>Programação do canal BBC NEWS (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CBCNewsNetwork(English).ca">
+<display-name>CBC NEWS (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/CBC.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CBCNewsNetwork(English).ca">
+<title>Exemplo de Programa - CBC NEWS (CAN)</title>
+<desc>Programação do canal CBC NEWS (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CNN.us">
+<display-name>CNN (EUA)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CNN.us">
+<title>Exemplo de Programa - CNN (EUA)</title>
+<desc>Programação do canal CNN (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CNNPortugal(src01).pt">
+<display-name>CNN PORTUGAL (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CNNPortugal(src01).pt">
+<title>Exemplo de Programa - CNN PORTUGAL (PT)</title>
+<desc>Programação do canal CNN PORTUGAL (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CTVNewsChannel(English).ca">
+<display-name>CTV NEWS (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/CTV_News_1999.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CTVNewsChannel(English).ca">
+<title>Exemplo de Programa - CTV NEWS (CAN)</title>
+<desc>Programação do canal CTV NEWS (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="euronews.uk">
+<display-name>EURONEWS (UK)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEURON.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="euronews.uk">
+<title>Exemplo de Programa - EURONEWS (UK)</title>
+<desc>Programação do canal EURONEWS (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FoxNewsChannel.us">
+<display-name>FOX NEWS (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/Fox_News_Channel.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FoxNewsChannel.us">
+<title>Exemplo de Programa - FOX NEWS (EUA)</title>
+<desc>Programação do canal FOX NEWS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="France24.fr">
+<display-name>FRANCE 24 (FR)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="France24.fr">
+<title>Exemplo de Programa - FRANCE 24 (FR)</title>
+<desc>Programação do canal FRANCE 24 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MSNBC.us">
+<display-name>MSNBC (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MSNBC.us">
+<title>Exemplo de Programa - MSNBC (EUA)</title>
+<desc>Programação do canal MSNBC (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NHKWorld.uk">
+<display-name>NHK WORLD (UK)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80647_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NHKWorld.uk">
+<title>Exemplo de Programa - NHK WORLD (UK)</title>
+<desc>Programação do canal NHK WORLD (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SICNoticias(src01).pt">
+<display-name>SIC NOTICIAS (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SICNoticias(src01).pt">
+<title>Exemplo de Programa - SIC NOTICIAS (PT)</title>
+<desc>Programação do canal SIC NOTICIAS (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkyNews.uk">
+<display-name>SKY NEWS (UK)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkyNews.uk">
+<title>Exemplo de Programa - SKY NEWS (UK)</title>
+<desc>Programação do canal SKY NEWS (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TV5Monde(FBSM).fr">
+<display-name>TV5 MONDE (FR)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TV5Monde(FBSM).fr">
+<title>Exemplo de Programa - TV5 MONDE (FR)</title>
+<desc>Programação do canal TV5 MONDE (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTS1.fr">
+<display-name>BEIN SPORTS 1 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/BS1.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTS1.fr">
+<title>Exemplo de Programa - BEIN SPORTS 1 (FR)</title>
+<desc>Programação do canal BEIN SPORTS 1 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTS2.fr">
+<display-name>BEIN SPORTS 2 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/BS2.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTS2.fr">
+<title>Exemplo de Programa - BEIN SPORTS 2 (FR)</title>
+<desc>Programação do canal BEIN SPORTS 2 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTS3.fr">
+<display-name>BEIN SPORTS 3 (FR)</display-name>
+<icon src="https://raw.githubusercontent.com/maclopes2/meuscanais2/refs/heads/main/BE_IN_SPORT_3_2017.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTS3.fr">
+<title>Exemplo de Programa - BEIN SPORTS 3 (FR)</title>
+<desc>Programação do canal BEIN SPORTS 3 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTSMax4.fr">
+<display-name>BEIN SPORTS MAX 4 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_4_2017.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTSMax4.fr">
+<title>Exemplo de Programa - BEIN SPORTS MAX 4 (FR)</title>
+<desc>Programação do canal BEIN SPORTS MAX 4 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTSMax5.fr">
+<display-name>BEIN SPORTS MAX 5 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_5_2017.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTSMax5.fr">
+<title>Exemplo de Programa - BEIN SPORTS MAX 5 (FR)</title>
+<desc>Programação do canal BEIN SPORTS MAX 5 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BeINSPORTSMax6.fr">
+<display-name>BEIN SPORTS MAX 6 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/BE_IN_SPORT_MAX_6_2017.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BeINSPORTSMax6.fr">
+<title>Exemplo de Programa - BEIN SPORTS MAX 6 (FR)</title>
+<desc>Programação do canal BEIN SPORTS MAX 6 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Canal11(src01).pt">
+<display-name>CANAL 11 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Canal11(src01).pt">
+<title>Exemplo de Programa - CANAL 11 (PT)</title>
+<desc>Programação do canal CANAL 11 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CBSSportsNetwork.us">
+<display-name>CBS SPORTS (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CBSSportsNetwork.us">
+<title>Exemplo de Programa - CBS SPORTS (EUA)</title>
+<desc>Programação do canal CBS SPORTS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CHSN.us">
+<display-name>CHSN (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s166708_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CHSN.us">
+<title>Exemplo de Programa - CHSN (EUA)</title>
+<desc>Programação do canal CHSN (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="CHSN.us">
+<display-name>CHSN - ALT (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s166708_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="CHSN.us">
+<title>Exemplo de Programa - CHSN - ALT (EUA)</title>
+<desc>Programação do canal CHSN - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN1.de">
+<display-name>DAZN 1 (ALE)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN1.de">
+<title>Exemplo de Programa - DAZN 1 (ALE)</title>
+<desc>Programação do canal DAZN 1 (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN1(src01).es">
+<display-name>DAZN 1 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN1(src01).es">
+<title>Exemplo de Programa - DAZN 1 (ESP)</title>
+<desc>Programação do canal DAZN 1 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ElevenSports1(src01).pt">
+<display-name>DAZN 1 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ElevenSports1(src01).pt">
+<title>Exemplo de Programa - DAZN 1 (PT)</title>
+<desc>Programação do canal DAZN 1 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN2.de">
+<display-name>DAZN 2 (ALE)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN2.de">
+<title>Exemplo de Programa - DAZN 2 (ALE)</title>
+<desc>Programação do canal DAZN 2 (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN2(src01).es">
+<display-name>DAZN 2 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN2(src01).es">
+<title>Exemplo de Programa - DAZN 2 (ESP)</title>
+<desc>Programação do canal DAZN 2 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ElevenSports2(src01).pt">
+<display-name>DAZN 2 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ElevenSports2(src01).pt">
+<title>Exemplo de Programa - DAZN 2 (PT)</title>
+<desc>Programação do canal DAZN 2 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN3(src01).es">
+<display-name>DAZN 3 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN3(src01).es">
+<title>Exemplo de Programa - DAZN 3 (ESP)</title>
+<desc>Programação do canal DAZN 3 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ElevenSports3(src01).pt">
+<display-name>DAZN 3 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ElevenSports3(src01).pt">
+<title>Exemplo de Programa - DAZN 3 (PT)</title>
+<desc>Programação do canal DAZN 3 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZN4(src01).es">
+<display-name>DAZN 4 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZN4(src01).es">
+<title>Exemplo de Programa - DAZN 4 (ESP)</title>
+<desc>Programação do canal DAZN 4 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ElevenSports4(src01).pt">
+<display-name>DAZN 4 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ElevenSports4(src01).pt">
+<title>Exemplo de Programa - DAZN 4 (PT)</title>
+<desc>Programação do canal DAZN 4 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZNF1(src01).es">
+<display-name>DAZN F1 (ESP)</display-name>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZNF1(src01).es">
+<title>Exemplo de Programa - DAZN F1 (ESP)</title>
+<desc>Programação do canal DAZN F1 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZNLaLiga.es">
+<display-name>DAZN LA LIGA (ESP)</display-name>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZNLaLiga.es">
+<title>Exemplo de Programa - DAZN LA LIGA (ESP)</title>
+<desc>Programação do canal DAZN LA LIGA (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="DAZNLALIGA2(src01).es">
+<display-name>DAZN LA LIGA 2 (ESP)</display-name>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="DAZNLALIGA2(src01).es">
+<title>Exemplo de Programa - DAZN LA LIGA 2 (ESP)</title>
+<desc>Programação do canal DAZN LA LIGA 2 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MplusDEPORTES(src01).es">
+<display-name>DEPORTES POR M+ (ESP)</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MplusDEPORTES(src01).es">
+<title>Exemplo de Programa - DEPORTES POR M+ (ESP)</title>
+<desc>Programação do canal DEPORTES POR M+ (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ESPN.us">
+<display-name>ESPN (EUA)</display-name>
+<icon src="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ESPN.us">
+<title>Exemplo de Programa - ESPN (EUA)</title>
+<desc>Programação do canal ESPN (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ESPN2.us">
+<display-name>ESPN 2 (EUA)</display-name>
+<icon src="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ESPN2.us">
+<title>Exemplo de Programa - ESPN 2 (EUA)</title>
+<desc>Programação do canal ESPN 2 (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ESPNDeportes(Spanish).us">
+<display-name>ESPN DEPORTES (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ESPNDeportes(Spanish).us">
+<title>Exemplo de Programa - ESPN DEPORTES (EUA)</title>
+<desc>Programação do canal ESPN DEPORTES (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="ESPNU.us">
+<display-name>ESPNU (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="ESPNU.us">
+<title>Exemplo de Programa - ESPNU (EUA)</title>
+<desc>Programação do canal ESPNU (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport1.de">
+<display-name>EUROSPORT 1 (ALE)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport1.de">
+<title>Exemplo de Programa - EUROSPORT 1 (ALE)</title>
+<desc>Programação do canal EUROSPORT 1 (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport1.es">
+<display-name>EUROSPORT 1 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport1.es">
+<title>Exemplo de Programa - EUROSPORT 1 (ESP)</title>
+<desc>Programação do canal EUROSPORT 1 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="EuroSport1(src01).pt">
+<display-name>EUROSPORT 1 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="EuroSport1(src01).pt">
+<title>Exemplo de Programa - EUROSPORT 1 (PT)</title>
+<desc>Programação do canal EUROSPORT 1 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport1.uk">
+<display-name>EUROSPORT 1 (UK)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport1.uk">
+<title>Exemplo de Programa - EUROSPORT 1 (UK)</title>
+<desc>Programação do canal EUROSPORT 1 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport2.de">
+<display-name>EUROSPORT 2 (ALE)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport2.de">
+<title>Exemplo de Programa - EUROSPORT 2 (ALE)</title>
+<desc>Programação do canal EUROSPORT 2 (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport2.es">
+<display-name>EUROSPORT 2 (ESP)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport2.es">
+<title>Exemplo de Programa - EUROSPORT 2 (ESP)</title>
+<desc>Programação do canal EUROSPORT 2 (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="EuroSport2(src01).pt">
+<display-name>EUROSPORT 2 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="EuroSport2(src01).pt">
+<title>Exemplo de Programa - EUROSPORT 2 (PT)</title>
+<desc>Programação do canal EUROSPORT 2 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="Eurosport2.uk">
+<display-name>EUROSPORT 2 (UK)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="Eurosport2.uk">
+<title>Exemplo de Programa - EUROSPORT 2 (UK)</title>
+<desc>Programação do canal EUROSPORT 2 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelSportsNetwork(Southwest).us">
+<display-name>FANDUEL ARIZONA (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelSportsNetwork(Southwest).us">
+<title>Exemplo de Programa - FANDUEL ARIZONA (EUA)</title>
+<desc>Programação do canal FANDUEL ARIZONA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelSportsNetworkDetroit.us">
+<display-name>FANDUEL DETROIT (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelSportsNetworkDetroit.us">
+<title>Exemplo de Programa - FANDUEL DETROIT (EUA)</title>
+<desc>Programação do canal FANDUEL DETROIT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySportsFlorida.us">
+<display-name>FANDUEL FLORIDA (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySportsFlorida.us">
+<title>Exemplo de Programa - FANDUEL FLORIDA (EUA)</title>
+<desc>Programação do canal FANDUEL FLORIDA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySportsFlorida.us">
+<display-name>FANDUEL FLORIDA - ALT (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySportsFlorida.us">
+<title>Exemplo de Programa - FANDUEL FLORIDA - ALT (EUA)</title>
+<desc>Programação do canal FANDUEL FLORIDA - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelSportsNetworkFlorida.us">
+<display-name>FANDUEL FLORIDA PLUS (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelSportsNetworkFlorida.us">
+<title>Exemplo de Programa - FANDUEL FLORIDA PLUS (EUA)</title>
+<desc>Programação do canal FANDUEL FLORIDA PLUS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelTV.us">
+<display-name>FANDUEL INDIANA (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelTV.us">
+<title>Exemplo de Programa - FANDUEL INDIANA (EUA)</title>
+<desc>Programação do canal FANDUEL INDIANA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelSportsNetwork(Midwest).us">
+<display-name>FANDUEL KANSAS CITY (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelSportsNetwork(Midwest).us">
+<title>Exemplo de Programa - FANDUEL KANSAS CITY (EUA)</title>
+<desc>Programação do canal FANDUEL KANSAS CITY (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(Midwest).us">
+<display-name>FANDUEL MIDWEST (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(Midwest).us">
+<title>Exemplo de Programa - FANDUEL MIDWEST (EUA)</title>
+<desc>Programação do canal FANDUEL MIDWEST (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(North).us">
+<display-name>FANDUEL NORTH (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(North).us">
+<title>Exemplo de Programa - FANDUEL NORTH (EUA)</title>
+<desc>Programação do canal FANDUEL NORTH (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySportsOklahoma.us">
+<display-name>FANDUEL OKLAHOMA (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySportsOklahoma.us">
+<title>Exemplo de Programa - FANDUEL OKLAHOMA (EUA)</title>
+<desc>Programação do canal FANDUEL OKLAHOMA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySportsSoCal.us">
+<display-name>FANDUEL SOCAL (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySportsSoCal.us">
+<title>Exemplo de Programa - FANDUEL SOCAL (EUA)</title>
+<desc>Programação do canal FANDUEL SOCAL (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(South).us">
+<display-name>FANDUEL SOUTH (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(South).us">
+<title>Exemplo de Programa - FANDUEL SOUTH (EUA)</title>
+<desc>Programação do canal FANDUEL SOUTH (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(Southeast).us">
+<display-name>FANDUEL SOUTHEAST (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(Southeast).us">
+<title>Exemplo de Programa - FANDUEL SOUTHEAST (EUA)</title>
+<desc>Programação do canal FANDUEL SOUTHEAST (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(Southeast).us">
+<display-name>FANDUEL SOUTHEAST - ALT (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(Southeast).us">
+<title>Exemplo de Programa - FANDUEL SOUTHEAST - ALT (EUA)</title>
+<desc>Programação do canal FANDUEL SOUTHEAST - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FanDuelSportsNetwork(Southwest).us">
+<display-name>FANDUEL SOUTHWEST (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FanDuelSportsNetwork(Southwest).us">
+<title>Exemplo de Programa - FANDUEL SOUTHWEST (EUA)</title>
+<desc>Programação do canal FANDUEL SOUTHWEST (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySports(West).us">
+<display-name>FANDUEL WEST (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySports(West).us">
+<title>Exemplo de Programa - FANDUEL WEST (EUA)</title>
+<desc>Programação do canal FANDUEL WEST (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="BallySportsWisconsin.us">
+<display-name>FANDUEL WISCONSIN (EUA)</display-name>
+<icon src="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="BallySportsWisconsin.us">
+<title>Exemplo de Programa - FANDUEL WISCONSIN (EUA)</title>
+<desc>Programação do canal FANDUEL WISCONSIN (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FoxDeportes(Spanish).us">
+<display-name>FOX DEPORTES (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FoxDeportes(Spanish).us">
+<title>Exemplo de Programa - FOX DEPORTES (EUA)</title>
+<desc>Programação do canal FOX DEPORTES (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FoxSoccerPlus.us">
+<display-name>FOX SOCCER PLUS (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66880_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FoxSoccerPlus.us">
+<title>Exemplo de Programa - FOX SOCCER PLUS (EUA)</title>
+<desc>Programação do canal FOX SOCCER PLUS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FS1.us">
+<display-name>FS 1 (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FS1.us">
+<title>Exemplo de Programa - FS 1 (EUA)</title>
+<desc>Programação do canal FS 1 (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="FS2.us">
+<display-name>FS 2 (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="FS2.us">
+<title>Exemplo de Programa - FS 2 (EUA)</title>
+<desc>Programação do canal FS 2 (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="GOLTV(Spanish).us">
+<display-name>GOL TV (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="GOLTV(Spanish).us">
+<title>Exemplo de Programa - GOL TV (EUA)</title>
+<desc>Programação do canal GOL TV (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MLBNetwork.us">
+<display-name>MLB NETWORK (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MLBNetwork.us">
+<title>Exemplo de Programa - MLB NETWORK (EUA)</title>
+<desc>Programação do canal MLB NETWORK (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MonumentalSportsNetwork.us">
+<display-name>MONUMENTAL (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10271_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MonumentalSportsNetwork.us">
+<title>Exemplo de Programa - MONUMENTAL (EUA)</title>
+<desc>Programação do canal MONUMENTAL (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MSGZone1.us">
+<display-name>MSG (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MSGZone1.us">
+<title>Exemplo de Programa - MSG (EUA)</title>
+<desc>Programação do canal MSG (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBATV(English).ca">
+<display-name>NBA TV (CAN)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBATV(English).ca">
+<title>Exemplo de Programa - NBA TV (CAN)</title>
+<desc>Programação do canal NBA TV (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBATV.us">
+<display-name>NBA TV (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBATV.us">
+<title>Exemplo de Programa - NBA TV (EUA)</title>
+<desc>Programação do canal NBA TV (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBCSportsBayArea.us">
+<display-name>NBC SPORTS BAY AREA (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBCSportsBayArea.us">
+<title>Exemplo de Programa - NBC SPORTS BAY AREA (EUA)</title>
+<desc>Programação do canal NBC SPORTS BAY AREA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBCSportsBoston.us">
+<display-name>NBC SPORTS BOSTON (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/NBCSB-header-logo_2x.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBCSportsBoston.us">
+<title>Exemplo de Programa - NBC SPORTS BOSTON (EUA)</title>
+<desc>Programação do canal NBC SPORTS BOSTON (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBCSportsChicago.us">
+<display-name>NBC SPORTS NETWORK (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/nbc-sports-2023.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBCSportsChicago.us">
+<title>Exemplo de Programa - NBC SPORTS NETWORK (EUA)</title>
+<desc>Programação do canal NBC SPORTS NETWORK (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBCSportsChicago.us">
+<display-name>NBC SPORTS PHILADELPHIA (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/NBCSP-header-logo_2x.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBCSportsChicago.us">
+<title>Exemplo de Programa - NBC SPORTS PHILADELPHIA (EUA)</title>
+<desc>Programação do canal NBC SPORTS PHILADELPHIA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NFLNetworkALTCanadianFeed(English).ca">
+<display-name>NFL NETWORK (CAN)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NFLNetworkALTCanadianFeed(English).ca">
+<title>Exemplo de Programa - NFL NETWORK (CAN)</title>
+<desc>Programação do canal NFL NETWORK (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NFLNetwork.us">
+<display-name>NFL NETWORK (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NFLNetwork.us">
+<title>Exemplo de Programa - NFL NETWORK (EUA)</title>
+<desc>Programação do canal NFL NETWORK (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NFLRedZone.us">
+<display-name>NFL REDZONE (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/Nfl-redzone-gold-2015.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NFLRedZone.us">
+<title>Exemplo de Programa - NFL REDZONE (EUA)</title>
+<desc>Programação do canal NFL REDZONE (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NFLNetwork.us">
+<display-name>NHL NETWORK (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NFLNetwork.us">
+<title>Exemplo de Programa - NHL NETWORK (EUA)</title>
+<desc>Programação do canal NHL NETWORK (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="PremierSports1.uk">
+<display-name>PREMIER SPORTS 1 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/Premier_Sports_1_2021.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="PremierSports1.uk">
+<title>Exemplo de Programa - PREMIER SPORTS 1 (UK)</title>
+<desc>Programação do canal PREMIER SPORTS 1 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="PremierSports2.uk">
+<display-name>PREMIER SPORTS 2 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/Premier_Sports_2_2021.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="PremierSports2.uk">
+<title>Exemplo de Programa - PREMIER SPORTS 2 (UK)</title>
+<desc>Programação do canal PREMIER SPORTS 2 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="RaiSport(src01).it">
+<display-name>RAI SPORT (IT)</display-name>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfJpusT8SFQ6dpYpFDU_y9iIWidrW6673kA&s"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="RaiSport(src01).it">
+<title>Exemplo de Programa - RAI SPORT (IT)</title>
+<desc>Programação do canal RAI SPORT (IT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="RMCSport1.fr">
+<display-name>RMC SPORT 1 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/rmc1.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="RMCSport1.fr">
+<title>Exemplo de Programa - RMC SPORT 1 (FR)</title>
+<desc>Programação do canal RMC SPORT 1 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="RMCSport2.fr">
+<display-name>RMC SPORT 2 (FR)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/rmc2.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="RMCSport2.fr">
+<title>Exemplo de Programa - RMC SPORT 2 (FR)</title>
+<desc>Programação do canal RMC SPORT 2 (FR).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportUHD.at">
+<display-name>SKY SPORT (AUT)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyaustria_ale.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportUHD.at">
+<title>Exemplo de Programa - SKY SPORT (AUT)</title>
+<desc>Programação do canal SKY SPORT (AUT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportArena.it">
+<display-name>SKY SPORT ARENA (IT)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90068_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportArena.it">
+<title>Exemplo de Programa - SKY SPORT ARENA (IT)</title>
+<desc>Programação do canal SKY SPORT ARENA (IT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportCalcio.it">
+<display-name>SKY SPORT CALCIO (IT)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skycalcio_it.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportCalcio.it">
+<title>Exemplo de Programa - SKY SPORT CALCIO (IT)</title>
+<desc>Programação do canal SKY SPORT CALCIO (IT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportF1.de">
+<display-name>SKY SPORT F1 (ALE)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyf1_it.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportF1.de">
+<title>Exemplo de Programa - SKY SPORT F1 (ALE)</title>
+<desc>Programação do canal SKY SPORT F1 (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportF1.it">
+<display-name>SKY SPORT F1 (IT)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyf1_it.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportF1.it">
+<title>Exemplo de Programa - SKY SPORT F1 (IT)</title>
+<desc>Programação do canal SKY SPORT F1 (IT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportMix.de">
+<display-name>SKY SPORT MIX (ALE)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125288_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportMix.de">
+<title>Exemplo de Programa - SKY SPORT MIX (ALE)</title>
+<desc>Programação do canal SKY SPORT MIX (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportPremierLeague.de">
+<display-name>SKY SPORT PREMIER LEAGUE (ALE)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyepl_ale.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportPremierLeague.de">
+<title>Exemplo de Programa - SKY SPORT PREMIER LEAGUE (ALE)</title>
+<desc>Programação do canal SKY SPORT PREMIER LEAGUE (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportTennis.de">
+<display-name>SKY SPORT TENNIS (ALE)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skytennis_ale.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportTennis.de">
+<title>Exemplo de Programa - SKY SPORT TENNIS (ALE)</title>
+<desc>Programação do canal SKY SPORT TENNIS (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportTennis.it">
+<display-name>SKY SPORT TENNIS (IT)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skytennis_ale.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportTennis.it">
+<title>Exemplo de Programa - SKY SPORT TENNIS (IT)</title>
+<desc>Programação do canal SKY SPORT TENNIS (IT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportTopEvent.de">
+<display-name>SKY SPORT TOP EVENT (ALE)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skytop_ale.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportTopEvent.de">
+<title>Exemplo de Programa - SKY SPORT TOP EVENT (ALE)</title>
+<desc>Programação do canal SKY SPORT TOP EVENT (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsAction.uk">
+<display-name>SKY SPORTS ACTION (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyaction_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsAction.uk">
+<title>Exemplo de Programa - SKY SPORTS ACTION (UK)</title>
+<desc>Programação do canal SKY SPORTS ACTION (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsCricket.uk">
+<display-name>SKY SPORTS CRICKET (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skycricket_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsCricket.uk">
+<title>Exemplo de Programa - SKY SPORTS CRICKET (UK)</title>
+<desc>Programação do canal SKY SPORTS CRICKET (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsF1.uk">
+<display-name>SKY SPORTS F1 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyf1_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsF1.uk">
+<title>Exemplo de Programa - SKY SPORTS F1 (UK)</title>
+<desc>Programação do canal SKY SPORTS F1 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsFootball.uk">
+<display-name>SKY SPORTS FOOTBALL (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyfoot_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsFootball.uk">
+<title>Exemplo de Programa - SKY SPORTS FOOTBALL (UK)</title>
+<desc>Programação do canal SKY SPORTS FOOTBALL (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsMainEvent.uk">
+<display-name>SKY SPORTS MAIN EVENT (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skymain_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsMainEvent.uk">
+<title>Exemplo de Programa - SKY SPORTS MAIN EVENT (UK)</title>
+<desc>Programação do canal SKY SPORTS MAIN EVENT (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SkySportsPremierLeague.uk">
+<display-name>SKY SPORTS PREMIER LEAGUE (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/skyepl_uk.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SkySportsPremierLeague.uk">
+<title>Exemplo de Programa - SKY SPORTS PREMIER LEAGUE (UK)</title>
+<desc>Programação do canal SKY SPORTS PREMIER LEAGUE (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SpaceCityHomeNetwork.us">
+<display-name>SPACE CITY (EUA)</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SpaceCityHomeNetwork.us">
+<title>Exemplo de Programa - SPACE CITY (EUA)</title>
+<desc>Programação do canal SPACE CITY (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SpaceCityHomeNetwork.us">
+<display-name>SPACE CITY - ALT (EUA)</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SpaceCityHomeNetwork.us">
+<title>Exemplo de Programa - SPACE CITY - ALT (EUA)</title>
+<desc>Programação do canal SPACE CITY - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SpectrumSportsNetLA.us">
+<display-name>SPECTRUM SPORTSNET LA (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87024_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SpectrumSportsNetLA.us">
+<title>Exemplo de Programa - SPECTRUM SPORTSNET LA (EUA)</title>
+<desc>Programação do canal SPECTRUM SPORTSNET LA (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SpectrumSportsNetLA.us">
+<display-name>SPECTRUM SPORTSNET LA - ALT (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87024_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SpectrumSportsNetLA.us">
+<title>Exemplo de Programa - SPECTRUM SPORTSNET LA - ALT (EUA)</title>
+<desc>Programação do canal SPECTRUM SPORTSNET LA - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV1(src01).pt">
+<display-name>SPORT TV 1 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV1(src01).pt">
+<title>Exemplo de Programa - SPORT TV 1 (PT)</title>
+<desc>Programação do canal SPORT TV 1 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV1(src01).pt">
+<display-name>SPORT TV 1 - ALT (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV1(src01).pt">
+<title>Exemplo de Programa - SPORT TV 1 - ALT (PT)</title>
+<desc>Programação do canal SPORT TV 1 - ALT (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV2(src01).pt">
+<display-name>SPORT TV 2 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV2(src01).pt">
+<title>Exemplo de Programa - SPORT TV 2 (PT)</title>
+<desc>Programação do canal SPORT TV 2 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV2(src01).pt">
+<display-name>SPORT TV 2 - ALT (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV2(src01).pt">
+<title>Exemplo de Programa - SPORT TV 2 - ALT (PT)</title>
+<desc>Programação do canal SPORT TV 2 - ALT (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV3(src01).pt">
+<display-name>SPORT TV 3 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV3(src01).pt">
+<title>Exemplo de Programa - SPORT TV 3 (PT)</title>
+<desc>Programação do canal SPORT TV 3 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV3(src01).pt">
+<display-name>SPORT TV 3 - ALT (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV3(src01).pt">
+<title>Exemplo de Programa - SPORT TV 3 - ALT (PT)</title>
+<desc>Programação do canal SPORT TV 3 - ALT (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV4(src01).pt">
+<display-name>SPORT TV 4 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV4(src01).pt">
+<title>Exemplo de Programa - SPORT TV 4 (PT)</title>
+<desc>Programação do canal SPORT TV 4 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV4(src01).pt">
+<display-name>SPORT TV 4 - ALT (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV4(src01).pt">
+<title>Exemplo de Programa - SPORT TV 4 - ALT (PT)</title>
+<desc>Programação do canal SPORT TV 4 - ALT (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV5(src01).pt">
+<display-name>SPORT TV 5 (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV5(src01).pt">
+<title>Exemplo de Programa - SPORT TV 5 (PT)</title>
+<desc>Programação do canal SPORT TV 5 (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTV5(src01).pt">
+<display-name>SPORT TV 5 - ALT (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTV5(src01).pt">
+<title>Exemplo de Programa - SPORT TV 5 - ALT (PT)</title>
+<desc>Programação do canal SPORT TV 5 - ALT (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBA(src01).pt">
+<display-name>SPORT TV NBA (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBA(src01).pt">
+<title>Exemplo de Programa - SPORT TV NBA (PT)</title>
+<desc>Programação do canal SPORT TV NBA (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportTVplus(src01).pt">
+<display-name>SPORT TV+ (PT)</display-name>
+<icon src="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportTVplus(src01).pt">
+<title>Exemplo de Programa - SPORT TV+ (PT)</title>
+<desc>Programação do canal SPORT TV+ (PT).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportdigitalFussball(src01).de">
+<display-name>SPORTDIGITAL (ALE)</display-name>
+<icon src="https://play-lh.googleusercontent.com/oGqQliigw0pyM_GgGTvc9qRlXZ2xk6uPVV58XbgenxI-GzAOMwdfCD6jz_R-T4_G5A"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportdigitalFussball(src01).de">
+<title>Exemplo de Programa - SPORTDIGITAL (ALE)</title>
+<desc>Programação do canal SPORTDIGITAL (ALE).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportsnetWorld(English).ca">
+<display-name>SPORTSNET (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/sportsnet.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportsnetWorld(English).ca">
+<title>Exemplo de Programa - SPORTSNET (CAN)</title>
+<desc>Programação do canal SPORTSNET (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportsNetNewYork.us">
+<display-name>SPORTSNET NY (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49603_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportsNetNewYork.us">
+<title>Exemplo de Programa - SPORTSNET NY (EUA)</title>
+<desc>Programação do canal SPORTSNET NY (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportsNetPittsburgh.us">
+<display-name>SPORTSNET PITTSBURGH (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportsNetPittsburgh.us">
+<title>Exemplo de Programa - SPORTSNET PITTSBURGH (EUA)</title>
+<desc>Programação do canal SPORTSNET PITTSBURGH (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="SportsNetPittsburgh.us">
+<display-name>SPORTSNET PITTSBURGH - ALT (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="SportsNetPittsburgh.us">
+<title>Exemplo de Programa - SPORTSNET PITTSBURGH - ALT (EUA)</title>
+<desc>Programação do canal SPORTSNET PITTSBURGH - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TennisChannel.us">
+<display-name>TENNIS CHANNEL (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TennisChannel.us">
+<title>Exemplo de Programa - TENNIS CHANNEL (EUA)</title>
+<desc>Programação do canal TENNIS CHANNEL (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TNT.us">
+<display-name>TNT (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TNT.us">
+<title>Exemplo de Programa - TNT (EUA)</title>
+<desc>Programação do canal TNT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TNTSport1(src01).uk">
+<display-name>TNT SPORTS 1 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/tnt1.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TNTSport1(src01).uk">
+<title>Exemplo de Programa - TNT SPORTS 1 (UK)</title>
+<desc>Programação do canal TNT SPORTS 1 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TNTSport2(src01).uk">
+<display-name>TNT SPORTS 2 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/tnt2.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TNTSport2(src01).uk">
+<title>Exemplo de Programa - TNT SPORTS 2 (UK)</title>
+<desc>Programação do canal TNT SPORTS 2 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TNTSport3(src01).uk">
+<display-name>TNT SPORTS 3 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/tnt3.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TNTSport3(src01).uk">
+<title>Exemplo de Programa - TNT SPORTS 3 (UK)</title>
+<desc>Programação do canal TNT SPORTS 3 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TNTSport4(src01).uk">
+<display-name>TNT SPORTS 4 (UK)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/tnt4.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TNTSport4(src01).uk">
+<title>Exemplo de Programa - TNT SPORTS 4 (UK)</title>
+<desc>Programação do canal TNT SPORTS 4 (UK).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TSN1(English).ca">
+<display-name>TSN 1 (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TSN1_2014.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TSN1(English).ca">
+<title>Exemplo de Programa - TSN 1 (CAN)</title>
+<desc>Programação do canal TSN 1 (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TSN2(English).ca">
+<display-name>TSN 2 (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TSN2_2014.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TSN2(English).ca">
+<title>Exemplo de Programa - TSN 2 (CAN)</title>
+<desc>Programação do canal TSN 2 (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TSN3(English).ca">
+<display-name>TSN 3 (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TSN3_2014.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TSN3(English).ca">
+<title>Exemplo de Programa - TSN 3 (CAN)</title>
+<desc>Programação do canal TSN 3 (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TSN4(English).ca">
+<display-name>TSN 4 (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TSN4_2014.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TSN4(English).ca">
+<title>Exemplo de Programa - TSN 4 (CAN)</title>
+<desc>Programação do canal TSN 4 (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TSN5(English).ca">
+<display-name>TSN 5 (CAN)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TSN5_2014.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TSN5(English).ca">
+<title>Exemplo de Programa - TSN 5 (CAN)</title>
+<desc>Programação do canal TSN 5 (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TUDN(Spanish).us">
+<display-name>TUDN (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/tudn.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TUDN(Spanish).us">
+<title>Exemplo de Programa - TUDN (EUA)</title>
+<desc>Programação do canal TUDN (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TVASports(src01).ca">
+<display-name>TVA SPORTS (CAN)</display-name>
+<icon src="https://www.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TVASports(src01).ca">
+<title>Exemplo de Programa - TVA SPORTS (CAN)</title>
+<desc>Programação do canal TVA SPORTS (CAN).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="TyCSports(Spanish).us">
+<display-name>TYC SPORTS (EUA)</display-name>
+<icon src="https://github.com/maclopes2/meuscanais2/blob/main/TyCSp.png?raw=true"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="TyCSports(Spanish).us">
+<title>Exemplo de Programa - TYC SPORTS (EUA)</title>
+<desc>Programação do canal TYC SPORTS (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="MplusVAMOS(src01).es">
+<display-name>VAMOS POR M+ (ESP)</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="MplusVAMOS(src01).es">
+<title>Exemplo de Programa - VAMOS POR M+ (ESP)</title>
+<desc>Programação do canal VAMOS POR M+ (ESP).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="YesNetwork.us">
+<display-name>YES NETWORK (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="YesNetwork.us">
+<title>Exemplo de Programa - YES NETWORK (EUA)</title>
+<desc>Programação do canal YES NETWORK (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="YesNetwork.us">
+<display-name>YES NETWORK - ALT (EUA)</display-name>
+<icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="YesNetwork.us">
+<title>Exemplo de Programa - YES NETWORK - ALT (EUA)</title>
+<desc>Programação do canal YES NETWORK - ALT (EUA).</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBA1LeaguePass(AtlantaHawks).us">
+<display-name>NBA LEAGUE PASS 01</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBA1LeaguePass(AtlantaHawks).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 01</title>
+<desc>Programação do canal NBA LEAGUE PASS 01.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(CharlotteHornets).us">
+<display-name>NBA LEAGUE PASS 02</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(CharlotteHornets).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 02</title>
+<desc>Programação do canal NBA LEAGUE PASS 02.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(DallasMavericks).us">
+<display-name>NBA LEAGUE PASS 03</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(DallasMavericks).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 03</title>
+<desc>Programação do canal NBA LEAGUE PASS 03.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(DetroitPistons).us">
+<display-name>NBA LEAGUE PASS 04</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(DetroitPistons).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 04</title>
+<desc>Programação do canal NBA LEAGUE PASS 04.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(HoustonRockets).us">
+<display-name>NBA LEAGUE PASS 05</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(HoustonRockets).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 05</title>
+<desc>Programação do canal NBA LEAGUE PASS 05.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Grizzlies).us">
+<display-name>NBA LEAGUE PASS 06</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Grizzlies).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 06</title>
+<desc>Programação do canal NBA LEAGUE PASS 06.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(MiamiHeat).us">
+<display-name>NBA LEAGUE PASS 07</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(MiamiHeat).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 07</title>
+<desc>Programação do canal NBA LEAGUE PASS 07.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(MiamiHeat).us">
+<display-name>NBA LEAGUE PASS 08</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(MiamiHeat).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 08</title>
+<desc>Programação do canal NBA LEAGUE PASS 08.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(MilwaukeeBucks).us">
+<display-name>NBA LEAGUE PASS 09</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(MilwaukeeBucks).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 09</title>
+<desc>Programação do canal NBA LEAGUE PASS 09.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Timberwolves).us">
+<display-name>NBA LEAGUE PASS 10</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Timberwolves).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 10</title>
+<desc>Programação do canal NBA LEAGUE PASS 10.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Timberwolves).us">
+<display-name>NBA LEAGUE PASS 11</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Timberwolves).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 11</title>
+<desc>Programação do canal NBA LEAGUE PASS 11.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(NewOrleansPelicans).us">
+<display-name>NBA LEAGUE PASS 12</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(NewOrleansPelicans).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 12</title>
+<desc>Programação do canal NBA LEAGUE PASS 12.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(NewOrleansPelicans).us">
+<display-name>NBA LEAGUE PASS 13</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(NewOrleansPelicans).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 13</title>
+<desc>Programação do canal NBA LEAGUE PASS 13.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(NYKnicks).us">
+<display-name>NBA LEAGUE PASS 14</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(NYKnicks).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 14</title>
+<desc>Programação do canal NBA LEAGUE PASS 14.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(NYKnicks).us">
+<display-name>NBA LEAGUE PASS 15</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(NYKnicks).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 15</title>
+<desc>Programação do canal NBA LEAGUE PASS 15.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Thunder).us">
+<display-name>NBA LEAGUE PASS 16</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Thunder).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 16</title>
+<desc>Programação do canal NBA LEAGUE PASS 16.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Thunder).us">
+<display-name>NBA LEAGUE PASS 17</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Thunder).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 17</title>
+<desc>Programação do canal NBA LEAGUE PASS 17.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Magic).us">
+<display-name>NBA LEAGUE PASS 18</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Magic).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 18</title>
+<desc>Programação do canal NBA LEAGUE PASS 18.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Magic).us">
+<display-name>NBA LEAGUE PASS 19</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Magic).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 19</title>
+<desc>Programação do canal NBA LEAGUE PASS 19.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(76ers).us">
+<display-name>NBA LEAGUE PASS 20</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(76ers).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 20</title>
+<desc>Programação do canal NBA LEAGUE PASS 20.</desc>
+<category>Entretenimento</category>
+</programme>
+<channel id="NBALeaguePass(Suns).us">
+<display-name>NBA LEAGUE PASS 21</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png"/>
+</channel>
+<programme start="20241109060000 +0000" stop="20241109070000 +0000" channel="NBALeaguePass(Suns).us">
+<title>Exemplo de Programa - NBA LEAGUE PASS 21</title>
+<desc>Programação do canal NBA LEAGUE PASS 21.</desc>
+<category>Entretenimento</category>
+</programme>
+</tv>
