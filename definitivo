@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="24H (ESP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy93gerbwmjzxyxr5"
+#EXTINF:-1 tvg-id="Canal24H.es" tvg-name="24H (ESP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",ABC NEWS (EUA)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3165
@@ -109,9 +109,9 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/2916
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30081
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us" tvg-name="FANDUEL DETROIT (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL DETROIT (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29476
-#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="FANDUEL FLORIDA (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL FLORIDA (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkFlorida.us" tvg-name="FANDUEL FLORIDA (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL FLORIDA (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30082
-#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="FANDUEL FLORIDA - ALT (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL FLORIDA - ALT (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkFlorida.us" tvg-name="FANDUEL FLORIDA - ALT (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL FLORIDA - ALT (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29474
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkFlorida.us" tvg-name="FANDUEL FLORIDA PLUS (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL FLORIDA PLUS (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29473
@@ -119,25 +119,25 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29473
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30083
 #EXTINF:-1 tvg-id="FanDuelSportsNetwork(Midwest).us" tvg-name="FANDUEL KANSAS CITY (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL KANSAS CITY (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29472
-#EXTINF:-1 tvg-id="BallySports(Midwest).us" tvg-name="FANDUEL MIDWEST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL MIDWEST (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(Midwest).us" tvg-name="FANDUEL MIDWEST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL MIDWEST (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29373
-#EXTINF:-1 tvg-id="BallySports(North).us" tvg-name="FANDUEL NORTH (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL NORTH (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(North).us" tvg-name="FANDUEL NORTH (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL NORTH (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30084
-#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="FANDUEL OKLAHOMA (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL OKLAHOMA (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkOklahoma.us" tvg-name="FANDUEL OKLAHOMA (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL OKLAHOMA (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30072
-#EXTINF:-1 tvg-id="BallySportsSoCal.us" tvg-name="FANDUEL SOCAL (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOCAL (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoCal.us" tvg-name="FANDUEL SOCAL (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOCAL (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/31053
-#EXTINF:-1 tvg-id="BallySports(South).us" tvg-name="FANDUEL SOUTH (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTH (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(South).us" tvg-name="FANDUEL SOUTH (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTH (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30078
-#EXTINF:-1 tvg-id="BallySports(Southeast).us" tvg-name="FANDUEL SOUTHEAST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTHEAST (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(Southeast).us" tvg-name="FANDUEL SOUTHEAST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTHEAST (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30077
-#EXTINF:-1 tvg-id="BallySports(Southeast).us" tvg-name="FANDUEL SOUTHEAST - ALT (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTHEAST - ALT (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(Southeast).us" tvg-name="FANDUEL SOUTHEAST - ALT (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTHEAST - ALT (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29754
 #EXTINF:-1 tvg-id="FanDuelSportsNetwork(Southwest).us" tvg-name="FANDUEL SOUTHWEST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL SOUTHWEST (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30076
-#EXTINF:-1 tvg-id="BallySports(West).us" tvg-name="FANDUEL WEST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL WEST (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(West).us" tvg-name="FANDUEL WEST (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL WEST (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30079
-#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="FANDUEL WISCONSIN (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL WISCONSIN (EUA)
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkWisconsin.us" tvg-name="FANDUEL WISCONSIN (EUA)" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_marketing_production%2Ffad1826fe508811c248deb708f5b40d65f148af5-1089x612.png&w=1920&q=100" group-title="ESPORTES" tvg-shift="-3",FANDUEL WISCONSIN (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30080
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png" group-title="ESPORTES" tvg-shift="-3",FOX DEPORTES (EUA)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/29694
@@ -163,7 +163,7 @@ http://mxu03.wanicelife.com:8880/D12m2439/62229525/3108
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30029
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC SPORTS BOSTON (EUA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/NBCSB-header-logo_2x.png?raw=true" group-title="ESPORTES" tvg-shift="-3",NBC SPORTS BOSTON (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29441
-#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC SPORTS NETWORK (EUA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/nbc-sports-2023.png?raw=true" group-title="ESPORTES" tvg-shift="-3",NBC SPORTS NETWORK (EUA)
+#EXTINF:-1 tvg-id="CNBCStream.us" tvg-name="NBC SPORTS NETWORK (EUA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/nbc-sports-2023.png?raw=true" group-title="ESPORTES" tvg-shift="-3",NBC SPORTS NETWORK (EUA)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3105
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC SPORTS PHILADELPHIA (EUA)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/NBCSP-header-logo_2x.png?raw=true" group-title="ESPORTES" tvg-shift="-3",NBC SPORTS PHILADELPHIA (EUA)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/30033
