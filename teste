@@ -1,25 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="es." tvg-name="ES094:M+ #VAMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES094#0.png" group-title="ES Deportes",ES094:M+ #VAMOS
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29298
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:M+ DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Deportes",ES097:M+ DEPORTES
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29295
-#EXTINF:-1 tvg-id="" tvg-name="ES098:M+ DEPORTES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Deportes",ES098:M+ DEPORTES 2
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29294
-#EXTINF:-1 tvg-id="" tvg-name="ES099:M+ DEPORTES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Deportes",ES099:M+ DEPORTES 3
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29293
-#EXTINF:-1 tvg-id="" tvg-name="ES100:M+ DEPORTES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Deportes",ES100:M+ DEPORTES 4
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29292
-#EXTINF:-1 tvg-id="" tvg-name="ES101:M+ DEPORTES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Deportes",ES101:M+ DEPORTES 5
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29291
-#EXTINF:-1 tvg-id="" tvg-name="ES102:M+ DEPORTES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Deportes",ES102:M+ DEPORTES 6
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29290
-#EXTINF:-1 tvg-id="" tvg-name="ES103:M+ DEPORTES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Deportes",ES103:M+ DEPORTES 7
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29289
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:MOVISTAR FORMULA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Deportes",ES157:MOVISTAR FORMULA 1
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29235
-#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:MOVISTAR FUTBOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Deportes",ES158:MOVISTAR FUTBOL
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29234
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:MOVISTAR GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="ES Deportes",ES159:MOVISTAR GOLF
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29233
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:MOVISTAR MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Deportes",ES160:MOVISTAR MOTOGP
-http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/29232
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV Dukagjini" tvg-logo="https://filedb.me/picons/albania/dukagjiniradio.default.png" group-title="Albania - Entertainment",ALB: TV Dukagjini
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114800
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring World" tvg-logo="https://filedb.me/picons/albania/Tring-World.png" group-title="Albania - Entertainment",ALB: Tring World
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114799
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Tring" tvg-logo="https://filedb.me/picons/albania/Tring-Tring.png" group-title="Albania - Kids",ALB: Tring Tring
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114798
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Super" tvg-logo="https://filedb.me/picons/albania/Tring-Super.png" group-title="Albania - Entertainment",ALB: Tring Super
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114797
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Sport News" tvg-logo="https://filedb.me/picons/albania/Tring-Sport-NewsHD.png" group-title="Albania - Sports",ALB: Tring Sport News
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114796
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Sport 4" tvg-logo="https://filedb.me/picons/albania/Tring-Sport4HD.png" group-title="Albania - Sports",ALB: Tring Sport 4
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114795
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Sport 3" tvg-logo="https://filedb.me/picons/albania/Tring-Sport3HD.png" group-title="Albania - Sports",ALB: Tring Sport 3
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114794
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Sport 2" tvg-logo="https://filedb.me/picons/albania/Tring-Sport2HD.png" group-title="Albania - Sports",ALB: Tring Sport 2
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114793
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring Sport 1" tvg-logo="https://filedb.me/picons/albania/Tring-Sport1HD.png" group-title="Albania - Sports",ALB: Tring Sport 1
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114792
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Tring 3 rezerv" tvg-logo="https://filedb.me/picons/albania/xxxxxxx.png" group-title="Albania - Entertainment",ALB: Tring 3 rezerv
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114791
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Travel" tvg-logo="https://filedb.me/picons/albania/travel-channel-int.png" group-title="Albania - Entertainment",ALB: Travel
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114790
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Top Channel" tvg-logo="https://filedb.me/picons/albania/top-channel-al.png" group-title="Albania - Entertainment",ALB: Top Channel
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114789
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TIP TV" tvg-logo="https://filedb.me/picons/albania/Tip-TV.png" group-title="Albania - Entertainment",ALB: TIP TV
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114788
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TEVE Doku HD" tvg-logo="https://filedb.me/picons/albania/xxxxxxx.png" group-title="Albania - Documentaries",ALB: TEVE Doku HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114787
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: T7" tvg-logo="https://filedb.me/picons/albania/T7.png" group-title="Albania - Entertainment",ALB: T7
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114786
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: T" tvg-logo="https://filedb.me/picons/albania/T-HD.png" group-title="Albania - Entertainment",ALB: T
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114785
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport Kosova 2" tvg-logo="https://filedb.me/picons/albania/supersport-kosova-2-al.png" group-title="Albania - Sports",ALB: Super Sport Kosova 2
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114783
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport Kosova 1" tvg-logo="https://filedb.me/picons/albania/supersport-kosova-1-al.png" group-title="Albania - Sports",ALB: Super Sport Kosova 1
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114782
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 7" tvg-logo="https://filedb.me/picons/albania/supersport-7-al.png" group-title="Albania - Sports",ALB: Super Sport 7
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114781
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 7 HD" tvg-logo="https://filedb.me/picons/albania/supersport-7-al.png" group-title="Albania - Sports",ALB: Super Sport 7 HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114780
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 6" tvg-logo="https://filedb.me/picons/albania/supersport-6-al.png" group-title="Albania - Sports",ALB: Super Sport 6
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114779
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 6 HD" tvg-logo="https://filedb.me/picons/albania/supersport-6-al.png" group-title="Albania - Sports",ALB: Super Sport 6 HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114778
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 5" tvg-logo="https://filedb.me/picons/albania/supersport-5-al.png" group-title="Albania - Sports",ALB: Super Sport 5
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114777
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 5 HD" tvg-logo="https://filedb.me/picons/albania/supersport-5-al.png" group-title="Albania - Sports",ALB: Super Sport 5 HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114776
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 4 HD" tvg-logo="https://filedb.me/picons/albania/supersport-4-al.png" group-title="Albania - Sports",ALB: Super Sport 4 HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114775
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 4" tvg-logo="https://filedb.me/picons/albania/supersport-4-al.png" group-title="Albania - Sports",ALB: Super Sport 4
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114774
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 3" tvg-logo="https://filedb.me/picons/albania/supersport-3-al.png" group-title="Albania - Sports",ALB: Super Sport 3
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114773
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 3 FHD" tvg-logo="https://filedb.me/picons/albania/supersport-3-al.png" group-title="Albania - Sports",ALB: Super Sport 3 FHD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114772
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 2 HD" tvg-logo="https://filedb.me/picons/albania/supersport-2-al.png" group-title="Albania - Sports",ALB: Super Sport 2 HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114771
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super Sport 2" tvg-logo="https://filedb.me/picons/albania/supersport-2-al.png" group-title="Albania - Sports",ALB: Super Sport 2
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114770
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Super sport 1" tvg-logo="https://filedb.me/picons/albania/supersport-1-al.png" group-title="Albania - Sports",ALB: Super sport 1
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114769
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Star Plus TV" tvg-logo="https://filedb.me/picons/albania/Star-Plus-HD.png" group-title="Albania - Movies and Series",ALB: Star Plus TV
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114768
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIZI" tvg-logo="https://filedb.me/picons/albania/dizi.png" group-title="Albania - Movies and Series",ALB: DIZI
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114767
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIZI HD" tvg-logo="https://filedb.me/picons/albania/dizi.png" group-title="Albania - Movies and Series",ALB: DIZI HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114766
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Scan TV" tvg-logo="https://filedb.me/picons/albania/scan-tv-al.png" group-title="Albania - Entertainment",ALB: Scan TV
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114765
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV Ora" tvg-logo="https://filedb.me/picons/albania/Ora-News.png" group-title="Albania - News",ALB: RTV Ora
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114764
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV Ora HD" tvg-logo="https://filedb.me/picons/albania/Ora-News.png" group-title="Albania - News",ALB: RTV Ora HD
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114763
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV 21" tvg-logo="https://filedb.me/picons/albania/rtv21.default.png" group-title="Albania - Entertainment",ALB: RTV 21
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114762
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV 21 Popullore" tvg-logo="https://filedb.me/picons/albania/21Popullore.png" group-title="Albania - Entertainment",ALB: RTV 21 Popullore
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114761
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV 21 Plus" tvg-logo="https://filedb.me/picons/albania/21PlusHD.png" group-title="Albania - Entertainment",ALB: RTV 21 Plus
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114760
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV 21 Macedonia" tvg-logo="https://filedb.me/picons/albania/RTV-21-MK.png" group-title="Albania - Entertainment",ALB: RTV 21 Macedonia
+http://pt.shortdns.xyz:80/PK62GMJC7V/R84zT02cdg/114759
