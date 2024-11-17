@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal24H.es" tvg-name="24H (ESP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
+#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="24H (ESP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",ABC NEWS (EUA)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3165
