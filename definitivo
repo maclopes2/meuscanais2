@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy93gerbwmjzxyxr5"
-#EXTINF:-1 tvg-id="Canal24H.es" tvg-name="24H (ESP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
+#EXTINF:-1 tvg-id="Canal24H.es" tvg-name="24H (ESP)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVE24.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",24H (ESP)
 http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/2601
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC NEWS (EUA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="NOTÍCIAS" tvg-shift="-3",ABC NEWS (EUA)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/3165
@@ -31,8 +31,96 @@ http://mxu03.wanicelife.com:8880/DAALM22011/ajvTHLEvb5/28835
 http://mxu03.wanicelife.com:8880/DAANM268/3GxrCD5ycf/3194
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS (UK)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",SKY NEWS (UK)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2886
-#EXTINF:-1 tvg-id="TV5Monde(FBSM).fr" tvg-name="TV5 MONDE (FR)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="NOTÍCIAS" tvg-shift="-3",TV5 MONDE (FR)
-http://mxu03.wanicelife.com:8880/D12m2439/62229525/28092
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",AMC (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3246
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",AXN (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3244
+#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN MOVIES (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",AXN MOVIES (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3243
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN WHITE (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",AXN WHITE (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3242
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINE MUNDO (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/CineMundo_2014.png/revision/latest/scale-to-width-down/250?cb=20240801165256" group-title="VARIADOS" tvg-shift="-3",CINE MUNDO (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3231
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",DISCOVERY CHANNEL (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3230
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65744
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2478
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO 2
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65741
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO 2 (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2480
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO FAMILY" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO FAMILY
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2479
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO MUNDI" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-mundi@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO MUNDI
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65745
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hboplus@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO PLUS
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65746
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hboplus@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO PLUS (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2477
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO SIGNATURE
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65749
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO SIGNATURE (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2476
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO XTREME" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png" group-title="VARIADOS" tvg-shift="-3",HBO XTREME
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65751
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTORIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",HISTORIA (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3215
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",HOLLYWOOD (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3214
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="INVESTIGATION DISCOVERY (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",INVESTIGATION DISCOVERY (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29367
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="NOS STUDIO (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",NOS STUDIO (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/29398
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",ODISSEIA (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3203
+#EXTINF:-1 tvg-id="FOX(src01).pt" tvg-name="STAR CHANNEL (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",STAR CHANNEL (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3220
+#EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="STAR COMEDY (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",STAR COMEDY (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3222
+#EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="STAR CRIME (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",STAR CRIME (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3221
+#EXTINF:-1 tvg-id="FOXLIFE(src01).pt" tvg-name="STAR LIFE (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",STAR LIFE (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3219
+#EXTINF:-1 tvg-id="FOXMovies(src01).pt" tvg-name="STAR MOVIES (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",STAR MOVIES (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3218
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="SYFY (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",SYFY (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3185
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE ACTION
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65800
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE ACTION (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2439
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE CULT
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65802
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE CULT (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2438
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE FUN
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65804
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE FUN (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2437
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE PIPOCA
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65806
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE PIPOCA (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2436
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE PREMIUM
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65808
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE PREMIUM (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2435
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE TOUCH
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/65810
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH (ALT)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="VARIADOS" tvg-shift="-3",TELECINE TOUCH (ALT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/2434
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="TRAVEL CHANNEL (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",TRAVEL CHANNEL (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3182
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TVCINE ACTION (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",TVCINE ACTION (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3179
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCINE EDITION (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",TVCINE EDITION (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3178
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCINE EMOTION (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",TVCINE EMOTION (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3180
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCINE TOP (PT)" tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="VARIADOS" tvg-shift="-3",TVCINE TOP (PT)
+http://mxu03.wanicelife.com:8880/D12m2439/62229525/3181
 #EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BEIN SPORTS 1 (FR)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS1.png?raw=true" group-title="ESPORTES" tvg-shift="-3",BEIN SPORTS 1 (FR)
 http://mxu03.wanicelife.com:8880/D12m2439/62229525/2830
 #EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="BEIN SPORTS 2 (FR)" tvg-logo="https://github.com/maclopes2/meuscanais2/blob/main/BS2.png?raw=true" group-title="ESPORTES" tvg-shift="-3",BEIN SPORTS 2 (FR)
